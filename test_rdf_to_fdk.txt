@@ -1,0 +1,36 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+ 
+<http://helsedata.no> a dcat:Catalog ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/SENSITIVE> ;
+    dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
+The regististry is the source of the official cause of death statistics for Norway."""@en,
+        """Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge.
+Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
+    dct:issued "1928-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:spatial <Norway> ;
+    dct:title "Norwegian Cause of Death Registry"@en,
+        "Dødsårsaksregisteret"@nb ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+ 
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/SENSITIVE> ;
+    dct:description "The Cancer Registry of Norway collects data and produce statistics on the cancer prevalence in Norway, and has an extensive research activity. The Cancer Registry of Norway was established in 1951 and has complete data from 1953 and onwards. The information comes from multiple sources, both in the health care service (pathology, clinicians) and from other registries (Cause of Death Registry, Norwegian Patient Registry, National Registry)"@en,
+        "Kreftregisteret inneholder informasjon tilbake til 1953 om alle krefttilfeller, forstadier til kreft og enkelte benigne svulster i Norge. Informasjonen kommer fra flere kilder, både i helsetjenesten (patologi, klinikk, stråleterapimaskiner og systemer for medikamentell behandling) og fra andre registre (Dødsårsaksregisteret, Norsk Pasientregister, Folkeregisteret)."@nb ;
+    dct:issued "1953-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:spatial <Norway> ;
+    dct:title "Cancer Registry of Norway"@en,
+        "Kreftregisteret"@nb ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
