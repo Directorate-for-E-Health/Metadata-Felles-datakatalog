@@ -1,19 +1,56 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://helsedata.no> a dcat:Catalog ;
-    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
-    dct:title "Health registries"@en,
-        "Helseregistre"@nb ;
-    dcat:dataset <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/>,
-        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
-    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Norwegian Registry of Pregnancy Termination"@en,
+        "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Norwegian Cause of Death Registry"@en,
+        "Dødsårsaksregisteret"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Medical Birth Registry of Norway"@en,
+        "Medisinsk Fødselsregister"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Norwegian Cardiovascular Disease Registry"@en,
+        "Hjerte- og karregisteret"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Norwegian Immunisation Registry SYSVAK"@en,
+        "Nasjonalt vaksinasjonsregister"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Norwegian Prescription Database (NorPD)"@en,
+        "Reseptregisteret"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution> a dcat:Distribution ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Cancer Registry of Norway"@en,
+        "Kreftregisteret"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
@@ -27,6 +64,12 @@ Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle 
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
@@ -42,6 +85,12 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Cause of Death Registry"@en,
         "Dødsårsaksregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> a dcat:Dataset ;
@@ -55,6 +104,12 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Medical Birth Registry of Norway"@en,
         "Medisinsk Fødselsregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "FHI"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> a dcat:Dataset ;
@@ -74,6 +129,12 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Hjerte- og karregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> a dcat:Dataset ;
@@ -87,6 +148,12 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Nasjonalt vaksinasjonsregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/> a dcat:Dataset ;
@@ -100,6 +167,12 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "Reseptregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> a dcat:Dataset ;
@@ -114,4 +187,24 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Cancer Registry of Norway"@en,
         "Kreftregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Kreftregisteret"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution> ;
+    dcat:keyword "['Health', 'Health registry', 'Health data']"@en,
+        "['Helse', 'Helseregister', 'Helsedata']"@nb ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<http://helsedata.no> a dcat:Catalog ;
+    dct:identifier "http://helsedata.no" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
