@@ -4,7 +4,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
@@ -12,7 +12,7 @@
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Norwegian Cause of Death Registry"@en,
         "Dødsårsaksregisteret"@nb ;
@@ -20,15 +20,15 @@
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Medical Birth Registry of Norway"@en,
         "Medisinsk Fødselsregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> a dcat:Distribution ;     
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> a dcat:Distribution ;
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Hjerte- og karregisteret"@nb ;
@@ -36,7 +36,7 @@
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Nasjonalt vaksinasjonsregister"@nb ;
@@ -44,7 +44,7 @@
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "Reseptregisteret"@nb ;
@@ -52,7 +52,7 @@
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution> a dcat:Distribution ;
-    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,       
+    dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
     dct:title "Cancer Registry of Norway"@en,
         "Kreftregisteret"@nb ;
@@ -63,8 +63,7 @@
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:creator <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
     dct:description "The Registry of Pregnancy Termination collects data about pregnancy terminations in Norway from 1979 onwards, and available for research and health surveillance."@en,
-        """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge 
-og inneholder data tilbake til 1979.
+        """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge og inneholder data tilbake til 1979. 
 Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
     dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/" ;
     dct:issued "1979-01-01"^^xsd:date ;
@@ -83,8 +82,7 @@ Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:creator <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
-    dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history 
-from 1951. Deaths of non-citizens is included after medio-2012.
+    dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
 The regististry is the source of the official cause of death statistics for Norway."""@en,
         """Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge.
 Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
@@ -95,6 +93,7 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
     dct:title "Norwegian Cause of Death Registry"@en,
         "Dødsårsaksregisteret"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasEmail <mailto:datatilgang@fhi.no> ;
             ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
             ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> ;
@@ -140,7 +139,7 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
             ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> ] ;
-    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> ;   
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> ;
     dcat:keyword "Health, Health registry, Health data"@en,
         "Helse, Helseregister, Helsedata"@nb ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
