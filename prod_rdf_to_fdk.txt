@@ -6,7 +6,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/>;
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -15,7 +15,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Norwegian Cause of Death Registry"@en,
         "Dødsårsaksregisteret"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -24,7 +24,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Medical Birth Registry of Norway"@en,
         "Medisinsk Fødselsregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -33,7 +33,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Hjerte- og karregisteret"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -42,7 +42,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Nasjonalt vaksinasjonsregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -51,7 +51,7 @@
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "Reseptregisteret"@nb ;
     dcat:accessURL <http://helsedata.no> ;
@@ -60,7 +60,7 @@
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution> a dcat:Distribution ;
     dct:description "Helsedata.no provides guidance and tools to access high quality health data for research and innovation purposes."@en,
         "Helsedata.no hjelper deg å finne datakilder og å søke om tilgang til helseopplysninger til forskning, helseanalyse, kvalitetsarbeid i helsetjenestene, redaksjonelt arbeid, utvikling av legemidler eller andre helserelaterte prosjekter."@nb ;
-    dct:rights <['https://data.norge.no/nlod/no/2.0/']> ;
+    dct:rights <https://data.norge.no/nlod/no/2.0/> ;
     dct:title "Cancer Registry of Norway"@en,
         "Kreftregisteret"@nb ;
     dcat:accessURL <http://helsedata.no> ;
