@@ -106,7 +106,7 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
             ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution> ;
     dcat:keyword "Health, Health registry, Health data"@en,
-        "Helse, Helseregister, Helsedata"@nb ;
+        "Helse, Helseregister, Helsedata,Datakilde,Geografi,Obduksjon,Klassifisering,Obduksjon,Dødsfall,Avdøde"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
@@ -212,7 +212,7 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
             ns1:hasURL <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution> ;
     dcat:keyword "Health, Health registry, Health data"@en,
-        "Helse, Helseregister, Helsedata"@nb ;
+        "Helse, Helseregister, Helsedata,KRG Administrasjon,Oppfølging og tiltak,Behandling (ikke nærmere spesifisert),Sykehistorie,PROMs,Person,Institusjon,Diagnostikk (ikke nærmere spesifisert)"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
