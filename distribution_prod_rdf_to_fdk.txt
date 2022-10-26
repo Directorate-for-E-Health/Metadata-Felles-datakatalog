@@ -6,20 +6,26 @@
 <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret//distribution/18000505100> a dcat:Distribution ;
     dct:description "The Health Archive Registry is established in the Norwegian Health Archive and consists of patient archives from the specialist health care services, for deceased patients."@en,
         "Helsearkivregisteret er et sentralt helseregister som består av pasientarkiv fra spesialisthelsetjenesten for avdøde personer"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "The Health Archive Registry "@en,
         "Datasamling NHA"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38000415101> a dcat:Distribution ;
     dct:description "The Registry of Pregnancy Termination collects data about pregnancy terminations in Norway from 1979 onwards, and available for research and health surveillance."@en,
         """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge og inneholder data tilbake til 1979. 
 Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/18000404103> a dcat:Distribution ;
@@ -27,29 +33,38 @@ Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle 
 The regististry is the source of the official cause of death statistics for Norway."""@en,
         """Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge.
 Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Cause of Death Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000449100> a dcat:Distribution ;
     dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en,
         "Assistert Reproduktiv Teknologi"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Assisted Reproductive Technology"@en,
         "Assistert Reproduktiv Teknologi"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/28000449108> a dcat:Distribution ;
     dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en,
         """Medisinsk fødselsregister er et nasjonalt helseregister over medisinske forhold ved svangerskap, fødsler og nyfødte i Norge, og inneholder data tilbake til 1967. Opplysningene i registeret gir kunnskap om kvinners helse og dødelighet under svangerskap, fødsel og barselperioden. I tillegg registreres barns helse og dødelighet i forbindelse med svangerskap og fødsel.
 Folkehelseinstituttet forvalter Medisinsk fødselsregister og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Medical Birth Registry of Norway"@en,
         "Svangerskap fødsler og nyfødte"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution/28000427101> a dcat:Distribution ;
@@ -61,92 +76,122 @@ The registry consists of a base registry and several quality registries. The bas
 Registeret er organisert som et basisregister med tilknyttede medisinske kvalitetsregistre. Basisregisteret inneholder alle dødsfall og innleggelser eller polikliniske konsultasjoner ved norske sykehus for pasientgruppen, hentet fra Norsk pasientregister og Dødsårsaksregisteret. De medisinske kvalitetsregistrene fokuserer på en spesiell pasientgruppe eller behandlingsform og inneholder mer detaljerte opplysninger om sine spesialiserte fagområder.
 
 Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000405106> a dcat:Distribution ;
     dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en,
         "Nasjonalt vaksinasjonsregister SYSVAK - Nasjonalt vaksinasjonsregister SYSVAK er et landsdekkende elektronisk vaksinasjonsregister etablert i 1995. Inntil oktober 2009 omfattet meldeplikten til SYSVAK bare vaksiner gitt i barnevaksinasjonsprogrammet. Under influensapandemien i 2009 ble det innført meldeplikt også for vaksine mot pandemisk influensa. Fra januar 2011 ble meldeplikten utvidet til å gjelde alle vaksinasjoner for alle aldersgrupper i befolkningen. Helsepersonell som vaksinerer har ansvar for registrering og melding av korrekte vaksinasjonsopplysninger til SYSVAK. Formålet med SYSVAK er å holde oversikten over vaksinasjonsstatus for den enkelte og over vaksinasjonsdekningen i landet. SYSVAK bidrar til å utvikle og fremme kvaliteten på de vaksinene som tilbys i og utenfor program ved at data benyttes til å overvåke effekten av de ulike vaksinene og til vaksinerelatert forskning. Ved bruk av SYSVAK kan man også sikre at alle får tilbud om de vaksinene de skal ha gjennom barnevaksinasjonsprogrammet, og tilhørende program. Registeret publiserer statistikk som er tilgjengelig på FHIs nettside og Kommunehelsa statistikkbank."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution/18000464100> a dcat:Distribution ;
     dct:description "The Prescription Database gives an overview over all prescription drugs dispensed from pharmacies in Norway. Drugs used in hospitals, nursing homes and for animals are also included."@en,
         "Reseptregisteret inneholder opplysninger om alle legemiddel som er utlevert etter resept på apotek fra og med 2004. Også legemiddel til sykehus/sykehjem inngår, men ikke på individnivå. Registeret inneholder også opplysninger om utlevering av legemiddel til dyr. I tillegg publiserer registeret statistikk som er offentlig tilgjengelig."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         """ReseptregisteretUtlevering
 """@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister//distribution/38000420101> a dcat:Distribution ;
     dct:description "The establishment of the registry was mandated by the Health Registry Act of 2005, with the Ministry of Defense and the Norwegian Armed Forces Joint Medical Services being charged with its implementation and maintenance. The purpose of the registry is to monitor the health of the Armed Forces personnel and to identify risk-factors associated with military service. Persons who have been employed in the Armed Forces and those who were examined by the Norwegian concription board prior to military service are included in the registry. "@en,
         "Registeret omfatter alle personer i Norge som er eller har vært ansatt i Forsvaret eller som har blitt vurdert for tjeneste i Forsvaret på sesjon. De viktigste data i registeret er helsopplysninger som samles inn på sesjon før militærtjeneste. Registeret inneholder sesjonsopplysninger for flertallet av norske menn født etter 1950  og for kvinner som har søkt seg til Forsvaret. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "The Norwegian Armed Forces Health Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/18000532106> a dcat:Distribution ;
     dct:description "National Clinical Registry for Prostate Cancer contains variables specific for diagnostics, treatment and follow-up of prostate cancer. Some of the variables have been collected since 2004, but most were established in 2009, when the registry got national status. The information comes from multiple sources, see information about the Cancer Registry. "@en,
         "Nasjonalt kvalitetsregister for prostatakreft inneholder variablene som er spesifikke for utredning, behandling og oppfølging av prostatakreft. Enkelte av variablene er samlet inn siden 2004, men de fleste er etablert i forbindelse med at registeret fikk nasjonal status i 2009. Informasjonen kommer fra flere kilder, se informasjon om Kreftregisteret generelt. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Prostate Cancer"@en,
         "Nasjonalt kvalitetsregister for prostatakreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/28000532102> a dcat:Distribution ;
     dct:description "Core variables - additional contain information about variables that are not included in dataproducts at the Health Analysis Platform, but can be found in the Cancer Registry and can be delivered from there."@en,
         "Kjernevariabler - ekstra inneholder informasjon om variabler som i utgangspunktet ikke er inkludert i dataprodukt på Helseanalyseplattformen, men som finnes i Kreftregisteret og kan leveres ut derfra. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Core variables - additional"@en,
         "Kjernevariabler - ekstra"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/48000532105> a dcat:Distribution ;
     dct:description "National Clinical Registry for Lymphoid Malignancies contains variables specific for diagnostics, treatment and follow-up of lymphoid malignancies. The information comes from multiple sources, see information about the Cancer Registry. "@en,
         "Nasjonalt kvalitetsregister for lymfoide maligniteter inneholder variablene som er spesifikke for utredning, behandling og oppfølging av lymfoide maligniteter. Informasjonen kommer fra flere kilder, se informasjon om Kreftregisteret generelt. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Lymphoid Malignancies"@en,
         "Nasjonalt kvalitetsregister for lymfoide maligniteter"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/58000532107> a dcat:Distribution ;
     dct:description "Core variables - incidence contains information about what is internationally considered the most important variables for describing the incidence of cancer. The core variables are common to all cancers sites and is the basis for most data deliveries from the Cancer Registry. All cases of cancer and certain premalignant and benign tumors are included in this dataset. The cancer cases that are included in the Cancer Registry's annual statistics \"Cancer in Norway\" (a smaller dataset based on international rules on incidence) are marked specifically in the data set (see metadata)."@en,
         "Kjernevariabler - insidens inneholder informasjon om det som internasjonalt anses som de viktigste variablene for å beskrive forekomst (insidens) av kreft. Kjernevariablene er felles for alle kreftformer og danner grunnlaget for de aller fleste utleveringer fra Kreftregisteret. Alle krefttilfeller og enkelte forstadier og benigne svulster er inkludert i dette datasettet. De krefttilfellene som er inkludert i Kreftregisterets årlige statistikk \"Cancer in Norway\" (et mindre utvalg basert på internasjonale regler for insidens) er markert spesifikt i datasettet (se metadata). "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "Core variables - incidence"@en,
         "Kjernevariabler - insidens"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/88000532103> a dcat:Distribution ;
     dct:description "National Clinical Registry for Lung Cancer contains variables specific for diagnostics, treatment and follow-up of lung cancer. The information comes from multiple sources, see information about the Cancer Registry. "@en,
         "Nasjonalt kvalitetsregister for lungekreft inneholder variablene som er spesifikke for utredning, behandling og oppfølging av lungekreft. Informasjonen kommer fra flere kilder, se informasjon om Kreftregisteret generelt. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Lung Cancer"@en,
         "Nasjonalt kvalitetsregister for lungekreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/98000532100> a dcat:Distribution ;
     dct:description "National Clinical Registry for Colorectal Cancer contains variables specific for diagnostics, treatment and follow-up of colorectal cancer. The information comes from multiple sources, see information about the Cancer Registry. "@en,
         "Nasjonalt kvalitetsregister for tykk- og endetarmskreft inneholder variablene som er spesifikke for utredning, behandling og oppfølging av tykk- og endetarmskreft. Informasjonen kommer fra flere kilder, se informasjon om Kreftregisteret generelt. "@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Colorectal Cancer"@en,
         "Nasjonalt kvalitetsregister for tykk- og endetarmskreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
 <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> a dcat:Dataset ;
@@ -325,7 +370,7 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
         <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/88000532103>,
         <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/98000532100> ;
     dcat:keyword "Health, Health registry, Health data"@en,
-        "Helse, Helseregister, Helsedata,Sykehistorie,KRG Administrasjon,Oppfølging og tiltak,Diagnostikk (ikke nærmere spesifisert),Behandling (ikke nærmere spesifisert),PROMs,Person,Institusjon"@nb ;
+        "Helse, Helseregister, Helsedata"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
@@ -344,4 +389,4 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
         <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/>,
         <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
-    
+
