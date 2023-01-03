@@ -18,12 +18,60 @@
     dcat:landingPage <https://helsedata.no/NHDS> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
+<https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dödsorsaksregistret/distribution/38001177101> a dcat:Distribution ;
+    dct:description "Dödsorsaksregistret är ett nationellt register över  dödsfall bland personer folkbokförda i Sverige och innehåller data från 1952. Från och med 1997 innehåller registret samtliga dödsfall i Sverige."@nb ;
+    dct:format <JSON> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Dödsorsaksregistret"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dødsårsaksregisteret/distribution/18001177109> a dcat:Distribution ;
+    dct:description """Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge.
+Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
+    dct:format <JSON> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "Dødsårsaksregisteret"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Norwegian-cause-of-death-registry/distribution/58001177105> a dcat:Distribution ;
+    dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
+The regististry is the source of the official cause of death statistics for Norway."""@nb ;
+    dct:format <JSON> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Norwegian cause of death registry"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Swedish-cause-of-death-registry/distribution/78001177103> a dcat:Distribution ;
+    dct:format <JSON> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Swedish cause of death registry"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/distribution/28001177104> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "National Cause of Death Registers"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/NHDS/National-Health-Registers/distribution/48001177108> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "National Health Registers"@nb ;
+    dcat:accessURL <https://github.com/> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
 <https://helsedata.no/NHDS/National-Health-Registers> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:identifier "https://helsedata.no/NHDS/National-Health-Registers" ;
     dct:isPartOf "https://helsedata.no/NHDS/National-Health-Registers" ;
     dct:title "National Health Registers"@nb ;
     dcat:contactPoint [ a ns1:Organization ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/distribution/48001177108> ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers> .
 
 <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers> a dcat:Dataset ;
@@ -32,10 +80,12 @@
     dct:isPartOf "https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers" ;
     dct:title "National Cause of Death Registers"@nb ;
     dcat:contactPoint [ a ns1:Organization ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/distribution/28001177104> ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers> .
 
 <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dödsorsaksregistret> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:conformsTo <ICD-10> ;
     dct:description "Dödsorsaksregistret är ett nationellt register över  dödsfall bland personer folkbokförda i Sverige och innehåller data från 1952. Från och med 1997 innehåller registret samtliga dödsfall i Sverige."@nb ;
     dct:identifier "https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dödsorsaksregistret" ;
     dct:issued "1952-01-01"^^xsd:date ;
@@ -43,11 +93,13 @@
     dct:title "Dödsorsaksregistret"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dödsorsaksregistret/distribution/38001177101> ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dödsorsaksregistret> ;
     dcat:theme <Health> .
 
 <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dødsårsaksregisteret> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:conformsTo <ICD-10> ;
     dct:description """Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge.
 Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
     dct:identifier "https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dødsårsaksregisteret" ;
@@ -57,6 +109,7 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
             ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dødsårsaksregisteret/distribution/18001177109> ;
     dcat:keyword "Helse, folkehelse, helsedata, metadata,"@en ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/Dødsårsaksregisteret> ;
     dcat:theme <Health> .
@@ -64,6 +117,7 @@ Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å be
 <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Norwegian-cause-of-death-registry> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:conformsTo <ICD-10> ;
     dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
 The regististry is the source of the official cause of death statistics for Norway."""@nb ;
     dct:identifier "https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Norwegian-cause-of-death-registry" ;
@@ -73,12 +127,14 @@ The regististry is the source of the official cause of death statistics for Norw
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasOrganizationName "Norwegian Institute of Public Health"@nb ;
             ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Norwegian-cause-of-death-registry/distribution/58001177105> ;
     dcat:keyword "Health, Public Health, Health data, cause of death,"@en ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Norwegian-cause-of-death-registry> ;
     dcat:theme <Health> .
 
 <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Swedish-cause-of-death-registry> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:conformsTo <ICD-10> ;
     dct:identifier "https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Swedish-cause-of-death-registry" ;
     dct:issued "1952-01-01"^^xsd:date ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//SWE> ;
@@ -86,5 +142,6 @@ The regististry is the source of the official cause of death statistics for Norw
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasOrganizationName "The Swedish National Board of Health and Welfare"@nb ;
             ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Swedish-cause-of-death-registry/distribution/78001177103> ;
     dcat:landingPage <https://helsedata.no/NHDS/National-Health-Registers/National-Cause-of-Death-Registers/The-Swedish-cause-of-death-registry> ;
     dcat:theme <Health> .
