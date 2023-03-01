@@ -1,0 +1,195 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.com/.well-known/skolem/5f7f108b-f086-4a8b-a2b4-d12491c91cea> a dcat:Catalog ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:title "Nordic health registers_NordicCommons_ PoC"@nb ;
+    dcat:contactPoint [ a ns1:Organization ] ;
+    dcat:dataset <http://example.com/.well-known/skolem/27a3ea07-72ac-423c-8f7c-985a686f9a65>,
+        <http://example.com/.well-known/skolem/72719019-6dfa-48dd-b0ae-ea1a3efdcbad>,
+        <http://example.com/.well-known/skolem/89a3ab4d-0db1-41d9-90d1-ca8149b5a2ec>,
+        <http://example.com/.well-known/skolem/d42f59e1-113c-488d-9391-dd646c0297f9> ;
+    dcat:landingPage <> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+</distribution/18001310105> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Real data/Micro data/Data products. Sensitive/Anonymized/Statistics/Synthetic/Example data/Test data."@en ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Norwegian cause of death registry_Dataset_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/38001310100> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Metadata about data quality (Quality of the data in the data source)"@en ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Norwegian cause of death registry_DataQuality_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/48001310109> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Metadata about the variabels in the data source"@en ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Norwegian cause of death registry_Variabels_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/58001310106> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "DCAT-based machine readable metadata about the data source itself"@en ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:title "The Norwegian cause of death registry_Distribution_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/']> ;
+    dcat:downloadURL <['https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl']> ;
+    dcat:language <['EN']> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/68001310108> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
+    dct:format <SWE> ;
+    dct:title "The Swedish cause of death registry_Distribution_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://www.socialstyrelsen.se/statistik-och-data/register/dodsorsaksregistret/']> ;
+    dcat:downloadURL <['https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/78001310102> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
+    dct:format <IS> ;
+    dct:modified "2019-01-15"^^xsd:date ;
+    dct:title "The Icelandic Causes of Death Register_Distribution_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://www.landlaeknir.is/tolfraedi-og-rannsoknir/gagnasofn/gagnasafn/item15417/Danarmeinaskra-(Causes-of-Death-Register)']> ;
+    dcat:downloadURL <['https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+</distribution/88001310104> a dcat:Distribution ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
+    dct:format <FI> ;
+    dct:modified "2022-10-10"^^xsd:date ;
+    dct:title "Causes of death - research data_Distribution_EHDS2_ PoC"@nb ;
+    dcat:accessURL <['https://stat.fi/en/statistics/ksyyt']> ;
+    dcat:downloadURL <['https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl']> ;
+    dcat:language <['EN']> ;
+    dcat:mediaType <Yes> ;
+    dcat:packageFormat <JSON> .
+
+<http://example.com/.well-known/skolem/27a3ea07-72ac-423c-8f7c-985a686f9a65> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description "The Icelandic Causes of Death Register is a national health register maintained by the Directorate of Health in Iceland on the basis of the Medical Director of Health and Public Health Act, No. 41/2007. It contains data on all deaths of individuals with a legal domicile in Iceland at time of death, irrespective of country of death. Electronic data goes back to 1971. The register is the source of official data on causes of death in Iceland."@en ;
+    dct:language <EN> ;
+    dct:modified "2019-03-01"^^xsd:date ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country//IS> ;
+    dct:title "The Icelandic Causes of Death Register_EHDS2_ PoC"@nb ;
+    dct:type <https://www.wikidata.org/wiki/Q45959> ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution </distribution/78001310102> ;
+    dcat:landingPage <https://www.landlaeknir.is/tolfraedi-og-rannsoknir/gagnasofn/gagnasafn/item15417/Danarmeinaskra-(Causes-of-Death-Register)> .
+
+<http://example.com/.well-known/skolem/72719019-6dfa-48dd-b0ae-ea1a3efdcbad> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
+The regististry is the source of the official cause of death statistics for Norway."""@en ;
+    dct:language <EN> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country//NOR> ;
+    dct:title "The Norwegian cause of death registry_NordicCommons_ PoC"@nb ;
+    dct:type <https://www.wikidata.org/wiki/Q45959> ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no> ] ;
+    dcat:distribution </distribution/18001310105>,
+        </distribution/38001310100>,
+        </distribution/48001310109>,
+        </distribution/58001310106> ;
+    dcat:landingPage <https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/> .
+
+<http://example.com/.well-known/skolem/89a3ab4d-0db1-41d9-90d1-ca8149b5a2ec> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description """Statistics Finland produces annually statistics about deaths, causes of death, and conditions of death and maintains a death certificate archive that can be used to provide death certificate information or death certificate copies for purposes specified in the law. The data are compiled on the basis of death certificates. The data are supplemented with and verified against the data on deaths from the Population Information System of the Population Register Centre.
+
+The database includes all individuals who have died in Finland or abroad since 1971 if they have a Finnish personal identity code and if their death has been recorded in the Finnish Population Information System maintained by the Population Register Centre. The database is updated every year 13 months after the statistical year. The previous years' data are also updated during annual updates (due to deaths previously not recorded or a correction to the cause of death). Data on stillborn babies are not included in the research database but they can be separately extracted from the statistical database.
+
+All the deceased do not have causes of death. These cases usually concern people who did not have a permanent residence in Finland at the time of death. Possible exceptions in the availability of the data have been noted in the variable description.
+
+You can apply for a licence to access the basic variables or other variables needed for research. The basic variables include year of death (kvuosi), date of death (kuolpvm), statistical underlying cause of death (tpks), over time harmonized 54-class statistical underlying cause of death (tpksaika), immediate cause of death (vks) and 1st to 4th contributing cause of death (m1-m4). Cause of death data can be combined in the remote access use (FIONA) to other datasets, for example, FOLK ready-made individual-level modules, and the data thus formed can be used to examine e.g. how socio-economic factors affect mortality or the connection between occupation and mortality.
+
+For more information, contact Statistics Finland's research services: tutkijapalvelut@tilastokeskus.fi .
+The key between the short list in the time series of the causes of death since 1969 and the earlier classifications:
+https://www.stat.fi/til/ksyyt/ksyyt_2018-11-12_luo_001_en.html.
+
+The underlying cause of death is determined according to the selection and application rules of the International Classification of Diseases (ICD-10) compiled by the World Health Organisation (WHO). In different years different versions of the ICD have been used:
+
+1969-1986: ICD-8, 1987-1995: ICD-9 (Classification of Diseases 1987), from 1998 on: ICD-10. In addition, there are national additions made to the classifications.
+
+R999 = no death certificate (persons permanently living in Finland who died during the statistical year)
+K754 = Autoimmune hepatitis
+W71 = Falling through ice
+G4051 = Alcoholic Epilepsy
+K8600 = Sudden pancreatitis caused by alcohol (1998-2006), since 2007 the code has been K852
+
+V865-V869 = Injury to the driver or passenger in a snowmobile or other off-road vehicle accident:
+- The code has been added a fifth digit where 0 = injury on ice, 8 = injury elsewhere outside of traffic
+
+X85-Y06 murders, killings, and other intentional assaults:
+-the 3-digit code has been added a code for the perpetrator:
+0 = spouse/partner
+10 = parents
+11 = victim’s child
+2 = acquaintance/friend
+3 = public officer
+8 = other identified perpetrator
+9 = perpetrator unknown
+
+1996-97:
+-For A000-R99 ICD-10
+- For V010-Y899 ICD-10 national version with the following exceptions:
+- W00-X29 only 3 digits in 1996
+- X40-X44 1 added as a 4th digit in 1996
+
+1987-95: 1987 classification of diseases and Statistics Finland’s qualifications for the 1987 E-classification (see the annual publications Causes of death and Health from the time in question)
+
+1971-86: ICD-8 with external causes beginning with E (800-999 --> E800-E999).
+
+Further information on the data can be found on the Causes of death statistics webpage."""@en ;
+    dct:language <EN> ;
+    dct:modified "2020-03-01"^^xsd:date ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country//FI> ;
+    dct:title "Causes of death - research data_EHDS2_ PoC"@nb ;
+    dct:type <https://www.wikidata.org/wiki/Q45959> ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://www.stat.fi/tup/tutkimusaineistot/index_en.html> ] ;
+    dcat:distribution </distribution/88001310104> ;
+    dcat:landingPage <https://stat.fi/en/statistics/ksyyt> .
+
+<http://example.com/.well-known/skolem/d42f59e1-113c-488d-9391-dd646c0297f9> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description "Dödsorsaksregistret är ett nationellt register över  dödsfall bland personer folkbokförda i Sverige och innehåller data från 1952. Från och med 1997 innehåller registret samtliga dödsfall i Sverige."@en ;
+    dct:language <EN> ;
+    dct:modified "2018-03-01"^^xsd:date ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country//SWE> ;
+    dct:title "The Swedish cause of death registry_EHDS2_ PoC"@nb ;
+    dct:type <https://www.wikidata.org/wiki/Q45959> ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://www.socialstyrelsen.se/statistik-och-data/register/dodsorsaksregistret/> ] ;
+    dcat:distribution </distribution/68001310108> ;
+    dcat:landingPage <https://www.socialstyrelsen.se/statistik-och-data/register/dodsorsaksregistret/> .
+
