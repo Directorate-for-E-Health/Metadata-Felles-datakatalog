@@ -53,7 +53,7 @@ X85-Y06 murders, killings, and other intentional assaults:
 
 Further information on the data can be found on the Causes of death statistics webpage."""@en ;
     dct:identifier "https://helsedata.fi/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
-    dct:language <EN> ;
+    dct:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dct:modified "2020-03-01"^^xsd:date ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//FI> ;
     dct:title "Causes of death - research data_EHDS2_ PoC"@nb ;
@@ -66,21 +66,21 @@ Further information on the data can be found on the Causes of death statistics w
 <https://helsedata.fi/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/88001310104> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:modified "2022-10-10"^^xsd:date ;
     dct:title "Causes of death - research data_Distribution_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://stat.fi/en/statistics/ksyyt> ;
     dcat:downloadURL <https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.is/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
     dct:description "The Icelandic Causes of Death Register is a national health register maintained by the Directorate of Health in Iceland on the basis of the Medical Director of Health and Public Health Act, No. 41/2007. It contains data on all deaths of individuals with a legal domicile in Iceland at time of death, irrespective of country of death. Electronic data goes back to 1971. The register is the source of official data on causes of death in Iceland."@en ;
     dct:identifier "https://helsedata.is/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
-    dct:language <EN> ;
+    dct:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dct:modified "2019-03-01"^^xsd:date ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//IS> ;
     dct:title "The Icelandic Causes of Death Register_EHDS2_ PoC"@nb ;
@@ -93,14 +93,14 @@ Further information on the data can be found on the Causes of death statistics w
 <https://helsedata.is/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/78001310102> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:modified "2019-01-15"^^xsd:date ;
     dct:title "The Icelandic Causes of Death Register_Distribution_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://island.is/gagnasofn/eydublod-breytulistar> ;
     dcat:downloadURL <https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no> a dcat:Catalog ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
@@ -118,53 +118,53 @@ Further information on the data can be found on the Causes of death statistics w
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/18001310105> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "Real data/Micro data/Data products. Sensitive/Anonymized/Statistics/Synthetic/Example data/Test data."@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:title "The Norwegian cause of death registry_Dataset_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38001310100> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "Metadata about data quality (Quality of the data in the data source)"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:title "The Norwegian cause of death registry_DataQuality_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/48001310109> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "Metadata about the variabels in the data source"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:title "The Norwegian cause of death registry_Variabels_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/58001310106> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "DCAT-based machine readable metadata about the data source itself"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:title "The Norwegian cause of death registry_Distribution_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://helsedata.no/en/forvaltere/norwegian-institute-of-public-health/norwegian-cause-of-death-registry/> ;
     dcat:downloadURL <https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl> ;
-    dcat:language <['EN']> ;
-    dcat:packageFormat <JSON> .
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.se/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
     dct:description "Dödsorsaksregistret är ett nationellt register över  dödsfall bland personer folkbokförda i Sverige och innehåller data från 1952. Från och med 1997 innehåller registret samtliga dödsfall i Sverige."@en ;
     dct:identifier "https://helsedata.se/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
-    dct:language <EN> ;
+    dct:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dct:modified "2018-03-01"^^xsd:date ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//SWE> ;
     dct:title "The Swedish cause of death registry_EHDS2_ PoC"@nb ;
@@ -177,13 +177,13 @@ Further information on the data can be found on the Causes of death statistics w
 <https://helsedata.se/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/68001310108> a dcat:Distribution ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "DCAT-based and machine readable metadata in JSON-format"@en ;
-    dct:format <JSON> ;
+    dct:format <https://www.iana.org/assignments/media-types/application/json> ;
     dct:title "The Swedish cause of death registry_Distribution_EHDS2_ PoC"@nb ;
     dcat:accessURL <https://www.socialstyrelsen.se/statistik-och-data/register/dodsorsaksregistret/> ;
     dcat:downloadURL <https://github.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/blob/main/Nordic_catalog.ttl> ;
-    dcat:language <['EN']> ;
+    dcat:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dcat:mediaType <Yes> ;
-    dcat:packageFormat <JSON> .
+    dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
@@ -191,7 +191,7 @@ Further information on the data can be found on the Causes of death statistics w
     dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
 The regististry is the source of the official cause of death statistics for Norway."""@en ;
     dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
-    dct:language <EN> ;
+    dct:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//NOR> ;
     dct:title "The Norwegian cause of death registry_NordicCommons_ PoC"@nb ;
     dct:type <https://www.wikidata.org/wiki/Q45959> ;
