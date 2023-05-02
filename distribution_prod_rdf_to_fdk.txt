@@ -15,19 +15,6 @@
     dcat:downloadURL <http://helsedata.no> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38000415101> a dcat:Distribution ;
-    dct:description "The Registry of Pregnancy Termination collects data about pregnancy terminations in Norway from 1979 onwards, and available for research and health surveillance."@en,
-        """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge og inneholder data tilbake til 1979. 
-Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Norwegian Registry of Pregnancy Termination"@en,
-        "Alle variabler"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
-
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/18000404103> a dcat:Distribution ;
     dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
 The regististry is the source of the official cause of death statistics for Norway."""@en,
@@ -212,25 +199,6 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dcat:landingPage <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> a dcat:Dataset ;
-    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
-    dct:description "The Registry of Pregnancy Termination collects data about pregnancy terminations in Norway from 1979 onwards, and available for research and health surveillance."@en,
-        """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge og inneholder data tilbake til 1979. 
-Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
-    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/" ;
-    dct:issued "1979-01-01"^^xsd:date ;
-    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
-    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    dct:title "Norwegian Registry of Pregnancy Termination"@en,
-        "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
-    dcat:contactPoint [ a ns1:Organization ;
-            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> ] ;
-    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38000415101> ;
-    dcat:keyword "Health, Health registry, Health data"@en,
-        "Helse, Helseregister, Helsedata"@nb ;
-    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> ;
-    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
-
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
@@ -267,8 +235,8 @@ Folkehelseinstituttet forvalter Medisinsk fødselsregister og er ansvarlig for �
             ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000449100>,
         <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/28000449108> ;
-    dcat:keyword "Health, Health registry, Health data"@en,
-        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:keyword "Health"@en,
+        "['Helse', 'Helseregister','Helsedata']"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
 
@@ -379,8 +347,7 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
     dct:title "Health registries"@en,
         "Helseregistre"@nb ;
-    dcat:dataset <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/>,
+    dcat:dataset <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/>,        
         <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
         <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/>,
         <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/>,
