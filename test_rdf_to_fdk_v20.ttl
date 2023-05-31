@@ -11,8 +11,8 @@
     dct:title "The Health Archive Registry Index"@en,
         "Datasamling NHA"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38001030109> a dcat:Distribution ;
     dct:description """The Registry of Pregnancy Termination is a national de-identified health register of all induced abortions in Norway, and contains data dating back to 1979.
@@ -23,8 +23,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Abortregisteret Utlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38001226102> a dcat:Distribution ;
     dct:description "Contains data from The Norwegian Cause of Death Registry prepared for analysis"@en ;
@@ -34,8 +34,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Norwegian Cause of Death Registry Analysis"@en,
         "DÅR Analyse"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/38001212107> a dcat:Distribution ;
     dct:description "Information about the prescriber's profession and speciality. The source of information is the Registry for Health Personnel. The information about profession and speciality will always be disclosed in two separate files."@en ;
@@ -45,8 +45,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Information about the prescriber (profession and speciality)"@en,
         "Rekvirentopplysninger"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/48001212102> a dcat:Distribution ;
     dct:description "Data on all prescription drugs dispensed to humans and animals by pharmacies in Norway since 2004."@en ;
@@ -56,8 +56,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Drug dispensation, pharmacy"@en,
         "Legemiddelutlevering apotek"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000830107> a dcat:Distribution ;
     dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en ;
@@ -67,8 +67,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Assisted Reproductive Technology"@en,
         "Assistert Reproduktiv Teknologi"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/48000830106> a dcat:Distribution ;
     dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en ;
@@ -78,8 +78,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Medical Birth Registry of Norway"@en,
         "Svangerskap fødsler og nyfødte"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/58000830108> a dcat:Distribution ;
     dct:description "Contains data from Medical Birth Registry of Norway prepared for analysis."@en ;
@@ -89,8 +89,8 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "MFR Analysis"@en,
         "MFR Analyse"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution/28000925104> a dcat:Distribution ;
     dct:description """The Norwegian Cardiovascular Disease Registry is a natioanl registry of diseases of the heart and cardiovascular system, established in 2012.
@@ -102,8 +102,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000921109> a dcat:Distribution ;
     dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en ;
@@ -113,8 +113,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/18001393108> a dcat:Distribution ;
     dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
@@ -124,8 +124,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Skjema for pakkeforløp"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/28001393100> a dcat:Distribution ;
     dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
@@ -135,8 +135,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Hovedskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/38001393102> a dcat:Distribution ;
     dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
@@ -146,8 +146,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Trombektomiskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/68001393106> a dcat:Distribution ;
     dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
@@ -157,8 +157,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Oppfølgingsskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution/18000455106> a dcat:Distribution ;
     dct:description "The Prescription Database gives an overview over all prescription drugs dispensed from pharmacies in Norway. Drugs used in hospitals, nursing homes and for animals are also included."@en ;
@@ -168,8 +168,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "ReseptregisteretUtlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister//distribution/38000417105> a dcat:Distribution ;
     dct:description "The establishment of the registry was mandated by the Health Registry Act of 2005, with the Ministry of Defense and the Norwegian Armed Forces Joint Medical Services being charged with its implementation and maintenance. The purpose of the registry is to monitor the health of the Armed Forces personnel and to identify risk-factors associated with military service. Persons who have been employed in the Armed Forces and those who were examined by the Norwegian concription board prior to military service are included in the registry. "@en ;
@@ -179,8 +179,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "The Norwegian Armed Forces Health Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/108000791108> a dcat:Distribution ;
     dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
@@ -190,8 +190,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "KUHR Takst"@en,
         "Takst relatert til KUHR"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/118000791105> a dcat:Distribution ;
     dct:description "IPLOS funksjon"@nb ;
@@ -200,8 +200,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "IPLOS funksjon"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/128000791100> a dcat:Distribution ;
     dct:description "IPLOS innsendingsinfo"@nb ;
@@ -210,8 +210,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "IPLOS innsendingsinfo"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/18000791104> a dcat:Distribution ;
     dct:description "IPLOS-registeret inneholder informasjon om personer som har søkt om eller har mottatt helse- og omsorgstjenester fra sin kommune i perioden 2007- 2017. Fra og med 2018 inngår IPLOS opplysningene i Kommunalt pasient- og brukerregister."@nb ;
@@ -221,8 +221,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "IPLOS"@en,
         "Helse- og omsorgstjenester (IPLOS)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/38000791106> a dcat:Distribution ;
     dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
@@ -232,8 +232,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "KUHR"@en,
         "Fastlege, legevakt, fysioterapi med mer (Fra KUHR)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/58000791100> a dcat:Distribution ;
     dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
@@ -243,8 +243,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "KUHR Diagnose"@en,
         "Diagnosen relatert til KUHR"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/68000791102> a dcat:Distribution ;
     dct:description "IPLOS pasientopplysning"@nb ;
@@ -253,8 +253,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "IPLOS pasientopplysning"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/78000791108> a dcat:Distribution ;
     dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
@@ -264,8 +264,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "KUHR Episode"@en,
         "Episode relatert til KUHR"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/88000791105> a dcat:Distribution ;
     dct:description "IPLOS tjeneste informasjon"@nb ;
@@ -274,8 +274,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "IPLOS tjeneste informasjon"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/98000791107> a dcat:Distribution ;
     dct:description "IPLOS diagnose"@nb ;
@@ -284,8 +284,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "IPLOS diagnose"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/38001070101> a dcat:Distribution ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -293,8 +293,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Medisinske data"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/48001070108> a dcat:Distribution ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -302,8 +302,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Kilde"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/58001070105> a dcat:Distribution ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -311,8 +311,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Demografiske data"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/68001070107> a dcat:Distribution ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -320,8 +320,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Administrative data"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/18000666106> a dcat:Distribution ;
     dct:description "National Clinical Registry for Prostate Cancer contains variables specific for diagnostics, treatment and follow-up of prostate cancer. Some of the variables have been collected since 2004, but most were established in 2009, when the registry got national status. The information comes from multiple sources, see information about the Cancer Registry. "@en ;
@@ -331,8 +331,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "National Clinical Registry for Prostate Cancer"@en,
         "Nasjonalt kvalitetsregister for prostatakreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/28000666102> a dcat:Distribution ;
     dct:description "Core variables - additional contain information about variables that are not included in dataproducts at the Health Analysis Platform, but can be found in the Cancer Registry and can be delivered from there."@en ;
@@ -342,8 +342,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Core variables - additional"@en,
         "Kjernevariabler - ekstra"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/38000666104> a dcat:Distribution ;
     dct:description "Core variables - incidence contains information about what is internationally considered the most important variables for describing the incidence of cancer. The core variables are common to all cancers sites and is the basis for most data deliveries from the Cancer Registry. All cases of cancer and certain premalignant and benign tumors are included in this dataset. The cancer cases that are included in the Cancer Registry's annual statistics \"Cancer in Norway\" (a smaller dataset based on international rules on incidence) are marked specifically in the data set (see metadata)."@en ;
@@ -353,8 +353,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Core variables - incidence"@en,
         "Kjernevariabler - insidens"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/68000666109> a dcat:Distribution ;
     dct:description "The colorectal screening data collection contains necessary and relevant information about persons who has participated in the National Screening Program for Colorectal Cancer, which is planned to start during the autumn 2021. The information comes from multiple sources, in addition to sources mentioned for the Cancer Registry in general, it will include information from the laboratory system for analysis of the fecal samples at Akershus University Hospital HF."@en ;
@@ -364,8 +364,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Colorectal screening"@en,
         "Tarmscreeningprogrammet"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret//distribution/28000933103> a dcat:Distribution ;
     dct:description "The Norwegian Adverse Drug Reaction Registry, (NorADRR) shall contribute to safe and effective use of medicinal products, by continuously and systematically registering, processing, and analysing reports of suspected adverse drug reactions (ADRs) and capturing information about ADRs as early as possible."@en ;
@@ -375,8 +375,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "The Norwegian Adverse Drug Reaction Registry"@en,
         "Datautlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/18000529108> a dcat:Distribution ;
     dct:description "Data om inntekter, formue og ytelser"@nb ;
@@ -386,8 +386,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Income and consumption"@en,
         "Inntekt og forbruk"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/48000529107> a dcat:Distribution ;
     dct:description "Data om folkemengden eller familier og husholdninger, innvandring, og andre demografiske opplysninger"@nb ;
@@ -397,8 +397,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Population"@en,
         "Befolkning"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/58000529109> a dcat:Distribution ;
     dct:description "Den Nasjonale utdanningsdatabasen (NUDB) samler all SSBs individbaserte utdanningsstatistikk, fra avsluttet grunnskole til doktorgradsstudier. NUDB omfatter utdanningsstatistikk på individnivå tilbake til 1970."@nb ;
@@ -408,8 +408,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "National Education Database (NUDB)"@en,
         "Nasjonal utdanningsdatabase"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/68000529106> a dcat:Distribution ;
     dct:description "Data om personers tilknytning til arbeidsmarkedet, slik som for eksempel næring, arbeidssted, arbeidstid, yrke eller arbeidsledighet"@nb ;
@@ -419,8 +419,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Labour market "@en,
         "Arbeidsmarked"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/18000879103> a dcat:Distribution ;
     dct:description "1B: Pasientoppfolg postoperativt 12mnd"@nb ;
@@ -429,8 +429,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "1B: Pasientoppfolg postoperativt 12mnd"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000879105> a dcat:Distribution ;
     dct:description "1A: Pasientregistrering preoperativt"@nb ;
@@ -439,8 +439,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "1A: Pasientregistrering preoperativt"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000879102> a dcat:Distribution ;
     dct:description "2A: Sykepleier/legeopplysninger preoperativt"@nb ;
@@ -449,8 +449,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "2A: Sykepleier/legeopplysninger preoperativt"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000879104> a dcat:Distribution ;
     dct:description "Personopplysninger"@nb ;
@@ -459,8 +459,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Personopplysninger"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000879101> a dcat:Distribution ;
     dct:description "1B: Pasientoppfolg postoperativt 3mnd"@nb ;
@@ -469,8 +469,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "1B: Pasientoppfolg postoperativt 3mnd"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/nowac/distribution/298000694108> a dcat:Distribution ;
     dct:description "Basic"@en ;
@@ -480,8 +480,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Basic"@en,
         "Basic"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/nowac/distribution/38000694108> a dcat:Distribution ;
     dct:description "Andre gangs utsendelse til inviterte kvinner (på engelsk)"@en ;
@@ -491,8 +491,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Utsendelse 2 på engelsk"@en,
         "Utsendelse 2"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/nowac/distribution/58000694103> a dcat:Distribution ;
     dct:description "Første gangs utsendelse til inviterte kvinner (på engelsk)???????"@en ;
@@ -502,8 +502,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Wave 1"@en,
         "Utsendelse 1"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/nowac/distribution/98000694109> a dcat:Distribution ;
     dct:description "Tredje gangs utsendelse til inviterte kvinner (på engelsk)Første gangs utsendelse til inviterte kvinner (på engelsk)"@en ;
@@ -513,8 +513,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Utsendelse 3 på engelsk?"@en,
         "Utsendelse 3"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/saminor_no/distribution/28001157107> a dcat:Distribution ;
     dct:description "SAMINOR - 1"@en ;
@@ -524,8 +524,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "SAMINOR - 1"@en,
         "SAMINOR - 1"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/saminor_no/distribution/38001157109> a dcat:Distribution ;
     dct:description "SAMINOR - 2"@en ;
@@ -535,8 +535,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "SAMINOR - 2"@en,
         "SAMINOR - 2"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/108000915109> a dcat:Distribution ;
     dct:description "Tromso 5"@en ;
@@ -546,8 +546,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 5"@en,
         "Tromsø 5"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/128000915104> a dcat:Distribution ;
     dct:description "Tromso 6"@en ;
@@ -557,8 +557,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 6"@en,
         "Tromsø 6"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/138000915102> a dcat:Distribution ;
     dct:description "Tromso 7"@en ;
@@ -568,8 +568,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 7"@en,
         "Tromsø 7"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/148000915107> a dcat:Distribution ;
     dct:description "Tromso 1"@en ;
@@ -579,8 +579,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 1"@en,
         "Tromsø 1"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/38000915107> a dcat:Distribution ;
     dct:description "Tromso 2"@en ;
@@ -590,8 +590,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 2"@en,
         "Tromsø 2"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/68000915101> a dcat:Distribution ;
     dct:description "Tromso 3"@en ;
@@ -601,8 +601,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 3"@en,
         "Tromsø 3"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://uit.no/research/tromsostudy/distribution/98000915108> a dcat:Distribution ;
     dct:description "Tromso 4"@en ;
@@ -612,8 +612,8 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Tromso 4"@en,
         "Tromsø 4"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <http://helsedata.no> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
@@ -1020,3 +1020,4 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
         <https://uit.no/research/saminor_no>,
         <https://uit.no/research/tromsostudy> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
