@@ -1,0 +1,1022 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret//distribution/18000534107> a dcat:Distribution ;
+    dct:description "The Health Archive Registry Index is established in the Norwegian Health Archive and consists of patient archives from the specialist health care services, for deceased patients."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Health Archive Registry Index"@en,
+        "Datasamling NHA"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38001030109> a dcat:Distribution ;
+    dct:description """The Registry of Pregnancy Termination is a national de-identified health register of all induced abortions in Norway, and contains data dating back to 1979.
+The Norwegian Institute of Public Health manages The Registry of Pregnancy Termination, is responsible for processing the register data and publishes statistics available to the general public."""@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Norwegian Registry of Pregnancy Termination"@en,
+        "Abortregisteret Utlevering"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38001226102> a dcat:Distribution ;
+    dct:description "Contains data from The Norwegian Cause of Death Registry prepared for analysis"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Norwegian Cause of Death Registry Analysis"@en,
+        "DÅR Analyse"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/38001212107> a dcat:Distribution ;
+    dct:description "Information about the prescriber's profession and speciality. The source of information is the Registry for Health Personnel. The information about profession and speciality will always be disclosed in two separate files."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Information about the prescriber (profession and speciality)"@en,
+        "Rekvirentopplysninger"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/48001212102> a dcat:Distribution ;
+    dct:description "Data on all prescription drugs dispensed to humans and animals by pharmacies in Norway since 2004."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Drug dispensation, pharmacy"@en,
+        "Legemiddelutlevering apotek"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000830107> a dcat:Distribution ;
+    dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Assisted Reproductive Technology"@en,
+        "Assistert Reproduktiv Teknologi"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/48000830106> a dcat:Distribution ;
+    dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Medical Birth Registry of Norway"@en,
+        "Svangerskap fødsler og nyfødte"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/58000830108> a dcat:Distribution ;
+    dct:description "Contains data from Medical Birth Registry of Norway prepared for analysis."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "MFR Analysis"@en,
+        "MFR Analyse"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution/28000925104> a dcat:Distribution ;
+    dct:description """The Norwegian Cardiovascular Disease Registry is a natioanl registry of diseases of the heart and cardiovascular system, established in 2012.
+
+The registry consists of a base registry and several quality registries. The base registry contains information on death and hospitalization of all patients registered with cardiovascular disease, while the quality registries specialize in one patient or treatment group and has more in depth information regarding their specialization."""@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Norwegian Cardiovascular Disease Registry"@en,
+        "Alle variabler"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000921109> a dcat:Distribution ;
+    dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Norwegian Immunisation Registry SYSVAK"@en,
+        "Alle variabler"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/18001393108> a dcat:Distribution ;
+    dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
+"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Skjema for pakkeforløp"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/28001393100> a dcat:Distribution ;
+    dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
+"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Hovedskjema for Norsk hjerneslagregister"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/38001393102> a dcat:Distribution ;
+    dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
+"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Trombektomiskjema for Norsk hjerneslagregister"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/68001393106> a dcat:Distribution ;
+    dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
+"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Oppfølgingsskjema for Norsk hjerneslagregister"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution/18000455106> a dcat:Distribution ;
+    dct:description "The Prescription Database gives an overview over all prescription drugs dispensed from pharmacies in Norway. Drugs used in hospitals, nursing homes and for animals are also included."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Norwegian Prescription Database (NorPD)"@en,
+        "ReseptregisteretUtlevering"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister//distribution/38000417105> a dcat:Distribution ;
+    dct:description "The establishment of the registry was mandated by the Health Registry Act of 2005, with the Ministry of Defense and the Norwegian Armed Forces Joint Medical Services being charged with its implementation and maintenance. The purpose of the registry is to monitor the health of the Armed Forces personnel and to identify risk-factors associated with military service. Persons who have been employed in the Armed Forces and those who were examined by the Norwegian concription board prior to military service are included in the registry. "@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Norwegian Armed Forces Health Registry"@en,
+        "Alle variabler"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/108000791108> a dcat:Distribution ;
+    dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "KUHR Takst"@en,
+        "Takst relatert til KUHR"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/118000791105> a dcat:Distribution ;
+    dct:description "IPLOS funksjon"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS funksjon"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/128000791100> a dcat:Distribution ;
+    dct:description "IPLOS innsendingsinfo"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS innsendingsinfo"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/18000791104> a dcat:Distribution ;
+    dct:description "IPLOS-registeret inneholder informasjon om personer som har søkt om eller har mottatt helse- og omsorgstjenester fra sin kommune i perioden 2007- 2017. Fra og med 2018 inngår IPLOS opplysningene i Kommunalt pasient- og brukerregister."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS"@en,
+        "Helse- og omsorgstjenester (IPLOS)"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/38000791106> a dcat:Distribution ;
+    dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "KUHR"@en,
+        "Fastlege, legevakt, fysioterapi med mer (Fra KUHR)"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/58000791100> a dcat:Distribution ;
+    dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "KUHR Diagnose"@en,
+        "Diagnosen relatert til KUHR"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/68000791102> a dcat:Distribution ;
+    dct:description "IPLOS pasientopplysning"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS pasientopplysning"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/78000791108> a dcat:Distribution ;
+    dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "KUHR Episode"@en,
+        "Episode relatert til KUHR"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/88000791105> a dcat:Distribution ;
+    dct:description "IPLOS tjeneste informasjon"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS tjeneste informasjon"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/98000791107> a dcat:Distribution ;
+    dct:description "IPLOS diagnose"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "IPLOS diagnose"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/38001070101> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Medisinske data"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/48001070108> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Kilde"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/58001070105> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Demografiske data"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/68001070107> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Administrative data"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/18000666106> a dcat:Distribution ;
+    dct:description "National Clinical Registry for Prostate Cancer contains variables specific for diagnostics, treatment and follow-up of prostate cancer. Some of the variables have been collected since 2004, but most were established in 2009, when the registry got national status. The information comes from multiple sources, see information about the Cancer Registry. "@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "National Clinical Registry for Prostate Cancer"@en,
+        "Nasjonalt kvalitetsregister for prostatakreft"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/28000666102> a dcat:Distribution ;
+    dct:description "Core variables - additional contain information about variables that are not included in dataproducts at the Health Analysis Platform, but can be found in the Cancer Registry and can be delivered from there."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Core variables - additional"@en,
+        "Kjernevariabler - ekstra"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/38000666104> a dcat:Distribution ;
+    dct:description "Core variables - incidence contains information about what is internationally considered the most important variables for describing the incidence of cancer. The core variables are common to all cancers sites and is the basis for most data deliveries from the Cancer Registry. All cases of cancer and certain premalignant and benign tumors are included in this dataset. The cancer cases that are included in the Cancer Registry's annual statistics \"Cancer in Norway\" (a smaller dataset based on international rules on incidence) are marked specifically in the data set (see metadata)."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Core variables - incidence"@en,
+        "Kjernevariabler - insidens"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/68000666109> a dcat:Distribution ;
+    dct:description "The colorectal screening data collection contains necessary and relevant information about persons who has participated in the National Screening Program for Colorectal Cancer, which is planned to start during the autumn 2021. The information comes from multiple sources, in addition to sources mentioned for the Cancer Registry in general, it will include information from the laboratory system for analysis of the fecal samples at Akershus University Hospital HF."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Colorectal screening"@en,
+        "Tarmscreeningprogrammet"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret//distribution/28000933103> a dcat:Distribution ;
+    dct:description "The Norwegian Adverse Drug Reaction Registry, (NorADRR) shall contribute to safe and effective use of medicinal products, by continuously and systematically registering, processing, and analysing reports of suspected adverse drug reactions (ADRs) and capturing information about ADRs as early as possible."@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Norwegian Adverse Drug Reaction Registry"@en,
+        "Datautlevering"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/18000529108> a dcat:Distribution ;
+    dct:description "Data om inntekter, formue og ytelser"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Income and consumption"@en,
+        "Inntekt og forbruk"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/48000529107> a dcat:Distribution ;
+    dct:description "Data om folkemengden eller familier og husholdninger, innvandring, og andre demografiske opplysninger"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Population"@en,
+        "Befolkning"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/58000529109> a dcat:Distribution ;
+    dct:description "Den Nasjonale utdanningsdatabasen (NUDB) samler all SSBs individbaserte utdanningsstatistikk, fra avsluttet grunnskole til doktorgradsstudier. NUDB omfatter utdanningsstatistikk på individnivå tilbake til 1970."@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "National Education Database (NUDB)"@en,
+        "Nasjonal utdanningsdatabase"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/68000529106> a dcat:Distribution ;
+    dct:description "Data om personers tilknytning til arbeidsmarkedet, slik som for eksempel næring, arbeidssted, arbeidstid, yrke eller arbeidsledighet"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Labour market "@en,
+        "Arbeidsmarked"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/18000879103> a dcat:Distribution ;
+    dct:description "1B: Pasientoppfolg postoperativt 12mnd"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "1B: Pasientoppfolg postoperativt 12mnd"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000879105> a dcat:Distribution ;
+    dct:description "1A: Pasientregistrering preoperativt"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "1A: Pasientregistrering preoperativt"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000879102> a dcat:Distribution ;
+    dct:description "2A: Sykepleier/legeopplysninger preoperativt"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "2A: Sykepleier/legeopplysninger preoperativt"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000879104> a dcat:Distribution ;
+    dct:description "Personopplysninger"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Personopplysninger"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000879101> a dcat:Distribution ;
+    dct:description "1B: Pasientoppfolg postoperativt 3mnd"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "1B: Pasientoppfolg postoperativt 3mnd"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/nowac/distribution/298000694108> a dcat:Distribution ;
+    dct:description "Basic"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Basic"@en,
+        "Basic"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/nowac/distribution/38000694108> a dcat:Distribution ;
+    dct:description "Andre gangs utsendelse til inviterte kvinner (på engelsk)"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Utsendelse 2 på engelsk"@en,
+        "Utsendelse 2"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/nowac/distribution/58000694103> a dcat:Distribution ;
+    dct:description "Første gangs utsendelse til inviterte kvinner (på engelsk)???????"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Wave 1"@en,
+        "Utsendelse 1"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/nowac/distribution/98000694109> a dcat:Distribution ;
+    dct:description "Tredje gangs utsendelse til inviterte kvinner (på engelsk)Første gangs utsendelse til inviterte kvinner (på engelsk)"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Utsendelse 3 på engelsk?"@en,
+        "Utsendelse 3"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/saminor_no/distribution/28001157107> a dcat:Distribution ;
+    dct:description "SAMINOR - 1"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "SAMINOR - 1"@en,
+        "SAMINOR - 1"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/saminor_no/distribution/38001157109> a dcat:Distribution ;
+    dct:description "SAMINOR - 2"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "SAMINOR - 2"@en,
+        "SAMINOR - 2"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/108000915109> a dcat:Distribution ;
+    dct:description "Tromso 5"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 5"@en,
+        "Tromsø 5"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/128000915104> a dcat:Distribution ;
+    dct:description "Tromso 6"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 6"@en,
+        "Tromsø 6"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/138000915102> a dcat:Distribution ;
+    dct:description "Tromso 7"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 7"@en,
+        "Tromsø 7"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/148000915107> a dcat:Distribution ;
+    dct:description "Tromso 1"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 1"@en,
+        "Tromsø 1"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/38000915107> a dcat:Distribution ;
+    dct:description "Tromso 2"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 2"@en,
+        "Tromsø 2"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/68000915101> a dcat:Distribution ;
+    dct:description "Tromso 3"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 3"@en,
+        "Tromsø 3"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://uit.no/research/tromsostudy/distribution/98000915108> a dcat:Distribution ;
+    dct:description "Tromso 4"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Tromso 4"@en,
+        "Tromsø 4"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <http://helsedata.no> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> .
+
+<https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Health Archive Registry Index is established in the Norwegian Health Archive and consists of patient archives from the specialist health care services, for deceased patients."@en,
+        "Helsearkivregisteret er et sentralt helseregister som består av pasientarkiv fra spesialisthelsetjenesten for avdøde personer"@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/" ;
+    dct:issued "2019-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/961181399> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "The Health Archive Registry Index"@en,
+        "Helsearkivregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret//distribution/18000534107> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Registry of Pregnancy Termination collects data about pregnancy terminations in Norway from 1979 onwards, and available for research and health surveillance."@en,
+        """Register over svangerskapsavbrudd (Abortregisteret) er et nasjonalt avidentifisert helseregister over alle svangerskapsavbrudd i Norge og inneholder data tilbake til 1979. 
+Folkehelseinstituttet forvalter Abortregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/" ;
+    dct:issued "1979-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Registry of Pregnancy Termination"@en,
+        "Register over svangerskapsavbrudd (Abortregisteret)"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38001030109> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012. The regististry is the source of the official cause of death statistics for Norway."@en,
+        "Dødsårsaksregisteret er et nasjonalt helseregister over alle dødsfall blant bosatte i Norge, og inneholder data tilbake til 1951. Fra medio 2012 inneholder registeret også dødsfall blant ikke-bosatte som dør i Norge. Folkehelseinstituttet forvalter Dødsårsaksregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
+    dct:issued "1928-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Cause of Death Registry"@en,
+        "Dødsårsaksregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38001226102> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "NorPD contains a complete listing of all prescription drugs dispensed by pharmacies in Norway since 2004. The registry also contains information about prescription of drugs to animals."@en,
+        """Legemiddelregisteret er et nasjonalt helseregister med opplysninger om alle legemidler som er utlevert etter resept fra apotek til mennesker og dyr fra og med 2004. Det inngår opplysninger om legemidler, pasienten, rekvirenten og apoteket i registeret. <br><br>
+For perioden 2004-2021 er data fra Reseptregisteret overført til Legemiddelregisteret."""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret/" ;
+    dct:issued "2022-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Prescribed Drug Registry (NorPD)"@en,
+        "Legemiddelregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/38001212107>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/48001212102> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Medical Birth Registry (MBRN) is a national health registry containing information about all births in Norway. The registry will help to clarify the causes and consequences of health problems related to pregnancy and birth, as well as to monitor the incidence of congenital abnormalities."@en,
+        "Medisinsk fødselsregister er et nasjonalt helseregister over medisinske forhold ved svangerskap, fødsler og nyfødte i Norge, og inneholder data tilbake til 1967. Opplysningene i registeret gir kunnskap om kvinners helse og dødelighet under svangerskap, fødsel og barselperioden. I tillegg registreres barns helse og dødelighet i forbindelse me svangerskap og fødsel. Folkehelseinstituttet forvalter Medisinsk fødselsregister og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/" ;
+    dct:issued "1967-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Medical Birth Registry of Norway"@en,
+        "Medisinsk Fødselsregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "FHI"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000830107>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/48000830106>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/58000830108> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description """The Norwegian Cardiovascular Disease Registry is a natioanl registry of diseases of the heart and cardiovascular system, established in 2012.
+
+The registry consists of a base registry and several quality registries. The base registry contains information on death and hospitalization of all patients registered with cardiovascular disease, while the quality registries specialize in one patient or treatment group and has more in depth information regarding their specialization."""@en,
+        """Nasjonalt register over hjerte- og karlidelser er et nasjonalt helseregister over pasienter med sykdommer hjertet og det kardiovaskulære systemet og deres behandling, og inneholder data tilbake til 2012.
+
+Registeret er organisert som et basisregister med tilknyttede medisinske kvalitetsregistre. Basisregisteret inneholder alle dødsfall og innleggelser eller polikliniske konsultasjoner ved norske sykehus for pasientgruppen, hentet fra Norsk pasientregister og Dødsårsaksregisteret. De medisinske kvalitetsregistrene fokuserer på en spesiell pasientgruppe eller behandlingsform og inneholder mer detaljerte opplysninger om sine spesialiserte fagområder.
+
+Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle registerdataene og publiserer offentlig tilgjengelig statistikk. """@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/" ;
+    dct:issued "2012-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Cardiovascular Disease Registry"@en,
+        "Hjerte- og karregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution/28000925104> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en,
+        "Nasjonalt vaksinasjonsregister SYSVAK - Nasjonalt vaksinasjonsregister SYSVAK er et landsdekkende elektronisk vaksinasjonsregister etablert i 1995. Inntil oktober 2009 omfattet meldeplikten til SYSVAK bare vaksiner gitt i barnevaksinasjonsprogrammet. Under influensapandemien i 2009 ble det innført meldeplikt også for vaksine mot pandemisk influensa. Fra januar 2011 ble meldeplikten utvidet til å gjelde alle vaksinasjoner for alle aldersgrupper i befolkningen. Helsepersonell som vaksinerer har ansvar for registrering og melding av korrekte vaksinasjonsopplysninger til SYSVAK. Formålet med SYSVAK er å holde oversikten over vaksinasjonsstatus for den enkelte og over vaksinasjonsdekningen i landet. SYSVAK bidrar til å utvikle og fremme kvaliteten på de vaksinene som tilbys i og utenfor program ved at data benyttes til å overvåke effekten av de ulike vaksinene og til vaksinerelatert forskning. Ved bruk av SYSVAK kan man også sikre at alle får tilbud om de vaksinene de skal ha gjennom barnevaksinasjonsprogrammet, og tilhørende program. Registeret publiserer statistikk som er tilgjengelig på FHIs nettside og Kommunehelsa statistikkbank."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/" ;
+    dct:issued "1995-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Immunisation Registry SYSVAK"@en,
+        "Nasjonalt vaksinasjonsregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasOrganizationName "Folkehelseinstituttet"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000921109> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description """Norsk hjerneslagregister er det nasjonale kvalitetsregisteret for behandling av hjerneslag, og er en del av Nasjonalt register over hjerte- og karlidelser (HKR). 
+"""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister/" ;
+    dct:issued "2012-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/883974832> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norsk hjerneslagregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasEmail <mailto:norsk.hjerneslagregister@stolav.no> ;
+            ns1:hasOrganizationName "St. Olavs hospital"@nb ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/18001393108>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/28001393100>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/38001393102>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/68001393106> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Norwegian Prescription Database contains a complete listing of all prescription drugs dispensed by pharmacies in Norway since 2004. Drugs supplied to hospitals and nursing homes are also partly included, but not at an individual level. The database also contains information about prescription of drugs to animals."@en,
+        "**Det er ikke lenger mulig å søke om data fra Reseptregisteret. Benytt variabelutforskeren for Legemiddelregisteret dersom det søkes om legemiddeldata fra Folkehelseinstituttet** <br><br> Reseptregisteret inneholder opplysninger om alle legemiddel som er utlevert etter resept på apotek fra 2004 til 2021. Også legemiddel til sykehus/sykehjem inngår, men ikke på individnivå. Registeret inneholder også opplysninger om utlevering av legemiddel til dyr. I tillegg publiserer registeret statistikk som er offentlig tilgjengelig."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/" ;
+    dct:issued "2004-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Prescription Database (NorPD)"@en,
+        "Reseptregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution/18000455106> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The establishment of the registry was mandated by the Health Registry Act of 2005, with the Ministry of Defense and the Norwegian Armed Forces Joint Medical Services being charged with its implementation and maintenance. The purpose of the registry is to monitor the health of the Armed Forces personnel and to identify risk-factors associated with military service. Persons who have been employed in the Armed Forces and those who were examined by the Norwegian concription board prior to military service are included in the registry. "@en,
+        "Registeret omfatter alle personer i Norge som er eller har vært ansatt i Forsvaret eller som har blitt vurdert for tjeneste i Forsvaret på sesjon. De viktigste data i registeret er helsopplysninger som samles inn på sesjon før militærtjeneste. Registeret inneholder sesjonsopplysninger for flertallet av norske menn født etter 1950  og for kvinner som har søkt seg til Forsvaret. "@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/" ;
+    dct:issued "2005-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/986105174> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "The Norwegian Armed Forces Health Registry"@en,
+        "Forsvarets helseregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister//distribution/38000417105> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Registeret er tilgjenglig fra 5. april 2018, og inneholder opplysninger om alle innbyggere som har mottatt helse- og omsorgstjenester fra sin kommune."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister/" ;
+    dct:issued "2016-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983544622> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Norwegian Registry for Primary Health Care"@en,
+        "Kommunalt pasient- og brukerregister"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/108000791108>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/118000791105>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/128000791100>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/18000791104>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/38000791106>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/58000791100>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/68000791102>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/78000791108>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/88000791105>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/98000791107> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:identifier "https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister/" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983544622> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "NPR"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/38001070101>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/48001070108>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/58001070105>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/68001070107> ;
+    dcat:keyword "Pasientens kjønn og alder, Medisinske data, Tvang i psykisk helsevern (PHV), Kilde, Rapporteringsperiode, Spesielt for polikliniske kontakter, Om pasienten, Tvang i psykisk helsevern, ATC-koder, Om henvisninger og henvisningsperioder, Cytostatika, Rapporteringsformat, Spesielt for avdelingsopphold, Tilstandskoder, Om behandlingsenheten, ISF Grunnlag, Demografiske data, Vekt, Om sykehusopphold (grupperte data for ISF), Administrative data, Om Avdelingsopphold og kontakter, Om opphold og kontakter, Prosedyrekoder , Pasientens bosted"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description "The Cancer Registry of Norway was established in 1951 and has complete data from 1953 and onwards. The information in the database comes from multiple sources, both in the health care service (pathology, clinicians, radiotherapy equipment and systems for medical administration and treatment) and from other registries (mainly the Cause of Death Registry, the Norwegian Patient Registry and the National Registry). "@en,
+        "Kreftregisteret inneholder informasjon tilbake til 1953 om alle krefttilfeller, forstadier til kreft og enkelte benigne svulster i Norge. Informasjonen som registreres i databasen kommer fra flere kilder, både i helsetjenesten (patologi, klinikk, stråleterapimaskiner og systemer for medikamentell behandling) og andre registre (hovedsakelig Dødsårsaksregisteret, Norsk Pasientregister og Folkeregisteret). "@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/" ;
+    dct:issued "1953-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/993467049> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Cancer Registry of Norway"@en,
+        "Kreftregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/18000666106>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/28000666102>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/38000666104>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/68000666109> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "The Norwegian Adverse Drug Reaction Registry, (NorADRR) shall contribute to safe and effective use of medicinal products, by continuously and systematically registering, processing, and analysing reports of suspected adverse drug reactions (ADRs) and capturing information about ADRs as early as possible."@en,
+        """Registeret skal bidra til sikker og effektiv legemiddelbruk, ved at det fortløpende og systematisk registreres, behandles og analyseres bivirkningsmeldinger og fanges opp bivirkningsinformasjon fra legemiddelbruk så tidlig som mulig.
+
+Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for styring, planlegging og kvalitetsforbedring av legemidler og legemiddelbruk og til forskning."""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret/" ;
+    dct:issued "2020-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/974761122> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "The Norwegian Adverse Drug Reaction Registry"@en,
+        "Bivirkningsregisteret"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasEmail <mailto:bivirkninger@legemiddelverket.no> ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret//distribution/28000933103> ;
+    dcat:keyword "Identifisering av melding, Bivirkningshendelse, Informasjon om legemiddelbruken, Melder, Om legemiddelbrukeren, Legemiddel"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
+    dct:description "Administrativt register"@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra/" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/971526920> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Data fra SSB"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/18000529108>,
+        <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/48000529107>,
+        <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/58000529109>,
+        <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/68000529106> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:identifier "https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983974899> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Nasjonalt kvalitetsregister for ryggkirurgi (NKR), degenerativ rygg."@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/18000879103>,
+        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000879105>,
+        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000879102>,
+        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000879104>,
+        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000879101> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://uit.no/research/nowac> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Utfyllende beskrivelse av KK på engelsk"@en,
+        "Utfyllende beskrivelse av KK"@nb ;
+    dct:identifier "https://uit.no/research/nowac" ;
+    dct:issued "1991-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/970422528> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "The Norwegian Women and Cancer Study"@en,
+        "Kvinner og Kreft"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://uit.no/research/nowac> ] ;
+    dcat:distribution <https://uit.no/research/nowac/distribution/298000694108>,
+        <https://uit.no/research/nowac/distribution/38000694108>,
+        <https://uit.no/research/nowac/distribution/58000694103>,
+        <https://uit.no/research/nowac/distribution/98000694109> ;
+    dcat:keyword "Anthropometry, Use of contraceptives, Physical activity, Socioeconomic conditions, Cancer screening and self-examination, Diet, Use of postmenopausal hormones, Use of personal care products, Self-reported health and history of diseases, Personal information, Use of medication, Sun exposure and host factors, Smoking, Consent of participation, Family history of cancer, Reproductive hustory"@nb ;
+    dcat:landingPage <https://uit.no/research/nowac> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://uit.no/research/saminor_no> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Utfyllende beskrivelse av SA på engelsk"@en,
+        "Utfyllende beskrivelse av SA"@nb ;
+    dct:identifier "https://uit.no/research/saminor_no" ;
+    dct:issued "1980-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/970422528> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "SAMINOR - engelsk"@en,
+        "SAMINOR"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://uit.no/research/saminor_no> ] ;
+    dcat:distribution <https://uit.no/research/saminor_no/distribution/28001157107>,
+        <https://uit.no/research/saminor_no/distribution/38001157109> ;
+    dcat:keyword "DERIVED VARIABLES, ADDITIONAL INFORMATION, DATE FOR FILLING IN ADDITIONAL QUESTIONNAIRE - A, FAMILY AND LINGUISTIC BACKGROUND - I, EATING AT NIGHT - A, FOOD AND BEVERAGES - H, CURRENT DIET/ FOOD HABITS - A, CONSENT STATEMENTS, SUICIDE AND SUICIDAL BEHAVIOUR, PHYSICAL EXAMINATION AND BLOOD SAMPLES, SMOKING AND SNUFF USE - H, FAMILY AND LINGUISTIC BACKGROUND, USE OF HEALTH SERVICES - I, CONSENT QUESTIONNAIRE, SYMPTOMS - A, EXPERIENCED DISCRIMINATION, STOMACH AND INTESTINAL SYMPTOMS - H, EUTRO ADMIN QUESTIONNAIRE, INFORMATION ABOUT QUESTIONNAIRES, GAMBLING BEHAVIOUR, BLOOD DATA BASE, OTHER PAINS/PROBLEMS - H, RELIGION AND BELIEFS, PERSONAL VALUES - A, DENTAL HEALTH, GENERAL INFORMATION INITIAL QUESTIONNAIRE - I, EMPLOYMENT/ECONOMY - I, QUESTIONS TO THOSE WITH SAMI BACKGROUND - A, INJURIES/ACCIDENTS - I, DIET DURING CHILDHOOD/ADOLESCENCE - A, VIOLENCE AND ASSAULTS, DEMOGRAPHICAL DATA, MENTAL HEALTH, BULLYING - I, ILLNESS IN THE FAMILY - H, MUSCULO AND SKELETAL PAIN - H, EXERCISE AND PHYSICAL ACTIVITY - H, ADDITIONAL INFORMATION FHI, TOBACCO AND DRUGS, PARTICIPATION, USE OF MEDICATION - H, YOUR OWN HEALTH - H, WORK PENSION AND ECONOMY, FAMILY AND FRIENDS - A, EXPERIENCES AND USE OF HEALTH SERVICES, BLOOD DATA ANALYZED AT UNN, SOCIODEMOGRAFICS FROM THE PERSON REGISTRY, YOUR OWN HEALTH"@nb ;
+    dcat:landingPage <https://uit.no/research/saminor_no> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<https://uit.no/research/tromsostudy> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Utfyllende beskrivelse av TR på engelsk"@en,
+        "Utfyllende beskrivelse av TR"@nb ;
+    dct:identifier "https://uit.no/research/tromsostudy" ;
+    dct:issued "1974-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/970422528> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "The Tromso Study"@en,
+        "Tromsøundersøkelsen"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://uit.no/research/tromsostudy> ] ;
+    dcat:distribution <https://uit.no/research/tromsostudy/distribution/108000915109>,
+        <https://uit.no/research/tromsostudy/distribution/128000915104>,
+        <https://uit.no/research/tromsostudy/distribution/138000915102>,
+        <https://uit.no/research/tromsostudy/distribution/148000915107>,
+        <https://uit.no/research/tromsostudy/distribution/38000915107>,
+        <https://uit.no/research/tromsostudy/distribution/68000915101>,
+        <https://uit.no/research/tromsostudy/distribution/98000915108> ;
+    dcat:keyword "SEGMENTAL VIEW LAX (LONG LV AXIS) TIME VARIABLES - ECHO, ABDOMEN - Q2, PHYSICAL ACTIVITY, USE OF HEALTH SERVICES, REACTION TO PROBLEMS - Q2, SEGMENTAL VIEW 2CH (TWO CHAMBER) - ECHO, SEGMENTAL VIEW LAX (LONG LV AXIS) - ECHO, NOISE - Q2, EDUCATION AND INCOME - Q1, CAROTIS, SEGMENTAL VIEW RV FREE WALL - ECHO, ANTIBIOTICS - Q2, CANCER - Q1, USE OF HEALTH SERVICES - Q2, INFECTIONS - Q2, ECHO, BLOOD SAMPLES, WOMEN ONLY, YOUR SLEEP/WAKE RHYTHM - Q2, SPIROMETRY, MEN ONLY - Q1, ANTIBIOTICS BOUGHT ABROAD - Q2, AIRWAY INFECTION AND SHORTNESS OF BREATH, HEALTH AND DISEASES, WORK, SOCIAL SECURITY PAYMENTS AND INCOME, FOOD NUTRIENTS FFQ ADMIN, LIGHT/SUN EXPOSURE - Q2, FOLLOW-UP QUESTIONS PERSISTENT PAIN = 3 MONTHS - Q2, GLOBAL VIEW RV (RIGHT VENTRICLE) - ECHO, FAMILY AND FRIENDS - Q1, MEDICINES - Q2, URINARY ANALYSIS, SEGMENTAL VIEW 2CH (TWO CHAMBER) TIME VARIABLES - ECHO, EYE, SKIN AND DERMATOLOGY - Q2, EXERCISE (QU-1), OWN ILLNESS (QU-1), WOMEN ONLY - Q1, SYMPTOMS (QU-1), GENERAL INFORMATION, USE OF HEALTH SERVICES, MEDICINE INFORMATION - Q2, ORAL HEALTH - Q2, ILLNESS - Q2, FOOD HABITS - Q2, LABORATORY DATA, EDUCATION/WORK, WORK, FAMILY AND FRIENDS, DIET, OTHER COMPLAINTS (HSCL 10), ILLNESS IN PARENT AND SIBLINGS - Q2, FOLLOW-UP QUESTIONS SURGERY LAST 3 YEARS - Q2, SMOKING (QU-1), QUESTIONNAIRE 2, DENTAL HEALTH, FAT, ROOT CARIES SURFACE LEVEL, COGNITIVE - TDS, PHYSICAL EXAMINATION, PHYSICAL ACTIVITY - Q2, EMPLOYMENT (QU-1), MUSCULO AND SKELETAL PAIN, BLOOD SAMPLES, PHYSICAL EXAMINATION, URINARY SAMPLES, ALCOHOL - Q2, QUESTIONNAIRE 2, CONTACT DUE TO OWN HEALTH OR ILLNESS - Q2, WEIGHT - Q2, YOUR OWN HEALTH, USE OF HEALTH SERVICES - Q2, USE OF MEDICINE, FISH - Q2, FOOD HABITS - Q2, ILLNESS IN THE FAMILY, USE OF MEDICINE, ILLNESS AND WORRIES - Q2, OWN ILLNESS, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, SPIROMETRY, DIET - Q2, TRAVEL AND ILLNESS - Q2, WELL BEING PO70 - Q2, USE OF HEALTH SERVICES, PHYSICAL EXAMINATION, BREAKFAST - Q2, SALT/FAT, GLOBAL VIEW 4CH (FOUR CHAMBER) - ECHO, BONE MINERAL DENSITY, CAROTIS, HEALTH AND DISEASES, BALANCE, HEALTH AND DISEASES - Q1, TOBACCO - Q2, FRUIT - Q2, OLINK INFLAMMATION PANEL, HEALTH ANXIETY - Q1, NUMBER OF TEETH, INTERVIEW, BLOOD SAMPLES, DEXA TOTAL BODY ENHANCED ANALYSIS, TOBACCO AND SNUFF - Q1, SYMPTOMS - Q2, DENTAL MATERIALS SURFACE LEVEL, SKIN AND DERMATOLOGY - Q2, FAMILY (QU-1), COGNITIVE, ACTIWAVE CARDIO OUT, DENTAL HEALTH - Q1, YOUR OWN ILLNESS - Q2, PAID AND UNPAID WORK - Q2, WEIGHT REDUCTION PU70 - Q2, GRAPHICAL INDEX OF PAIN (GRIP), FOOD AND DIETARY SUPPLEMENTS - Q2, SYMPTOMS, URINARY SAMPLES, URINARY INCONTINENCE PU70 - Q2, PHYSICAL ACTIVITY - Q1, GENOTYPING DNA SALIVA, ILLNESS IN THE FAMILY - Q2, USE OF ANALGESICS AND ANTIBIOTICS THE LAST 24 HOURS, ALCOHOL - Q2, ALCOHOL - Q1, GENERAL INFORMATION, WOMENS HEALTH - Q2, MENS HEALTH - Q2, CAROTID ULTRASOUND, MEMORY - Q2, GENERAL INFORMATION, FAMILY, DIET - Q1, EXERCISE, ILLNESSES AND INJURIES - Q2, SMOKE AND SNUFF - Q2, PAIN SENSITIVTY TEST, DINNER - Q2, HOME AND NEIGHBORHOOD - Q2, ACTIWAVE CARDIO IN, ALCOHOL - Q2, ECHO, BONE MINERAL DENSITY, ECG, FALLS, ALCOHOL - Q2, DEXA TOTAL BODY ENHANCED ANALYSIS, GENERAL INFORMATION, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, CHALDER FATIGUE SCALE (CFS), SIGHT, PERIODONTITIS BLEEDING ON PROBING IMPLANTS, SYMPTOMS (QU-1), FALL REGISTRATION, FECAL SAMPLES, SPECIFICATION OF SKIN DISEASE - Q2, WORK - Q2, ROOT FILLINGS, EYE, COFFEE, DENTAL ADMIN, CHILDHOOD/YOUTH AND AFFILIATION - Q2, FOOD INTAKE MAIN CATEGORIES, ECG, PERIODONTITIS POCKET DEPTH NATURAL TEETH, INTERVIEW, HORMONAL CONTRACEPTIVES - Q2, DENTAL IMPLANTS, MUSCOLETAL AND SCELETAL PAIN - Q2, INFECTIONS AND HOSPITAL STAY, CONTRACEPTION AND ESTROGEN - Q2, CONTRACEPTION - Q2, URINARY SAMPLES, FOOD HABITS - Q2, PHYSICAL FUNCTION, TRIALS, ECG, SOCIAL CONDITIONS AND PSYCHOLOGICAL PRESSURE (\"STRESS\") (QU-2), USE OF HEALTH SERVICES - Q2, GENERAL INFORMATION, INTAKE OF ENERGY PROVIDING NUTRIENTS, ENERGY PERCENTAGE, NORMAL FLORA /INFECTION, WELL BEING - Q2, PERIODONTITIS BLEEDING ON PROBING NATURAL TEETH, NUTRIENTS, LIGHT/SUN EXPOSURE - YOUNG PHASE 3, ACTIGRAPH OUT, BODY WEIGHT - Q2, BODILY FUNCTIONS PO70 - Q2, ECHO, TRAINING AND ALCOHOL LAST WEEK, GLOBAL VIEW LAX (LONG LV AXIS) - ECHO, URINATING PROBLEMS - Q2, FOOD INTAKE SINGLE ITEMS, SMOKING (QU-1), SMOKING, PHYSICAL EXAMINATION, FAMILY (QU-1), PAIN SENSITIVITY TEST, LABORATORY DATA, EMPLOYMENT, IDENTIFICATION, PERIODONTITIS BLEEDING ON PROBING, ALCOHOL AND TOBACCO, GENERAL INFORMATION, BLEEDING ON PROBING INDEX NATURAL TEETH, WOMEN ONLY - Q2, USE OF HEALTH SERVICES - Q1, FOOD INTAKE MAIN CATEGORIES - FFQ, FAMILY AND FRIENDS - Q2, FALLS - Q2, WORK - Q2, DEXA HIP, SEGMENTAL VIEW RV FREE WALL TIME VARIABLES - ECHO, EMPLOYMENT (QU-1), INCONTINENCE - Q2, ACTIGRAPH IN, BRAIN AND CIRCULATION, PHYSICAL EXAMINATION, USE OF ANTIBIOTICS THE LAST 24 HOURS, STATE OF HEALTH - Q2, NUTRIENTS - FFQ, DEXA TOTAL BODY, BLOOD SAMPLES, USE OF MEDICINE - Q1, WELL BEING - Q2, GLOBAL LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, BLOOD SAMPLES, PREGNANCY - Q2, CHILDHOOD/YOUTH AND AFFILIATION - Q2, MEDICINES - Q2, INFECTIONS AND HOSPITAL STAY - YOUNG PHASE 3, ILLNESS IN PARENTS AND SIBLINGS (QU-2), MENTAL TRAUMA - Q2, PERIODONTITIS POCKET DEPTH IMPLANTS, SEXUAL HEALTH - Q2, HEALTH AND ILLNESS - Q2, DEXA VFA, BLOOD SAMPLES, LIGHT/SUN EXPOSURE, DRUG USE - Q2, PHYSICAL EXAMINATION, ILLNESS AND WORRIES - Q2, PERIODONTAL DIAGNOSIS AND SUM SCORE PROBING DEPTH, COGNITIVE, WORRIES - Q2, ALCOHOL PU70 - Q2, EXERCISE (QU-1), PRE-MENSTRUAL TENSION - Q2, PERIODONTITIS BONE LEVEL NATURAL TEETH, MENSTRUATION - Q2, GENERAL INFORMATION, ILLNESS IN THE FAMILY - Q2, PHYSICAL ACTIVITY, MOBILE TELEPHONE - Q2, CAROTIS, ECHO, FOLLOW-UP EXAMINATION, USE OF SEX HORMONES - Q2, ILLNESS IN THE FAMILY, INTAKE OF ENERGY PROVIDING NUTRIENTS, ENERGY PERCENTAGE - FFQ, CERVICAL SMEAR TEST - Q2, INFERTILITY - Q2, INTERVIEW, PREGNANCY - Q2, FOLLOW-UP QUESTIONS ABOUT WORK IN COLD ENVIRONMENT - Q2, SPIROMETRY, HEADACHE - Q2, BODILY FUNCTIONS, AND SAFETY PO70, 24 HOUR URINE, COGNITIVE, GENERAL INFORMATION, PANORAMIC RADIOMORPHOMETRIC INDICES, OWN ILLNESS (QU-1), USE OF MEDICINE, GENERAL STATE OF HEALTH - Q2, MEDICATION AND DIETARY SUPPLEMENTS - Q2, FAMILY AND FRIENDS - Q2, PLAQUE, HOME - Q2, ALCOHOL, DENTAL CARIES, EXERCISE AND PHYSICAL ACTIVITY, PHYSICAL EXAMINATION, ACTIWAVE CARDIO, ALCOHOL, GLOBAL VIEW 2CH (TWO CHAMBER) - ECHO, SYMPTOMS - Q2, MENSTRUATION - Q2, PHYSICAL EXAMINATION, HEALTH ANXIETY, GENERAL INFORMATION, SCHOOLING - Q2, CANCER, LABORATORY DATA, ECHO - CAUSE OF REFERRAL, PHYSICAL EXAMINATION, BALANCE, CHILDHOOD/YOUTH AND AFFILIATION, SMOKING, TOBACCO AND SNUFF, AIRWAY INFECTION, SMOKING, MARRIAGE/PARTNER - Q2, BACK AND JOINTS CONDITIONS - Q2, OWN ILLNESS PAST OR PRESENT (QU-2), EDUCATION AND INCOME, STATE OF HEALTH - Q2, EMPLOYMENT - Q2, EXERCISE, FAMILY AND FRIENDS, DENTAL CARIES SURFACE LEVEL, SEGMENTAL VIEW 4CH (FOUR CHAMBER) TIME VARIABLES - ECHO, BLEEDING ON PROBING INDEX IMPLANTS, MENSTRUATION STATUS AND USE OF ORAL CONTRACEPTIVES OR POSTMENOPAUSAL HORMONES, FOOD AND BEVERAGES, LABORATORY DATA, YOUR OWN DIET (QU-2), WOMEN ONLY, PERIODONTITIS POCKET DEPTH, HAIR, ANXIETY AND DEPRESSION - Q2, COFFEE, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) TIME VARIABLES - ECHO, PHYSICAL ACTIVITY - Q2, LABORATORY DATA, ACTIGRAPH, YOUR OWN HEALTH, DIET, CHANGE IN DIETARY HABITS AND OTHER HABIT - Q2, DEXA, INFECTIONS AND HOSPITAL STAY, USE OF ANTIBIOTICS THE LAST 24 HOURS - YOUNG PHASE 3, WOMEN ONLY, PHYSICAL EXAMINATION, DENTAL EROSIONS, WEIGHT, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, PERIODONTITIS BONE LEVEL, LIGHT/SUN EXPOSURE, CHILDHOOD/YOUTH - Q2, SOLVENTS - Q2, ACTIGRAPH CARDIO ADMIN, SEGMENTAL VIEW 4CH (FOUR CHAMBER) - ECHO, COMPLIMENTARY AND ALTERNATIVE MEDICINE - Q2, PAINKILLERS AND ANTIINFLAMMATORIC MEDICINES - Q2, EDUCATION AND WORK, WEIGHT - Q2, SLEEP - Q2, MEN ONLY, DEXA TOTAL BODY, SLEEPLESSNESS/LOSS OF CONSCIOUSNESS - Q2, SECONDARY CARIES SURFACE LEVEL, BLOOD SAMPLES, DEXA HIP, HOUSEHOLD - Q2, FAMILY AND FRIENDS, NECK, HEAD AND SHOULDER - Q2, NUTRIENTS"@nb ;
+    dcat:landingPage <https://uit.no/research/tromsostudy> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
+
+<http://helsedata.no> a dcat:Catalog ;
+    dct:identifier "http://helsedata.no" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister/>,
+        <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister/>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister/>,
+        <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister/>,
+        <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret/>,
+        <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret/>,
+        <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra/>,
+        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/>,
+        <https://uit.no/research/nowac>,
+        <https://uit.no/research/saminor_no>,
+        <https://uit.no/research/tromsostudy> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
