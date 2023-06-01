@@ -185,7 +185,7 @@ Further information on the data can be found on the Causes of death statistics w
     dcat:mediaType <Yes> ;
     dcat:packageFormat <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> a dcat:Dataset ;
+<https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret_NC_PoC/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
     dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
