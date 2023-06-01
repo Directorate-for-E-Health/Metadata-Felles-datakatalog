@@ -110,7 +110,7 @@ Further information on the data can be found on the Causes of death statistics w
     dcat:contactPoint [ a ns1:Organization ] ;
     dcat:dataset <https://helsedata.fi/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
         <https://helsedata.is/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret_NC_PoC/>,
         <https://helsedata.se/en/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ;
     dcat:landingPage <https://helsedata.no> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL> .
@@ -190,7 +190,7 @@ Further information on the data can be found on the Causes of death statistics w
     dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/ANNUAL> ;
     dct:description """The Norwegian Cause of Death Registry covers deaths amongst those registered as inhabitants of Norway, and include history from 1951. Deaths of non-citizens is included after medio-2012.
 The regististry is the source of the official cause of death statistics for Norway."""@en ;
-    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/" ;
+    dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret_NC_PoC/" ;
     dct:language <http://publications.europa.eu/resource/authority/language/ENG> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country//NOR> ;
     dct:title "The Norwegian cause of death registry_NordicCommons_ PoC"@nb ;
