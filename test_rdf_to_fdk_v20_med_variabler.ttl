@@ -35,7 +35,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Norwegian Cause of Death Registry Analysis"@en,
         "DÅR Analyse"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variabler_test_01.csv> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> ;
     csvw:tableSchema [
       csvw:column (
