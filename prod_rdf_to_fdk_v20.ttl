@@ -579,7 +579,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/48000642103> a dcat:Distribution ;
-    dct:description "The women enrolled in the first wave got a follow up questionnaire after 4-6 years. The questionnaires in NOWAC concerns lifestyle habits that change with age. To investigate these changes, the women who answered a questionnaire in 1991-92, 1995-97 and 2003-2005 got a 4 or 8 p. follow up questionnaire in 1998-2002 or 2014. The questions were overlapping with wave 1."@nb ;
+    dct:description "The women enrolled in the first wave got a follow up questionnaire after 4-6 years. The questionnaires in concerns lifestyle habits that change with age. To investigate these changes, the women who answered a questionnaire in 1991-92, 1995-97 and 2003-2005 got a 4 or 8 p. follow up questionnaire in 1998-2002 or 2014. The questions were overlapping with wave 1."@nb ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
@@ -1045,7 +1045,7 @@ NOWAC’s scientific leader Tonje Braaten +47 77 64 48 20/o	NOWAC’s administra
         "The Norwegian Women and Cancer study (NOWAC)"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasEmail <mailto:NOWAC@uit.no> ;
-            ns1:hasURL <[https://uit.no/research/nowac](https://uit.no/research/nowac)> ] ;
+            ns1:hasURL <https://uit.no/research/nowac> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/278000642107>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/48000642103>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/528000642105>,
@@ -1103,7 +1103,7 @@ saminor@uit.no<br><br>\r
         "The SAMINOR Study"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasEmail <mailto:saminor@uit.no> ;
-            ns1:hasURL <[www.saminor.no](www.saminor.no)> ] ;
+            ns1:hasURL <www.saminor.no> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/18000636103>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/38000636107>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/48000636102> ;
@@ -1149,7 +1149,7 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
         "The Tromsø study"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasEmail <mailto:tromsous@uit.no> ;
-            ns1:hasURL <[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)> ] ;
+            ns1:hasURL <https://uit.no/research/tromsostudy> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/108000630102>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/128000630106>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/138000630109>,
