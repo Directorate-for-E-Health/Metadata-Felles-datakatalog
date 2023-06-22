@@ -11,7 +11,7 @@
     dct:title "The Health Archive Registry "@en,
         "Datasamling NHA"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/abortregisteret//distribution/38000583104> a dcat:Distribution ;
@@ -23,7 +23,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Abortregisteret Utlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38000663108> a dcat:Distribution ;
@@ -34,7 +34,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Norwegian Cause of Death Registry Analysis"@en,
         "DÅR Analyse"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/38000651102> a dcat:Distribution ;
@@ -45,7 +45,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Information about the prescriber (profession and speciality)"@en,
         "Rekvirentopplysninger"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/legemiddelregisteret//distribution/48000651107> a dcat:Distribution ;
@@ -56,7 +56,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Drug dispensation, pharmacy"@en,
         "Legemiddelutlevering apotek"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/18000598108> a dcat:Distribution ;
@@ -67,7 +67,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Assisted reproductive technology"@en,
         "Assistert befruktning utlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/medisinsk-fodselsregister//distribution/48000598107> a dcat:Distribution ;
@@ -78,7 +78,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:title "Medical Birth Registry of Norway"@en,
         "Medisinsk fødselsregister utlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-register-over-hjerte--og-karlidelser//distribution/28000427101> a dcat:Distribution ;
@@ -91,7 +91,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000405106> a dcat:Distribution ;
@@ -102,7 +102,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/18000682107> a dcat:Distribution ;
@@ -113,7 +113,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Hovedskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/28000682101> a dcat:Distribution ;
@@ -124,7 +124,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Skjema for pakkeforløp"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/38000682103> a dcat:Distribution ;
@@ -135,7 +135,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Trombektomiskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/68000682105> a dcat:Distribution ;
@@ -146,7 +146,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Oppfølgingsskjema for Norsk hjerneslagregister"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/reseptbasert-legemiddelregister//distribution/18000464100> a dcat:Distribution ;
@@ -157,7 +157,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "ReseptregisteretUtlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/forsvarsdepartementet/forsvarets-helseregister//distribution/38000420101> a dcat:Distribution ;
@@ -168,7 +168,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "The Norwegian Armed Forces Health Registry"@en,
         "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/28000700104> a dcat:Distribution ;
@@ -186,7 +186,7 @@ Eksklusjonskriterier:
     dct:rights <http://helsedata.no> ;
     dct:title "Helse- og omsorgstjenester"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/kommunalt-pasient--og-brukerregister//distribution/48000700108> a dcat:Distribution ;
@@ -208,7 +208,7 @@ Eksklusjonskriterier:
     dct:rights <http://helsedata.no> ;
     dct:title "Fastlege, legevakt, fysioterapi mm."@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/118000693100> a dcat:Distribution ;
@@ -220,7 +220,7 @@ Vurder behov og detaljeringsnivå på kodene. Hvilke koder er nødvendige og rel
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Medisinske data"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/128000693105> a dcat:Distribution ;
@@ -232,7 +232,7 @@ Vurder hvilke opplysninger som er nødvendige og relevante for å oppnå formål
     dct:rights <http://helsedata.no> ;
     dct:title "Pasient"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/138000693108> a dcat:Distribution ;
@@ -256,7 +256,7 @@ For opplysninger om pasienter som venter på undersøkelse eller behandling ved 
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Henvisning og henvisningsperiode"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/148000693101> a dcat:Distribution ;
@@ -277,7 +277,7 @@ I tillegg gir variabelgruppe gjennomføringsvedtak (Phvl. kap 4) informasjon om 
     dct:rights <http://helsedata.no> ;
     dct:title "Tvang i psykisk helsevern (PHV, PHBU)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/18000693109> a dcat:Distribution ;
@@ -292,7 +292,7 @@ I tillegg gir variabelgruppe gjennomføringsvedtak (Phvl. kap 4) informasjon om 
     dct:rights <http://helsedata.no> ;
     dct:title "OBLIGATORISKE VALG"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/28000693104> a dcat:Distribution ;
@@ -306,7 +306,7 @@ For tjenesteområdet somatiske sykehus (SOM): Vær obs på variabelgruppen 'Type
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Pasientens kontakt med helsetjenesten"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/38000693101> a dcat:Distribution ;
@@ -320,7 +320,7 @@ Norsk pasientregisterforskriften gir somatiske sykehus hjemmel og plikt til regi
     dct:rights <http://helsedata.no> ;
     dct:title "Personskade (FMDS) (SOM)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/48000693108> a dcat:Distribution ;
@@ -338,7 +338,7 @@ Dersom det kun er nødvendig med opplysninger om henvisninger/henvisningsperiode
     dct:rights <http://helsedata.no> ;
     dct:title "Venteliste og pasientrettigheter"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/58000693105> a dcat:Distribution ;
@@ -347,7 +347,7 @@ Dersom det kun er nødvendig med opplysninger om henvisninger/henvisningsperiode
     dct:rights <http://helsedata.no> ;
     dct:title "Om innrapporteringen"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/68000693107> a dcat:Distribution ;
@@ -369,7 +369,7 @@ For mer detaljert informasjon om innrapportering av virksomhetsdata, se XPR-komp
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Behandlingsenhet"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/78000693103> a dcat:Distribution ;
@@ -385,7 +385,7 @@ NPK står for Norsk pasientklassifisering og er programvaren som gjennomfører D
     dct:rights <http://helsedata.no> ;
     dct:title "Innsatsstyrt finansiering (ISF)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helsedirektoratet/norsk-pasientregister//distribution/88000693100> a dcat:Distribution ;
@@ -399,7 +399,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "Kartlegging av russituasjon (RSIT) (TSB)"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/108000614106> a dcat:Distribution ;
@@ -410,7 +410,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Gynecological Cancer - Cervix"@en,
         "Nasjonalt kvalitetsregister for gynekologisk kreft - livmorhals"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/118000614108> a dcat:Distribution ;
@@ -421,7 +421,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Lung Cancer"@en,
         "Nasjonalt kvalitetsregister for lungekreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/128000614102> a dcat:Distribution ;
@@ -432,7 +432,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Colorectal Cancer"@en,
         "Nasjonalt kvalitetsregister for tykk- og endetarmskreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/138000614100> a dcat:Distribution ;
@@ -443,7 +443,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Breast Cancer"@en,
         "Nasjonalt kvalitetsregister for brystkreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/18000614101> a dcat:Distribution ;
@@ -454,7 +454,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Melanoma"@en,
         "Nasjonalt kvalitetsregister for melanom"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/28000614107> a dcat:Distribution ;
@@ -465,7 +465,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Prostate Cancer"@en,
         "Nasjonalt kvalitetsregister for prostatakreft"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/38000614109> a dcat:Distribution ;
@@ -476,7 +476,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "Core variables - additional"@en,
         "Kjernevariabler - ekstra"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/68000614104> a dcat:Distribution ;
@@ -487,7 +487,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Lymphoid Malignancies"@en,
         "Nasjonalt kvalitetsregister for lymfoide maligniteter"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/78000614106> a dcat:Distribution ;
@@ -498,7 +498,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "Core variables - incidence"@en,
         "Kjernevariabler - insidens"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/kreftregisteret/kreftregisteret//distribution/88000614108> a dcat:Distribution ;
@@ -509,7 +509,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:title "National Clinical Registry for Gynecological Cancer - Ovary"@en,
         "Nasjonalt kvalitetsregister for gynekologisk kreft - eggstokk"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statens-legemiddelverk/bivirkningsregisteret//distribution/28000538103> a dcat:Distribution ;
@@ -521,7 +521,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Datautlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/18000514106> a dcat:Distribution ;
@@ -532,7 +532,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Income and consumption"@en,
         "Inntekt og forbruk"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/48000514105> a dcat:Distribution ;
@@ -543,7 +543,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Population"@en,
         "Befolkning"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/58000514107> a dcat:Distribution ;
@@ -554,7 +554,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "National Education Database (NUDB)"@en,
         "Nasjonal utdanningsdatabase"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/statistisk-sentralbyra-ssb/statistisk-sentralbyra//distribution/68000514109> a dcat:Distribution ;
@@ -565,7 +565,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Labour market "@en,
         "Arbeidsmarked"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/278000642107> a dcat:Distribution ;
@@ -575,7 +575,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Death"@en,
         "Death"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/48000642103> a dcat:Distribution ;
@@ -586,7 +586,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Wave 2"@en,
         "Wave 2"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/528000642105> a dcat:Distribution ;
@@ -596,7 +596,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Cancer"@en,
         "Cancer"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/68000642102> a dcat:Distribution ;
@@ -607,7 +607,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Wave 1"@en,
         "Wave 1"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/78000642108> a dcat:Distribution ;
@@ -618,7 +618,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "All waves - derived variables"@en,
         "All waves - derived variables"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/88000642105> a dcat:Distribution ;
@@ -629,7 +629,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:title "Wave 3"@en,
         "Wave 3"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/18000636103> a dcat:Distribution ;
@@ -641,7 +641,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "The SAMINOR 2 Clinical Survey"@en,
         "The SAMINOR 2 Clinical Survey"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/38000636107> a dcat:Distribution ;
@@ -652,7 +652,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "The SAMINOR 1 Survey"@en,
         "The SAMINOR 1 Survey"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/48000636102> a dcat:Distribution ;
@@ -663,7 +663,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "The SAMINOR 2 Questionnaire Survey"@en,
         "The SAMINOR 2 Questionnaire Survey"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/108000630102> a dcat:Distribution ;
@@ -674,7 +674,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø5 - The Fifth Tromsø Study"@en,
         "Tromsø5 - The Fifth Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/128000630106> a dcat:Distribution ;
@@ -685,7 +685,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø6 - The Sixth Tromsø Study"@en,
         "Tromsø6 - The Sixth Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/138000630109> a dcat:Distribution ;
@@ -696,7 +696,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø7 - The Seventh Tromsø Study"@en,
         "Tromsø7 - The Seventh Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/148000630100> a dcat:Distribution ;
@@ -707,7 +707,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø1 - The First Tromsø Study"@en,
         "Tromsø1 - The First Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/38000630100> a dcat:Distribution ;
@@ -718,7 +718,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø2 - The Second Tromsø Study"@en,
         "Tromsø2 - The Second Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/68000630108> a dcat:Distribution ;
@@ -729,7 +729,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø3 - The Third Tromsø Study"@en,
         "Tromsø3 - The Third Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/98000630101> a dcat:Distribution ;
@@ -740,7 +740,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tromsø4 - The Fourth Tromsø Study"@en,
         "Tromsø4 - The Fourth Tromsø Study"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/18000570105> a dcat:Distribution ;
@@ -750,7 +750,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "12 mnd postoperativt pasientskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000570103> a dcat:Distribution ;
@@ -760,7 +760,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Preoperativt pasientskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000570109> a dcat:Distribution ;
@@ -770,7 +770,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Personopplysninger"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000570106> a dcat:Distribution ;
@@ -780,7 +780,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Perioperativt legeskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000570108> a dcat:Distribution ;
@@ -790,7 +790,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "3 mnd postoperativt pasientskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/prod_rdf_to_fdk_v20.ttl> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> a dcat:Dataset ;
