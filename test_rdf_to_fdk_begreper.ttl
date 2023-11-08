@@ -3,6 +3,7 @@
 @prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret//distribution/38001226102> a dcat:Distribution ;
     dct:description "Contains data from The Norwegian Cause of Death Registry prepared for analysis"@en ;
