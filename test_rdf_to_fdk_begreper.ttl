@@ -95,7 +95,7 @@ skos:definition 'Versjon av ICD brukt for koding av dødsfallet.' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Bostedskommune ved dødstidspunkt> a skos:concept ;
+<https://example.com/test/Bostedskommune_ved_dødstidspunkt> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_BOKOMMUNE_K' ;
 skos:prefLabel 'Bostedskommune ved dødstidspunkt' ;
 skos:definition 'Andre' ;
@@ -116,7 +116,7 @@ skos:definition 'Andre' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Registreringskilder for dødsfallet> a skos:concept ;
+<https://example.com/test/Registreringskilder_for_dødsfallet> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_REGISTRERINGSKILDER_K' ;
 skos:prefLabel 'Registreringskilder for dødsfallet' ;
 skos:definition 'Utledet' ;
@@ -130,7 +130,7 @@ skos:definition 'OBDUKSJON_LABORATORIUM_K' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Spesielle omstendigheter ved dødsfall - B> a skos:concept ;
+<https://example.com/test/Spesielle_omstendigheter_ved_dødsfall_-_B> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_SPES_OMST_B_K' ;
 skos:prefLabel 'Spesielle omstendigheter ved dødsfall - B' ;
 skos:definition 'Andre' ;
@@ -144,28 +144,28 @@ skos:definition 'Andre' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Alder i dager> a skos:concept ;
+<https://example.com/test/Alder_i_dager> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ALDER_DAGER' ;
 skos:prefLabel 'Alder i dager' ;
 skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Årsaksdiagnose Ib> a skos:concept ;
+<https://example.com/test/Årsaksdiagnose_Ib> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_IB' ;
 skos:prefLabel 'Årsaksdiagnose Ib' ;
 skos:definition 'Kode Ib som utfylt på dødsmelding' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Medvirkende dødsårsak> a skos:concept ;
+<https://example.com/test/Medvirkende_dødsårsak> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_II' ;
 skos:prefLabel 'Medvirkende dødsårsak' ;
-skos:definition 'Annen vesentlig tilstand som kan ha bidratt til dødens inntreden, uten direkte årsakssammenheng. Kodet på bakgrunn av fritekst i skjemafelt 'Opplysning om dødsårsaken II'.' ;
+skos:definition 'Annen vesentlig tilstand som kan ha bidratt til dødens inntreden, uten direkte årsakssammenheng. Kodet på bakgrunn av fritekst i skjemafelt .' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Kommune hvor dødsfallet fant sted> a skos:concept ;
+<https://example.com/test/Kommune_hvor_dødsfallet_fant_sted> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_DODSKOMMUNE_K' ;
 skos:prefLabel 'Kommune hvor dødsfallet fant sted' ;
 skos:definition 'Andre' ;
@@ -179,7 +179,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Oppholdsgrunnlag ved dødstidspunktet> a skos:concept ;
+<https://example.com/test/Oppholdsgrunnlag_ved_dødstidspunktet> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_OPPHOLDSKATEGORI_K' ;
 skos:prefLabel 'Oppholdsgrunnlag ved dødstidspunktet' ;
 skos:definition 'Oppholdsgrunnlag ved dødstidspunktet' ;
@@ -193,7 +193,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Fylke hvor dødsfallet fant sted> a skos:concept ;
+<https://example.com/test/Fylke_hvor_dødsfallet_fant_sted> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_DODSFYLKE_K' ;
 skos:prefLabel 'Fylke hvor dødsfallet fant sted' ;
 skos:definition 'DODSFYLKE_K' ;
@@ -207,7 +207,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Spesielle omstendigheter ved dødsfall - A> a skos:concept ;
+<https://example.com/test/Spesielle_omstendigheter_ved_dødsfall_-_A> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_SPES_OMST_A_K' ;
 skos:prefLabel 'Spesielle omstendigheter ved dødsfall - A' ;
 skos:definition 'Andre' ;
@@ -221,7 +221,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Europeisk kortliste for dødsårsaker 2012> a skos:concept ;
+<https://example.com/test/Europeisk_kortliste_for_dødsårsaker_2012> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_EU_SHORTLIST_2012_K' ;
 skos:prefLabel 'Europeisk kortliste for dødsårsaker 2012' ;
 skos:definition 'Klassifisering av underliggende dødsårsak i henhold til European Shortlist for Causes of Death(2012). Utvidet av FHI til å også klassifisere ICD-6/7.' ;
@@ -235,35 +235,35 @@ skos:definition 'Andre' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Folkeregistrert land hvor dødsfallet fant sted> a skos:concept ;
+<https://example.com/test/Folkeregistrert_land_hvor_dødsfallet_fant_sted> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_DODSLAND_FREG_K' ;
 skos:prefLabel 'Folkeregistrert land hvor dødsfallet fant sted' ;
 skos:definition 'DODSLAND_FREG_K' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Bostedsfylke ved dødstidspunkt> a skos:concept ;
+<https://example.com/test/Bostedsfylke_ved_dødstidspunkt> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_BOFYLKE_K' ;
 skos:prefLabel 'Bostedsfylke ved dødstidspunkt' ;
 skos:definition 'Andre' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Tilhørende versjon av variabeldokumentasjon> a skos:concept ;
+<https://example.com/test/Tilhørende_versjon_av_variabeldokumentasjon> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_VERSJON_RECORD' ;
 skos:prefLabel 'Tilhørende versjon av variabeldokumentasjon' ;
 skos:definition 'VERSJON_RECORD' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Årsaksdiagnose Ie> a skos:concept ;
+<https://example.com/test/Årsaksdiagnose_Ie> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_IE' ;
 skos:prefLabel 'Årsaksdiagnose Ie' ;
-skos:definition 'Diagnosen(e) som antas å ha ført til Årsaksdiagnose Id, tolket fra fritekst i skjemafelt 'Opplysning om dødsårsaken Ia-d'' ;
+skos:definition 'Diagnosen(e) som antas å ha ført til Årsaksdiagnose Id, tolket fra fritekst i skjemafelt ' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Folkeregistrert bostedsland ved dødstidspunkt> a skos:concept ;
+<https://example.com/test/Folkeregistrert_bostedsland_ved_dødstidspunkt> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_BOLAND_FREG_K' ;
 skos:prefLabel 'Folkeregistrert bostedsland ved dødstidspunkt' ;
 skos:definition 'Andre' ;
@@ -291,7 +291,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Alder i år> a skos:concept ;
+<https://example.com/test/Alder_i_år> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ALDER_AAR' ;
 skos:prefLabel 'Alder i år' ;
 skos:definition 'Utledet' ;
@@ -319,7 +319,7 @@ skos:definition 'Utledet' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Hovedkilde for dødsfall> a skos:concept ;
+<https://example.com/test/Hovedkilde_for_dødsfall> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_HOVEDKILDE' ;
 skos:prefLabel 'Hovedkilde for dødsfall' ;
 skos:definition 'Utledet' ;
@@ -333,14 +333,14 @@ skos:definition 'Detaljering av evt. skade.' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Årsaksdiagnose Ia> a skos:concept ;
+<https://example.com/test/Årsaksdiagnose_Ia> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_IA' ;
 skos:prefLabel 'Årsaksdiagnose Ia' ;
 skos:definition 'Kode Ia som utfylt på dødsmelding' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Alle diagnoser> a skos:concept ;
+<https://example.com/test/Alle_diagnoser> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ALLE_KODER' ;
 skos:prefLabel 'Alle diagnoser' ;
 skos:definition 'Liste over alle diagnoser som er knyttet til dødsfallet.' ;
@@ -354,28 +354,28 @@ skos:definition 'Hvorvidt avdøde er regnet som bosatt i Norge ved dødstidspunk
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Land hvor dødsfallet fant sted> a skos:concept ;
+<https://example.com/test/Land_hvor_dødsfallet_fant_sted> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_DODSLAND_K' ;
 skos:prefLabel 'Land hvor dødsfallet fant sted' ;
 skos:definition 'DODSLAND_K' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Årsaksdiagnose Ic> a skos:concept ;
+<https://example.com/test/Årsaksdiagnose_Ic> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_IC' ;
 skos:prefLabel 'Årsaksdiagnose Ic' ;
 skos:definition 'Kode Ic som utfylt på dødsmelding' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Årsaksdiagnose Id> a skos:concept ;
+<https://example.com/test/Årsaksdiagnose_Id> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_ARSAK_DIAGNOSER_ID' ;
 skos:prefLabel 'Årsaksdiagnose Id' ;
-skos:definition 'Kode Id som utfylt på dødsmelding, eller diagnosen(e) som antas å ha ført til Årsaksdiagnose Ic, tolket fra fritekst i skjemafelt 'Opplysning om dødsårsaken Ia-c'' ;
+skos:definition 'Kode Id som utfylt på dødsmelding, eller diagnosen(e) som antas å ha ført til Årsaksdiagnose Ic, tolket fra fritekst i skjemafelt ' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
 dct:publisher 'http://helsedata.no' .
 
-<https://example.com/test/Diagnosekode for underliggende dødsårsak> a skos:concept ;
+<https://example.com/test/Diagnosekode_for_underliggende_dødsårsak> a skos:concept ;
 dct:identifier 'https://example.com/test/V_DAR.DARANALY_DIAGNOSE_UNDERLIGGENDE_K' ;
 skos:prefLabel 'Diagnosekode for underliggende dødsårsak' ;
 skos:definition 'Den sykdom eller skade som startet rekken av sykelige tilstander som førte direkte til døden.' ;
