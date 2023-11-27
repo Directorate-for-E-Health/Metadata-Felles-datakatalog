@@ -10,7 +10,7 @@
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
     dct:title "Health registries"@en,
         "Helseregistre"@nb ;
-    dcat:dataset <http://example.com/.well-known/skolem/3cdcb9fa-44f0-41b9-99f9-57c51de5a3c0> ;
+    dcat:dataset <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
