@@ -41,7 +41,7 @@
     dcat:keyword "Health, Health registry, Health data"@en,
         "Helse, Helseregister, Helsedata"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/dodsarsaksregisteret/> ;
-    dct:subject <http://begrepskatalogen/begrep/testURISomIkkeFungerer> ;
+    dct:subject <http://begrepskatalogen/begrep/testURISomIkkeFungererMedPrefLabel> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
