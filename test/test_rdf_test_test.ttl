@@ -1,0 +1,59 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://helsedata.no> a dcat:Catalog ;
+    dct:identifier "http://helsedata.no" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset <http://example.com/.well-known/skolem/3cdcb9fa-44f0-41b9-99f9-57c51de5a3c0> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
+<http://example.com/.well-known/skolem/3cdcb9fa-44f0-41b9-99f9-57c51de5a3c0> a dcat:Dataset ;
+    dcat:subject <https://example.com/test/Alder_i_dager>,
+        <https://example.com/test/Alder_i_år>,
+        <https://example.com/test/Alle_diagnoser>,
+        <https://example.com/test/Bosattstatus>,
+        <https://example.com/test/Bostedsfylke_ved_dødstidspunkt>,
+        <https://example.com/test/Bostedskommune_ved_dødstidspunkt>,
+        <https://example.com/test/Diagnosekode_for_underliggende_dødsårsak>,
+        <https://example.com/test/Diagnosekodeverk>,
+        <https://example.com/test/Dødsdag>,
+        <https://example.com/test/Dødsdato>,
+        <https://example.com/test/Dødsmåned>,
+        <https://example.com/test/Dødssted>,
+        <https://example.com/test/Dødsår>,
+        <https://example.com/test/Europeisk_kortliste_for_dødsårsaker_2012>,
+        <https://example.com/test/Folkeregistrert_bostedsland_ved_dødstidspunkt>,
+        <https://example.com/test/Folkeregistrert_land_hvor_dødsfallet_fant_sted>,
+        <https://example.com/test/Fylke_hvor_dødsfallet_fant_sted>,
+        <https://example.com/test/Fødselsdag>,
+        <https://example.com/test/Fødselsdato>,
+        <https://example.com/test/Fødselsmåned>,
+        <https://example.com/test/Fødselsår>,
+        <https://example.com/test/Hovedkilde_for_dødsfall>,
+        <https://example.com/test/Identitet>,
+        <https://example.com/test/Kjønn>,
+        <https://example.com/test/Kommune_hvor_dødsfallet_fant_sted>,
+        <https://example.com/test/Land_hvor_dødsfallet_fant_sted>,
+        <https://example.com/test/Medvirkende_dødsårsak>,
+        <https://example.com/test/Obduksjonslaboratorium>,
+        <https://example.com/test/Obduksjonstype>,
+        <https://example.com/test/Oppholdsgrunnlag_ved_dødstidspunktet>,
+        <https://example.com/test/Publiseringsversjon>,
+        <https://example.com/test/Registreringskilder_for_dødsfallet>,
+        <https://example.com/test/Skadeaktivitet>,
+        <https://example.com/test/Skadediagnose>,
+        <https://example.com/test/Skadested>,
+        <https://example.com/test/Spesielle_omstendigheter_ved_dødsfall_-_A>,
+        <https://example.com/test/Spesielle_omstendigheter_ved_dødsfall_-_B>,
+        <https://example.com/test/Tilhørende_versjon_av_variabeldokumentasjon>,
+        <https://example.com/test/Årsaksdiagnose_Ia>,
+        <https://example.com/test/Årsaksdiagnose_Ib>,
+        <https://example.com/test/Årsaksdiagnose_Ic>,
+        <https://example.com/test/Årsaksdiagnose_Id>,
+        <https://example.com/test/Årsaksdiagnose_Ie> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
