@@ -1,0 +1,506 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/18001478108> a dcat:Distribution ;
+    dct:description """Sample collection for population based Study on Health and Living Conditions in Regions with Sami and Norwegian Populations. Saminor 2<br>
+**Sex**
+Male, Female<br>
+**Age low**
+30<br>
+**Age high**
+79<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+16900<br>
+**Size**
+100000-1000000<br>
+**Available**
+76000<br>
+**Contact information**
+[https://uit.no/research/saminor_no](https://uit.no/research/saminor_no)
+saminor@uit.no<br>
++47 77 64 00 00
+Centre for Sami Health Research
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Saminor Study 2 - collection"@en,
+        "The Saminor Study 2 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/28001478100> a dcat:Distribution ;
+    dct:description """Sample collection for population based Study on Health and Living Conditions in Regions with Sami and Norwegian Populations. Saminor 1<br>
+**Sex**
+Male, Female<br>
+**Age low**
+30<br>
+**Age high**
+79<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+16900<br>
+**Size**
+100000-1000000<br>
+**Available**
+68000<br>
+**Contact information**
+[https://uit.no/research/saminor_no](https://uit.no/research/saminor_no)
+saminor@uit.no<br>
++47 77 64 00 00
+Centre for Sami Health Research
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Saminor Study 1 - collection"@en,
+        "The Saminor Study 1 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/18001474105> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Fifth Tromsø Study<br>
+**Sex**
+Male, Female<br>
+**Age low**
+28<br>
+**Age high**
+95<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+16200<br>
+**Size**
+100000-1000000<br>
+**Available**
+96000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 5 - collection"@en,
+        "The Tromsø Study 5 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/28001474103> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Fourth Tromsø Study<br>
+**Survey data**
+[Tromsø4 - The First Tromsø Study](https://helsedata-test02.qa.nhn.no/no/variabler/?datakilde=K_TR&page=search) <br>
+**Sex**
+Male, Female <br>
+**Age low**
+30<br>
+**Age high**
+89<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+6700<br>
+**Size**
+10000-100000<br>
+**Available**
+31000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 4 - collection"@en,
+        "The Tromsø Study 4 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/38001474100> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Third Tromsø Study<br>
+**Sex**
+Male, Female<br>
+**Age low**
+33<br>
+**Age high**
+91<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+21200<br>
+**Size**
+100000-1000000<br>
+**Available**
+120000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 3 - collection"@en,
+        "The Tromsø Study 3 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/48001474109> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Second Tromsø Study<br>
+**Sex**
+Male, Female<br>
+**Age low**
+28<br>
+**Age high**
+95<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+16200<br>
+**Size**
+100000-1000000<br>
+**Available**
+96000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 2 - collection"@en,
+        "The Tromsø Study 2 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/58001474106> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The First Tromsø Study<br>
+**Survey data**
+[Tromsø1 - The First Tromsø Study](https://helsedata-test02.qa.nhn.no/no/variabler/?datakilde=K_TR&page=search) <br>
+**Sex**
+Male<br>
+**Age low**
+30<br>
+**Age high**
+89<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+6700<br>
+**Size**
+10000-100000<br>
+**Available**
+31000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 1 - collection"@en,
+        "The Tromsø Study 1 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/78001474102> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Seventh Tromsø Study<br>
+**Sex**
+Male, Female<br>
+**Age low**
+33<br>
+**Age high**
+91<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+21200<br>
+**Size**
+100000-1000000<br>
+**Available**
+120000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 7 - collection"@en,
+        "The Tromsø Study 7 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/88001474104> a dcat:Distribution ;
+    dct:description """Sample collection for population based health study of the general population of Tromsø. The Sixth Tromsø Study<br>
+**Sex**
+Male, Female<br>
+**Age low**
+33<br>
+**Age high**
+91<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+21200<br>
+**Size**
+100000-1000000<br>
+**Available**
+120000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "The Tromsø Study 6 - collection"@en,
+        "The Tromsø Study 6 - sample collection"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/test_rdf_to_fdk_v20.ttl> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description """Sample collections for population based Study on Health and Living Conditions in Regions with Sami and Norwegian Populations<br>
+(Aggregated data)
+**Sex**
+Male, Female<br>
+**Age low**
+30<br>
+**Age high**
+79<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+28200<br>
+**Size**
+100000-1000000<br>
+**Available**
+92000<br>
+**Contact information**
+[https://uit.no/research/saminor_no](https://uit.no/research/saminor_no)
+saminor@uit.no<br>
++47 77 64 00 00
+Centre for Sami Health Research
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/" ;
+    dct:issued "1974-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/970422528> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "UiT The Arctic University of Norway - Biobank"@en,
+        "The Saminor Study - sample collections"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/18001478108>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/28001478100> ;
+    dcat:keyword "Lokale egenskaper, MIABIS"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
+<https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description """Sample collections for population based health study of the general population of Tromsø<br>
+**Survey data**
+[The Tromsø Study](https://helsedata-test02.qa.nhn.no/no/variabler/?datakilde=K_TR&page=search) <br>
+(Aggregated data)
+**Sex**
+Male, Female<br>
+**Age low**
+28<br>
+**Age high**
+95<br>
+**Age unit**
+Years<br>
+**Data categories**
+Biological samples, Imaging data, National registries, Physiological/Biochemical measurements, Survey data<br>
+**Material type**
+DNA, Feces, Plasma, Serum, Urine, Whole Blood<br>
+**Storage temperature**
+-18°C to -35°C, -60°C to -80°C<br>
+**Collection type**
+Cohort, Image collection, Longitudinal, Population-based, Sample collection<br>
+**Donors**
+24700<br>
+**Size**
+100000-1000000<br>
+**Available**
+120000<br>
+**Contact information**
+[https://uit.no/research/tromsostudy](https://uit.no/research/tromsostudy)
+tromsous@uit.no<br>
+Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin Kanstad +47 77 64 48 86
+Department of Community Medicine
+UiT The Arctic University of Norway
+PP Box 6050 Langnes
+N-9037 Tromsø
+NORWAY"""@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/" ;
+    dct:issued "1974-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/970422528> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Tromsø Study - Sample collections"@en,
+        "The Tromsø Study - sample collections"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/18001474105>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/28001474103>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/38001474100>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/48001474109>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/58001474106>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/78001474102>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/88001474104> ;
+    dcat:keyword "Lokale egenskaper, MIABIS"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
+<http://helsedata.no> a dcat:Catalog ;
+    dct:identifier "http://helsedata.no" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/>,
+        <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
