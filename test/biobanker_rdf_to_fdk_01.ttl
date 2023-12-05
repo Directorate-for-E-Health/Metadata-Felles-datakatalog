@@ -496,7 +496,7 @@ NORWAY"""@nb ;
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
 <http://helsedata.no> a dcat:Catalog ;
-    dct:identifier "http://helsedata.no" ;
+    dct:identifier "http://helsedata_blodbank.no" ;
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
     dct:title "Health registries"@en,
         "Helseregistre"@nb ;
