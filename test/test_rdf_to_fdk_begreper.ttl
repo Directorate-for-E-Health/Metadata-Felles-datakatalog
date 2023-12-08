@@ -312,7 +312,7 @@ dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehel
 dct:publisher 'http://helsedata.no' .
 
 <https://example.com/test/Land_hvor_dødsfallet_fant_sted> a skos:Concept ;
-dct:identifier 'https://helsedata.no/no/variabler/?page=search&variabel=V_DAR.DODSLAND_K-K_DAR.DARANALY ;
+dct:identifier 'https://helsedata.no/no/variabler/?page=search&variabel=V_DAR.DODSLAND_K-K_DAR.DARANALY' ;
 skos:prefLabel 'Land hvor dødsfallet fant sted' ;
 skos:definition 'DODSLAND_K' ;
 dcat:contactPoint [ a vcard:Organization ; vcard:hasEmail <mailto:helsedata@ehelse.no> ; ] ;
