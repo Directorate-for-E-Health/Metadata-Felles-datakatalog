@@ -11,8 +11,8 @@
 @prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
 
 <https://example.com/SPEhandlers/Crashtestdummy> a cpsv:PublicService;
-    cv:hasCompetentAuthority  <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516>;
-    dct:identifier            "SPEtestdummy0123";
-    dct:title                 "Secure Processing Environment Provider ASA"@en , "Secure Processing Environment Provider ASA"@no ;
-		dct:description			  "Dette er en beskrivelse av en generell tilbyder av sikre prosseseringstjenester"
-		dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    cv:hasCompetentAuthority <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516>;
+    dct:identifier "SPEtestdummy0123";
+    dct:title "Secure Processing Environment Provider ASA"@en , "Secure Processing Environment Provider ASA"@no ;
+    dct:description "Dette er en beskrivelse av en generell tilbyder av sikre prosseseringstjenester";
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> .
