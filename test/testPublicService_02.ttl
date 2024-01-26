@@ -1,0 +1,29 @@
+@prefix cpsv:   <http://purl.org/vocab/cpsv#> .
+@prefix cv:     <http://data.europa.eu/m8g/> .
+@prefix dcat:   <http://www.w3.org/ns/dcat#> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix eli:    <http://data.europa.eu/eli/ontology#> .
+@prefix foaf:   <http://xmlns.com/foaf/0.1/> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.com/SPEhandlers/Crashtestdummy> a cpsv:PublicService;
+    cv:hasCompetentAuthority <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516>;
+    dct:identifier "SPEtestdummy0123";
+    dct:title "Secure Processing Environment Provider ASA"@en , "Secure Processing Environment Provider ASA"@no ;
+    dct:description "Dette er en beskrivelse av en generell tilbyder av sikre prosseseringstjenester";
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    cpsv:produces <https://example.com/SPEhandlers/Crashtestdummy/service01> .
+
+<https://example.com/SPEhandlers/Crashtestdummy/service01> a cpsv:DataService;
+  dcat:endpointURL <https://selfservice.company.usethis.no> ;
+  dct:identifier "SPEtestdummy0123/service0123";
+  dct:title "Endpoint to create a project room"@en , "Endepunkt for opprettelse av prosjektrom"@no ;  
+  dct:description "Automatisk opprettelse av standard prosjektrom. NB, du må ha opprettet en bruker først." ;
+  dcat:keyword "Analyse, helsedata" ;
+  dcat:endpointDescription "REST-API, nettside".
+
+
