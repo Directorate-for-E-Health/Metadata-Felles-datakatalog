@@ -68,7 +68,6 @@ d:dee51f28-3acc-4773-972c-92eeeb8f43b1
         "The register shall contribute to safe and effective medicinal use, by continuously and systematically registering, processing and analyzing side effect reports and capturing adverse effect information from medicinal use as early as possible.  Information registered in the register can also be made available for management, planning and quality improvement of medicinal products and medicinal use and for research.";
     dct:identifier
         "http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1";
-    dct:isPartOf c:http://helsedataTestRDF_FDP.no;
     dct:language l:ENG;
     dct:license <http://rdflicense.appspot.com/rdflicense/cc-by-nc-nd3.0>;
     dct:publisher www:;
