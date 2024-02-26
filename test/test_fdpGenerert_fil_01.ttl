@@ -1,0 +1,157 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix n0: <http://ehelse.healthdataportal.eu/analytics/>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+@prefix he: <http://healthdataportal.eu/ns/health#>.
+@prefix d: <http://ehelse.healthdataportal.eu/dataset/>.
+@prefix r5r: <http://data.europa.eu/r5r/>.
+@prefix h: <http://healthdataportal.eu/resource/authority/healthcategories/>.
+@prefix pub: <http://healthdataportal.eu/resource/authority/publisher-type/>.
+@prefix n1: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix fre: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix pro: <http://ehelse.healthdataportal.eu/profile/>.
+@prefix c: <http://ehelse.healthdataportal.eu/catalog/>.
+@prefix l: <http://publications.europa.eu/resource/authority/language/>.
+@prefix www: <https://www.dmp.no/>.
+@prefix cou: <http://publications.europa.eu/resource/authority/country/>.
+@prefix d0: <http://publications.europa.eu/resource/authority/dataset-type/>.
+@prefix met: <http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1/metrics/>.
+@prefix n2: <http://www.w3.org/ns/adms#>.
+@prefix s: <http://ehelse.healthdataportal.eu/sample/>.
+@prefix dis: <http://ehelse.healthdataportal.eu/distribution/>.
+@prefix d1: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dqv: <http://www.w3.org/ns/dqv#>.
+@prefix o: <http://www.w3.org/ns/oa#>.
+@prefix iso: <https://eshielditservices.com/iso-27001/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix dpv: <https://w3id.org/dpv#>.
+@prefix dp: <https://w3id.org/dpv/dpv-pd#>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+@prefix dee: <http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1#>.
+@prefix n: <http://www.w3.org/2006/vcard/ns#>.
+@prefix core: <http://www.w3.org/2004/02/skos/core#>.
+
+n0:
+    dct:title "Analytics";
+    ldp:contains n0:6585ab9e-f6ac-4244-a024-484d9bfe3074;
+    ldp:hasMemberRelation he:analytics;
+    ldp:membershipResource d:dee51f28-3acc-4773-972c-92eeeb8f43b1;
+    a ldp:DirectContainer.
+d:dee51f28-3acc-4773-972c-92eeeb8f43b1
+    r5r:applicableLegislation
+    "https://lovdata.no/dokument/NL/lov/2014-06-20-43"@en;
+    he:analytics n0:6585ab9e-f6ac-4244-a024-484d9bfe3074;
+    he:healthCategory h:IDHP, h:PHDR;
+    he:healthTheme <https://www.wikidata.org/wiki/Property:P494>;
+    he:maxTypicalAge 120.0;
+    he:minTypicalAge 0.0;
+    he:numberOfRecords 1000000.0;
+    he:numberOfUniqueIndividuals 10000000.0;
+    he:publisherType pub:registry;
+    he:retentionPeriod
+            [
+                rdfs:comment ""@en;
+                dcat:endDate "1699-11-11"^^xsd:date;
+                dcat:startDate "1599-11-11"^^xsd:date;
+                a dct:PeriodOfTime
+            ];
+    dct:accessRights n1:RESTRICTED;
+    dct:accrualPeriodicity fre:ANNUAL;
+    dct:conformsTo pro:2f08228e-1789-40f8-84cd-28e3288c3604;
+    dct:description
+        "The register shall contribute to safe and effective medicinal use, by continuously and systematically registering, processing and analyzing side effect reports and capturing adverse effect information from medicinal use as early as possible.  Information registered in the register can also be made available for management, planning and quality improvement of medicinal products and medicinal use and for research.";
+    dct:identifier
+        "http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1";
+    dct:isPartOf c:http://helsedataTestRDF_FDP.no;
+    dct:language l:ENG;
+    dct:license <http://rdflicense.appspot.com/rdflicense/cc-by-nc-nd3.0>;
+    dct:publisher www:;
+    dct:spatial cou:NOR;
+    dct:temporal
+            [
+                dcat:endDate "2020-01-01"^^xsd:date;
+                dcat:startDate "2010-01-01"^^xsd:date;
+                a dct:PeriodOfTime
+            ];
+    dct:title "The Side Effects Registry";
+    dct:type d0:CODE_LIST, d0:PERSONAL_DATA;
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "The Side Effects Registry";
+    n2:sample s:70412443-6a28-4b74-a6a1-8f80eb57fe6c;
+    dcat:contactPoint <https://fhi.no>;
+    dcat:distribution dis:3953b0ba-7929-4588-aa0f-7070415c6df1;
+    dcat:keyword "medicinal";
+    dcat:landingPage
+        <internalURI:internalURI:internalURI:internalURI:internalURI:internalURI:internalURI:internalURI:internalURI:dmp.no>;
+    dcat:spatialResolutionInMeters 25.0;
+    dcat:theme d1:HEAL;
+    dqv:hasQualityAnnotation
+            [
+                o:hasBody iso:;
+                o:hasTarget iso:;
+                o:motivatedBy dqv:qualityAssessment;
+                a dqv:QualityCertificate
+            ];
+    prov:provenance
+    [ rdfs:label "Provenance is good"@en; a prov:ProvenanceStatement ];
+    dpv:hasPersonalData dp:Age, dp:Gender;
+    dpv:hasPurpose
+            [
+                dct:description
+                    "The register shall contribute to safe and effective medicinal use, by continuously and systematically registering, processing and analyzing side effect reports and capturing adverse effect information from medicinal use as early as possible."@en;
+                a dpv:Purpose
+            ];
+    fdp:metadataIdentifier dee:identifier;
+    fdp:metadataIssued "2024-02-07T13:26:16.082Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-02-09T12:34:13.244Z"^^xsd:dateTime;
+    a dcat:Dataset, dcat:Resource.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+dee:identifier
+    dct:identifier
+        "http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1";
+    a dcite:Identifier.
+dis:
+    dct:title "Distributions";
+    ldp:contains dis:3953b0ba-7929-4588-aa0f-7070415c6df1;
+    ldp:hasMemberRelation dcat:distribution;
+    ldp:membershipResource d:dee51f28-3acc-4773-972c-92eeeb8f43b1;
+    a ldp:DirectContainer.
+pro:2f08228e-1789-40f8-84cd-28e3288c3604 rdfs:label "Dataset Profile".
+
+s:
+    dct:title "Samples";
+    ldp:contains s:70412443-6a28-4b74-a6a1-8f80eb57fe6c;
+    ldp:hasMemberRelation n2:sample;
+    ldp:membershipResource d:dee51f28-3acc-4773-972c-92eeeb8f43b1;
+    a ldp:DirectContainer.
+<https://fhi.no> n:hasURL <https://fhi.no>; a n:Organization.
+
+www:
+    foaf:homepage www:;
+    foaf:mbox <mailto:info@fhi.no>;
+    foaf:name "Norwegian Institute of Public Health";
+    a foaf:Agent, foaf:Organization.
+<internalURI:ATC>
+    dct:identifier "ATC"^^xsd:anyURI;
+    core:prefLabel "Anatomical Therapeutic Chemical Classification System"@en;
+    a core:Concept.
+
+<http://helsedataTestRDF_FDP.no> a dcat:Catalog ;
+    dct:identifier "http://helsedataTestRDF_FDP.no" ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:title "Health registries"@en,
+        "Helseregistre"@nb ;
+    dcat:dataset "http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1";
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
