@@ -151,6 +151,6 @@ www:
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
     dct:title "Health registries"@en,
         "Helseregistre"@nb ;
-    dcat:dataset "http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1";
+    dcat:dataset <http://ehelse.healthdataportal.eu/dataset/dee51f28-3acc-4773-972c-92eeeb8f43b1>;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
