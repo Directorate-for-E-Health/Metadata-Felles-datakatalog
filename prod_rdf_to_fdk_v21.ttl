@@ -1354,7 +1354,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
 
 <http://helsedata.no> a dcat:Catalog ;
     dct:identifier "http://helsedata.no" ;
-    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/915933149> ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
     dct:title "Health registries"@en,
         "Helseregistre"@nb ;
     dcat:dataset <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/>,
