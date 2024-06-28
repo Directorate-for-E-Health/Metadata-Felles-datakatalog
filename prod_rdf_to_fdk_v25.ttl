@@ -10,7 +10,7 @@
     dct:rights <http://helsedata.no> ;
     dct:title "The Health Archive Registry "@en,
         "Datasamling NHA"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Helsearkivregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -22,7 +22,7 @@ The Norwegian Institute of Public Health manages The Registry of Pregnancy Termi
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Registry of Pregnancy Termination"@en,
         "Abortregisteret Utlevering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Register_over_svangerskapsavbrudd_(Abortregisteret).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -34,7 +34,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Cause of Death Registry"@en,
         "Alle variabler"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Dødsårsaksregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -45,7 +45,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Cause of Death Registry Analysis"@en,
         "DÅR Analyse"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Dødsårsaksregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -56,7 +56,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Information about the prescriber (profession and speciality)"@en,
         "Rekvirentopplysninger"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Legemiddelregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -67,7 +67,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Drug dispensation, pharmacy"@en,
         "Legemiddelutlevering apotek"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Legemiddelregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -78,7 +78,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Assisted reproductive technology"@en,
         "Assistert befruktning utlevering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Medisinsk_Fødselsregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -89,7 +89,7 @@ The regististry is the source of the official cause of death statistics for Norw
     dct:rights <http://helsedata.no> ;
     dct:title "Medical Birth Registry of Norway"@en,
         "Medisinsk fødselsregister utlevering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Medisinsk_Fødselsregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -102,7 +102,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Cardiovascular Disease Registry"@en,
         "Alle variabler"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjerte-_og_karregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -113,7 +113,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
         "Alle variabler"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_vaksinasjonsregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -124,7 +124,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Hovedskjema for Norsk hjerneslagregister"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerneslagregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -135,7 +135,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Skjema for pakkeforløp"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerneslagregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -146,7 +146,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Trombektomiskjema for Norsk hjerneslagregister"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerneslagregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -157,7 +157,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Oppfølgingsskjema for Norsk hjerneslagregister"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerneslagregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -166,7 +166,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasientforløp"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -175,7 +175,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "PROMS 2018"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -184,7 +184,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Hovedskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -193,7 +193,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "PROMS (utfaset)"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -202,7 +202,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Oppfølgingsskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -211,7 +211,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Poliklinisk skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_hjerteinfarktregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -221,7 +221,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Prehospital hjertestans"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertestansregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -231,7 +231,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Inhospital hjertestans"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertestansregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -241,7 +241,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Behandlingsskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertestansregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -251,7 +251,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "PROMS"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertestansregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -260,7 +260,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Basis skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -269,7 +269,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "B: Siste justeringsbesøk PROMS"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -278,7 +278,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "C: Oppfølgingsbesøk PROMS"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -287,7 +287,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "B: Siste justeringsbesøk"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -296,7 +296,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "A: Første besøk"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -305,7 +305,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "A: Første besøk PROMS"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -314,7 +314,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "C: Oppfølgingsbesøket"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjertesviktregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -323,7 +323,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Kontrollskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NORKAR_-_Norsk_karkirurgisk_register.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -332,7 +332,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Hovedskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NORKAR_-_Norsk_karkirurgisk_register.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -341,7 +341,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "PROMskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NORKAR_-_Norsk_karkirurgisk_register.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -350,7 +350,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Kontroll annet sykehus"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NORKAR_-_Norsk_karkirurgisk_register.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -361,7 +361,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Norwegian Prescription Database (NorPD)"@en,
         "ReseptregisteretUtlevering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Reseptregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -372,7 +372,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "The Norwegian Armed Forces Health Registry"@en,
         "Alle variabler"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Forsvarets_helseregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -390,7 +390,7 @@ Eksklusjonskriterier:
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Helse- og omsorgstjenester"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kommunalt_pasient-_og_brukeregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -412,7 +412,7 @@ Eksklusjonskriterier:
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Fastlege legevakt fysioterapi mm."@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kommunalt_pasient-_og_brukeregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -424,7 +424,7 @@ Vurder behov og detaljeringsnivå på kodene. Hvilke koder er nødvendige og rel
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Medisinske data"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -436,7 +436,7 @@ Vurder hvilke opplysninger som er nødvendige og relevante for å oppnå formål
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasient"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -460,7 +460,7 @@ For opplysninger om pasienter som venter på undersøkelse eller behandling ved 
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Henvisning og henvisningsperiode"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -481,7 +481,7 @@ I tillegg gir variabelgruppe gjennomføringsvedtak (Phvl. kap 4) informasjon om 
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Tvang i psykisk helsevern (PHV, PHBU)"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -496,7 +496,7 @@ I tillegg gir variabelgruppe gjennomføringsvedtak (Phvl. kap 4) informasjon om 
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "OBLIGATORISKE VALG"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -510,7 +510,7 @@ For tjenesteområdet somatiske sykehus (SOM): Vær obs på variabelgruppen 'Type
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Pasientens kontakt med helsetjenesten"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -524,7 +524,7 @@ Norsk pasientregisterforskriften gir somatiske sykehus hjemmel og plikt til regi
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Personskade (FMDS) (SOM)"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -542,7 +542,7 @@ Dersom det kun er nødvendig med opplysninger om henvisninger/henvisningsperiode
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Venteliste og pasientrettigheter"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -551,7 +551,7 @@ Dersom det kun er nødvendig med opplysninger om henvisninger/henvisningsperiode
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Om innrapporteringen"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -573,7 +573,7 @@ For mer detaljert informasjon om innrapportering av virksomhetsdata, se XPR-komp
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Aktivitetsdata - Behandlingsenhet"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -589,7 +589,7 @@ NPK står for Norsk pasientklassifisering og er programvaren som gjennomfører D
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Innsatsstyrt finansiering (ISF)"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -603,7 +603,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Kartlegging av russituasjon (RSIT) (TSB)"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_pasientregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -614,7 +614,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Gynecological Cancer - Cervix"@en,
         "Nasjonalt kvalitetsregister for gynekologisk kreft - livmorhals"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -625,7 +625,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Lung Cancer"@en,
         "Nasjonalt kvalitetsregister for lungekreft"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -636,7 +636,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Colorectal Cancer"@en,
         "Nasjonalt kvalitetsregister for tykk- og endetarmskreft"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -647,7 +647,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Breast Cancer"@en,
         "Nasjonalt kvalitetsregister for brystkreft"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -658,7 +658,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Melanoma"@en,
         "Nasjonalt kvalitetsregister for melanom"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -669,7 +669,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Prostate Cancer"@en,
         "Nasjonalt kvalitetsregister for prostatakreft"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -680,7 +680,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "Core variables - additional"@en,
         "Kjernevariabler - ekstra"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -691,7 +691,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Lymphoid Malignancies"@en,
         "Nasjonalt kvalitetsregister for lymfoide maligniteter"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -702,7 +702,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "Core variables - incidence"@en,
         "Kjernevariabler - insidens"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -713,7 +713,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:rights <http://helsedata.no> ;
     dct:title "National Clinical Registry for Gynecological Cancer - Ovary"@en,
         "Nasjonalt kvalitetsregister for gynekologisk kreft - eggstokk"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Kreftregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -722,7 +722,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Biobankskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norkog.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -731,7 +731,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Utredningskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norkog.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -740,7 +740,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Kontrollskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norkog.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -749,7 +749,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasientsvar"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norkog.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -759,7 +759,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasientskjema 6 måneder postoperativt"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_tonsilleregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -769,7 +769,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Peroperativt skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_tonsilleregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -779,7 +779,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasientskjema 30 dager postoperativt"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_tonsilleregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -788,7 +788,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Activities and Participation - Satisfaction"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -797,7 +797,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Activities and Participation - Performance"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -806,7 +806,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Registration of quality of life"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -815,7 +815,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "EQ-5D-5L"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -824,7 +824,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Lower urinary tract function"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -833,7 +833,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Bowel function"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -842,7 +842,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Spinal Cord Injury Core Data Set"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -851,7 +851,7 @@ Vær obs på at komplettheten har vært synkende over tid. I 2021 ble det rappor
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Control form"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NordicSCIR_(Nordic_Spinal_Cord_Injury_Registry).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -863,7 +863,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Datautlevering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Bivirkningsregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -874,7 +874,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Income and consumption"@en,
         "Inntekt og forbruk"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Data_fra_SSB.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -885,7 +885,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Population"@en,
         "Befolkning"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Data_fra_SSB.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -896,7 +896,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "National Education Database (NUDB)"@en,
         "Nasjonal utdanningsdatabase"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Data_fra_SSB.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -907,7 +907,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Labour market "@en,
         "Arbeidsmarked"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Data_fra_SSB.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -917,7 +917,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Death"@en,
         "Death"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -928,7 +928,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Wave 2"@en,
         "Wave 2"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -938,7 +938,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Cancer"@en,
         "Cancer"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -949,7 +949,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Wave 1"@en,
         "Wave 1"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -960,7 +960,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "All waves - derived variables"@en,
         "All waves - derived variables"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -971,7 +971,7 @@ Opplysninger som er registrert i registeret kan også tilgjengeliggjøres for st
     dct:rights <http://helsedata.no> ;
     dct:title "Wave 3"@en,
         "Wave 3"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Norwegian_Women_and_Cancer_study_(NOWAC).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -983,7 +983,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "The SAMINOR 2 Clinical Survey"@en,
         "The SAMINOR 2 Clinical Survey"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_SAMINOR_Study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -994,7 +994,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "The SAMINOR 1 Survey"@en,
         "The SAMINOR 1 Survey"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_SAMINOR_Study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1005,7 +1005,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "The SAMINOR 2 Questionnaire Survey"@en,
         "The SAMINOR 2 Questionnaire Survey"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_SAMINOR_Study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1016,7 +1016,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø5 - The Fifth Tromsø Study"@en,
         "Tromsø5 - The Fifth Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1027,7 +1027,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø6 - The Sixth Tromsø Study"@en,
         "Tromsø6 - The Sixth Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1038,7 +1038,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø7 - The Seventh Tromsø Study"@en,
         "Tromsø7 - The Seventh Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1049,7 +1049,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø1 - The First Tromsø Study"@en,
         "Tromsø1 - The First Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1060,7 +1060,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø2 - The Second Tromsø Study"@en,
         "Tromsø2 - The Second Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1071,7 +1071,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø3 - The Third Tromsø Study"@en,
         "Tromsø3 - The Third Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1082,7 +1082,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Tromsø4 - The Fourth Tromsø Study"@en,
         "Tromsø4 - The Fourth Tromsø Study"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/The_Tromsø_study.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1092,7 +1092,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "12 mnd postoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1102,7 +1102,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Preoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1112,7 +1112,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Personopplysninger"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1122,7 +1122,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Perioperativt legeskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1132,7 +1132,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "3 mnd postoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1141,7 +1141,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Status om din alvorlige hodepine"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hodepineregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1150,7 +1150,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Førstegangsregistrering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hodepineregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1159,7 +1159,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Pasientsvar"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hodepineregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
@@ -1168,7 +1168,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
     dct:rights <http://helsedata.no> ;
     dct:title "Samtykkeskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
+    dcat:accessURL <https://helsedata.no/no/soknadsveiledning/personidentifiserbare-opplysninger/> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hodepineregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
