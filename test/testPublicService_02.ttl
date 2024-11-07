@@ -10,13 +10,12 @@
 @prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
 
-<https://example.com/SPEhandlers/Crashtestdummy/PublicService01> a cpsv:PublicService;
-    cv:hasCompetentAuthority <https://example.com/SPEhandlers/Crashtestdummy/PublicOrganisation01>;
+<https://example.com/SPEhandlers/Crashtestdummy/PublicService01> a cpsv:PublicService;    
+    cv:hasCompetentAuthority <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516>;
     dct:identifier "SPEtestdummy01";
     dct:title "Secure Processing Environment Provider ASA"@en , "Secure Processing Environment Provider ASA"@no ;
     dct:description "Dette er en beskrivelse av en generell tilbyder av sikre prosseseringstjenester";
-    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    cpsv:produces <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/refs/heads/main/test/variabler_test_01.csv> .
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> .
 
 <https://example.com/SPEhandlers/Crashtestdummy/DataService01> a cpsv:DataService;
   dcat:endpointURL <https://selfservice.company.usethis.no> ;
@@ -26,8 +25,3 @@
   dcat:keyword "Analyse, helsedata" ;
   dcat:endpointDescription "REST-API, nettside".
 
-<https://example.com/SPEhandlers/Crashtestdummy/PublicOrganisation01> a cpsv:PublicOrganisation;
-    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    skos:prefLabel "UiO"@en , "UiO"@no ;
-    dct:identifier "SPEtestdummy01/PublicOrganisation01";
-    dct:title "University of Oslo, Research"@en , "Universitetet i Oslo, forskning"@no.
