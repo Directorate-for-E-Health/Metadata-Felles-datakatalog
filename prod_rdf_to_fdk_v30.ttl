@@ -144,60 +144,6 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Hjerte-_og_karregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/118000812105> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Operasjonsskjema for Albue"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/128000812100> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Hofte PROM skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/138000812103> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Operasjonsskjema for Hofte"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/148000812106> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Skulder PROM skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/168000812107> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Operasjonsskjema for Kne"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/18000812104> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Preoperativ mikrobe resistens skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000783104> a dcat:Distribution ;
     dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -209,15 +155,6 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Sysvak.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000812109> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Kne PROM skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/38000783101> a dcat:Distribution ;
     dct:description "Nasjonalt vaksinasjonsregister SYSVAK - Nasjonalt vaksinasjonsregister SYSVAK er et landsdekkende elektronisk vaksinasjonsregister etablert i 1995. Inntil oktober 2009 omfattet meldeplikten til SYSVAK bare vaksiner gitt i barnevaksinasjonsprogrammet. Under influensapandemien i 2009 ble det innført meldeplikt også for vaksine mot pandemisk influensa. Fra januar 2011 ble meldeplikten utvidet til å gjelde alle vaksinasjoner for alle aldersgrupper i befolkningen. Helsepersonell som vaksinerer har ansvar for registrering og melding av korrekte vaksinasjonsopplysninger til SYSVAK. Formålet med SYSVAK er å holde oversikten over vaksinasjonsstatus for den enkelte og over vaksinasjonsdekningen i landet. SYSVAK bidrar til å utvikle og fremme kvaliteten på de vaksinene som tilbys i og utenfor program ved at data benyttes til å overvåke effekten av de ulike vaksinene og til vaksinerelatert forskning. Ved bruk av SYSVAK kan man også sikre at alle får tilbud om de vaksinene de skal ha gjennom barnev..."@nb ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -226,69 +163,6 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "SysvakUtlevering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Sysvak.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/38000812106> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Oppfølgingsskjema ved mulig proteseinfeksjon"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/48000812103> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Operasjonsskjema for Ankel"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/58000812100> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Operasjonsskjema for Skulder"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/68000812102> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Peroperativ mikrobe resistens skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/78000812108> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Preoperativ PROM"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/88000812105> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Ankel PROM skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/98000812107> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Albue PROM skjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-hjerneslagregister//distribution/18000682107> a dcat:Distribution ;
@@ -861,6 +735,132 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_smertebehandling.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/118000812105> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Operasjonsskjema for Albue"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/128000812100> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Hofte PROM skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/138000812103> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Operasjonsskjema for Hofte"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/148000812106> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Skulder PROM skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/168000812107> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Operasjonsskjema for Kne"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/18000812104> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Preoperativ mikrobe resistens skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/28000812109> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Kne PROM skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/38000812106> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Oppfølgingsskjema ved mulig proteseinfeksjon"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/48000812103> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Operasjonsskjema for Ankel"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/58000812100> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Operasjonsskjema for Skulder"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/68000812102> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Peroperativ mikrobe resistens skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/78000812108> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Preoperativ PROM"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/88000812105> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Ankel PROM skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/98000812107> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Albue PROM skjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_register_for_leddproteser.xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/108000833103> a dcat:Distribution ;
     dct:description "PROM 2 years"@en ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -921,25 +921,6 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Pandemiregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/18000885106> a dcat:Distribution ;
-    dct:description "Questionnaire on relatives' satisfaction with the treatment "@en ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Spørreskjema om pårørendes tilfredshet med behandlingen"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/28000885102> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "EQ5D"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/48000833108> a dcat:Distribution ;
     dct:description "Discharge form pandemic"@en ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -950,15 +931,6 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Pandemiregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/48000885105> a dcat:Distribution ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "B2_Beredskapsskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/58000833105> a dcat:Distribution ;
     dct:description "Admission form Pandemic"@en ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -967,16 +939,6 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "Pandemiskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Pandemiregisteret.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/58000885107> a dcat:Distribution ;
-    dct:description "Influenza registration is completed on all patients admitted to intensive care with influenza"@en ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Influensaregistrering"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/68000833107> a dcat:Distribution ;
@@ -999,16 +961,6 @@ The registry consists of a base registry and several quality registries. The bas
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Pandemiregisteret.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/78000885101> a dcat:Distribution ;
-    dct:description "Main form for the intensive care stay"@en ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Intensivopphold"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/88000833100> a dcat:Distribution ;
     dct:description "Admission form, generic pandemic module"@en ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
@@ -1017,16 +969,6 @@ The registry consists of a base registry and several quality registries. The bas
     dct:title "P2_Pandemiskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Pandemiregisteret.xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/88000885103> a dcat:Distribution ;
-    dct:description "\"Beredskapsskjema\" is registered on all patients admitted to intensive care with covid-19"@en ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "Beredskap"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/98000833102> a dcat:Distribution ;
@@ -2387,28 +2329,6 @@ The survey collected self-administered questionnaire data, clinical measurements
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000821105> a dcat:Distribution ;
-    dct:description "Nakke Perioperativt legeskjema"@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "NorSpine"@en,
-        "Nakke Perioperativt legeskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/38000821107> a dcat:Distribution ;
-    dct:description "Nakke 12 mnd postoperativt pasientskjema"@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "NorSpine"@en,
-        "Nakke 12 mnd postoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/38000827106> a dcat:Distribution ;
     dct:description """The Norwegian registry for spine surgery (NORspine) aims at, and is contributing to improvement of the quality of surgical treatment for degenerative disorders in the cervical and lumbar spine.
 """@en ;
@@ -2419,17 +2339,6 @@ The survey collected self-administered questionnaire data, clinical measurements
         "Rygg 12 mnd postoperativt pasientskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000821102> a dcat:Distribution ;
-    dct:description "Nakke 3 mnd postoperativt pasientskjema"@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "NorSpine"@en,
-        "Nakke 3 mnd postoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000827100> a dcat:Distribution ;
@@ -2444,17 +2353,6 @@ The survey collected self-administered questionnaire data, clinical measurements
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
-<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000821101> a dcat:Distribution ;
-    dct:description "Nakke Preoperativt pasientskjema"@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "NorSpine"@en,
-        "Nakke Preoperativt pasientskjema"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000827102> a dcat:Distribution ;
     dct:description """The Norwegian registry for spine surgery (NORspine) aims at, and is contributing to improvement of the quality of surgical treatment for degenerative disorders in the cervical and lumbar spine.
 """@en ;
@@ -2465,17 +2363,6 @@ The survey collected self-administered questionnaire data, clinical measurements
         "Rygg Preoperativt pasientskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_rygg..xlsx> ;
-    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
-
-<https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/78000821109> a dcat:Distribution ;
-    dct:description "Nakke Personopplysninger"@nb ;
-    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
-    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
-    dct:rights <http://helsedata.no> ;
-    dct:title "NorSpine"@en,
-        "Nakke Personopplysninger"@nb ;
-    dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/78000827108> a dcat:Distribution ;
@@ -2676,6 +2563,64 @@ The survey collected self-administered questionnaire data, clinical measurements
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/NorVas.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/18000885106> a dcat:Distribution ;
+    dct:description "Questionnaire on relatives' satisfaction with the treatment "@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Spørreskjema om pårørendes tilfredshet med behandlingen"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/28000885102> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "EQ5D"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/48000885105> a dcat:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "B2_Beredskapsskjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/58000885107> a dcat:Distribution ;
+    dct:description "Influenza registration is completed on all patients admitted to intensive care with influenza"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Influensaregistrering"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/78000885101> a dcat:Distribution ;
+    dct:description "Main form for the intensive care stay"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Intensivopphold"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/88000885103> a dcat:Distribution ;
+    dct:description "\"Beredskapsskjema\" is registered on all patients admitted to intensive care with covid-19"@en ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "Beredskap"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
 <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/hodepineregisteret//distribution/18000800103> a dcat:Distribution ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
     dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
@@ -2791,6 +2736,61 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:title "Tverrfaglighet"@nb ;
     dcat:accessURL <http://helsedata.no> ;
     dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_register_for_ALS_og_andre_motonevronsykdommer_(ALS-registeret).xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/28000821105> a dcat:Distribution ;
+    dct:description "Nakke Perioperativt legeskjema"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "NorSpine"@en,
+        "Nakke Perioperativt legeskjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/38000821107> a dcat:Distribution ;
+    dct:description "Nakke 12 mnd postoperativt pasientskjema"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "NorSpine"@en,
+        "Nakke 12 mnd postoperativt pasientskjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/48000821102> a dcat:Distribution ;
+    dct:description "Nakke 3 mnd postoperativt pasientskjema"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "NorSpine"@en,
+        "Nakke 3 mnd postoperativt pasientskjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/68000821101> a dcat:Distribution ;
+    dct:description "Nakke Preoperativt pasientskjema"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "NorSpine"@en,
+        "Nakke Preoperativt pasientskjema"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/78000821109> a dcat:Distribution ;
+    dct:description "Nakke Personopplysninger"@nb ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+    dct:license <https://lovdata.no/dokument/NL/lov/2014-06-20-43> ;
+    dct:rights <http://helsedata.no> ;
+    dct:title "NorSpine"@en,
+        "Nakke Personopplysninger"@nb ;
+    dcat:accessURL <http://helsedata.no> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Nasjonalt_kvalitetsregister_for_ryggkirurgi_(NKR),_degenerativ_nakke..xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/arkivverket/helsearkivregisteret/> a dcat:Dataset ;
@@ -2938,37 +2938,17 @@ Folkehelseinstituttet forvalter basisregisteret og er ansvarlig for å behandle 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "SYSVAK is a national, electronic immunisation registry that records an individual’s vaccination status and vaccination coverage in Norway."@en,
-        "Nasjonalt Register for Leddproteser (NRL) driver fortløpende innsamling av data fra hele Norge om alle typer leddproteser. Registeret er faglig forankret i Norsk ortopedisk forening. Databehandlingsansvarlig instans er Helse Bergen HF. Driften er tillagt Ortopedisk klinikk, Haukeland universitetssjukehus, Helse Bergen HF og registrene finansieres av Helse Vest RHF og Helse Bergen HF."@nb,
         "Nasjonalt vaksinasjonsregister SYSVAK - Nasjonalt vaksinasjonsregister SYSVAK er et landsdekkende elektronisk vaksinasjonsregister etablert i 1995. Inntil oktober 2009 omfattet meldeplikten til SYSVAK bare vaksiner gitt i barnevaksinasjonsprogrammet. Under influensapandemien i 2009 ble det innført meldeplikt også for vaksine mot pandemisk influensa. Fra januar 2011 ble meldeplikten utvidet til å gjelde alle vaksinasjoner for alle aldersgrupper i befolkningen. Helsepersonell som vaksinerer har ansvar for registrering og melding av korrekte vaksinasjonsopplysninger til SYSVAK. Formålet med SYSVAK er å holde oversikten over vaksinasjonsstatus for den enkelte og over vaksinasjonsdekningen i landet. SYSVAK bidrar til å utvikle og fremme kvaliteten på de vaksinene som tilbys i og utenfor program ved at data benyttes til å overvåke effekten av de ulike vaksinene og til vaksinerelatert forskning. Ved bruk av SYSVAK kan man også sikre at alle får tilbud om de vaksinene de skal ha gjennom barnevaksinasjonsprogrammet, og tilhørende program. Registeret publiserer statistikk som er tilgjengelig på FHIs nettside og Kommunehelsa statistikkbank."@nb ;
     dct:identifier "https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/" ;
-    dct:issued "1987-01-01"^^xsd:date,
-        "1995-01-01"^^xsd:date ;
-    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations//983974724>,
-        <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
+    dct:issued "1995-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "Norwegian Immunisation Registry SYSVAK"@en,
-        "Nasjonalt register for leddproteser"@nb,
         "Sysvak"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
-            ns1:hasURL <http://helsedata.no> ],
-        [ a ns1:Organization ;
             ns1:hasURL <http://helsedata.no> ] ;
-    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/118000812105>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/128000812100>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/138000812103>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/148000812106>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/168000812107>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/18000812104>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000783104>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000812109>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/38000783101>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/38000812106>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/48000812103>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/58000812100>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/68000812102>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/78000812108>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/88000812105>,
-        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/98000812107> ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/28000783104>,
+        <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister//distribution/38000783101> ;
     dcat:keyword "Health, Health registry, Health data"@en,
         "Helse, Helseregister, Helsedata"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/folkehelseinstituttet/nasjonalt-vaksinasjonsregister/> ;
@@ -3200,7 +3180,7 @@ Det store antall operasjoner i registeret med samtidig registrering av hvordan p
         "Nasjonalt kvalitetsregister for smertebehandling (SmerteReg) er et nasjonalt medisinsk kvalitetsregister som samler opplysninger om pasienter som i forbindelse med sykdom, operasjon, eller skade har blitt henvist til akuttsmerteteam ved norske sykehus. Registerets målgruppe er alle pasienter som formelt henvises fra postpersonale for tilsyn av smerteteam. Pasientene henvises dersom de har komplekse smertetilstander som postpersonalet selv ikke klarer å lindre adekvat med standard smertebehandling. Ved hjelp av opplysningene i registeret ønsker vi å øke kunnskap om og forbedre kvaliteten på behandling av pasienter med akutte smerter."@nb ;
     dct:identifier "https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-kvalitetsregister-for-smertebehandling-smertereg/" ;
     dct:issued "2016-01-01"^^xsd:date ;
-    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations//983974724> ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983974724> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "The Norwegian National Quality Registry for Pain Management (SmerteReg) "@en,
         "Nasjonalt kvalitetsregister for smertebehandling"@nb ;
@@ -3222,20 +3202,45 @@ Det store antall operasjoner i registeret med samtidig registrering av hvordan p
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
+<https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Nasjonalt Register for Leddproteser (NRL) driver fortløpende innsamling av data fra hele Norge om alle typer leddproteser. Registeret er faglig forankret i Norsk ortopedisk forening. Databehandlingsansvarlig instans er Helse Bergen HF. Driften er tillagt Ortopedisk klinikk, Haukeland universitetssjukehus, Helse Bergen HF og registrene finansieres av Helse Vest RHF og Helse Bergen HF."@nb ;
+    dct:identifier "https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser/" ;
+    dct:issued "1987-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983974724> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "Nasjonalt register for leddproteser"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <http://helsedata.no> ] ;
+    dcat:distribution <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/118000812105>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/128000812100>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/138000812103>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/148000812106>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/168000812107>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/18000812104>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/28000812109>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/38000812106>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/48000812103>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/58000812100>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/68000812102>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/78000812108>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/88000812105>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser//distribution/98000812107> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
 <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
-    dct:description "Norsk intensiv- og pandemiregister (NIPaR) er en del av det nasjonale nettverket av medisinske kvalitetsregistre. Registeret ble startet opp i 1998, og samlet de første årene data om pasienter behandlet ved norske intensivenheter. I forbindelse med pandemien covid-19 i 2020 ble registeret utvidet til å også omfatte pasienter innlagt i spesialisthelsetjenesten med smittsom sykdom under epidemier (som omfatter Norge) eller pandemier."@nb,
-        """Norsk intensivregister er benevnelsen på den delen av Norsk intensiv- og kriseregister som omhandler intensivpasienter. Norsk intensivregister bygger på opplysninger om pasienter som blir behandlet ved norske intensivenheter.
-"""@nb ;
+    dct:description "Norsk intensiv- og pandemiregister (NIPaR) er en del av det nasjonale nettverket av medisinske kvalitetsregistre. Registeret ble startet opp i 1998, og samlet de første årene data om pasienter behandlet ved norske intensivenheter. I forbindelse med pandemien covid-19 i 2020 ble registeret utvidet til å også omfatte pasienter innlagt i spesialisthelsetjenesten med smittsom sykdom under epidemier (som omfatter Norge) eller pandemier."@nb ;
     dct:identifier "https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar/" ;
     dct:issued "1998-01-01"^^xsd:date ;
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations//983974724> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    dct:title "MRS Norsk Intensivregister (NIR)"@nb,
-        "Pandemiregisteret"@nb ;
+    dct:title "Pandemiregisteret"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
-            ns1:hasURL <http://helsedata.no> ],
-        [ a ns1:Organization ;
             ns1:hasOrganizationName "Helse Bergen HF"@nb ;
             ns1:hasURL <http://helsedata.no> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/108000833103>,
@@ -3244,17 +3249,11 @@ Det store antall operasjoner i registeret med samtidig registrering av hvordan p
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/138000833108>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/148000833101>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/18000833109>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/18000885106>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/28000885102>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/48000833108>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/48000885105>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/58000833105>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/58000885107>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/68000833107>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/78000833103>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/78000885101>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/88000833100>,
-        <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/88000885103>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar//distribution/98000833102> ;
     dcat:keyword "Health, Health registry, Health data"@en,
         "Helse, Helseregister, Helsedata"@nb ;
@@ -3603,7 +3602,7 @@ NOWAC’s scientific leader Tonje Braaten +47 77 64 48 20/o	NOWAC’s administra
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/68000642102>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/78000642108>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft//distribution/88000642105> ;
-    dcat:keyword "USE OF POSTMENOPAUSAL HORMONES, PHYSICAL ACTIVITY, SMOKING, SELF-REPORTED HEALTH AND HISTORY OF DISEASES, GENERAL INFORMATION, FAMILY HISTORY OF CANCER, CANCER SCREENING AND SELF-EXAMINATION, USE OF MEDICATION, REPRODUCTIVE HISTORY, ANTHROPOMETRY, CONSENT OF PARTICIPATION, USE OF CONTRACEPTIVES AND POSTMENOPAUSAL HORMONES, SOCIOECONOMIC CONDITIONS, DEATH, USE OF CONTRACEPTIVES, SUN EXPOSURE AND HOST FACTORS, USE OF PERSONAL CARE PRODUCTS, CANCER, DIET"@nb ;
+    dcat:keyword "USE OF POSTMENOPAUSAL HORMONES, PHYSICAL ACTIVITY, SELF-REPORTED HEALTH AND HISTORY OF DISEASES, SMOKING, FAMILY HISTORY OF CANCER, GENERAL INFORMATION, CANCER SCREENING AND SELF-EXAMINATION, USE OF MEDICATION, REPRODUCTIVE HISTORY, ANTHROPOMETRY, CONSENT OF PARTICIPATION, USE OF CONTRACEPTIVES AND POSTMENOPAUSAL HORMONES, SOCIOECONOMIC CONDITIONS, DEATH, USE OF CONTRACEPTIVES, SUN EXPOSURE AND HOST FACTORS, USE OF PERSONAL CARE PRODUCTS, CANCER, DIET"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/universitetet-i-tromso/kvinner-og-kreft/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
@@ -3657,7 +3656,7 @@ saminor@uit.no<br><br>\r
     dcat:distribution <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/18000636103>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/38000636107>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting//distribution/48000636102> ;
-    dcat:keyword "WORK PENSION AND ECONOMY, DIET - COD LIVER OIL AND FISH OIL CAPSULES, CURRENT DIET/ FOOD HABITS - A, DERIVED VARIABLES, EMPLOYMENT/ECONOMY - I, FAMILY AND LINGUISTIC BACKGROUND - I, EATING AT NIGHT - A, DIET - OTHER FOOD, QUESTIONS FOR WOMEN ONLY - H, DIABETES, EDUCATION AND WORK - H, QUESTIONS TO THOSE WITH SAMI BACKGROUND - A, FOOD SUPPLEMENTS, SUICIDE AND SUICIDAL BEHAVIOUR, OTHER TORMENTS, SMOKING AND SNUFF USE - H, DIET - FISH, SKIN CARE PRODUCTS, LANGUAGE AND USE OF INTERPRETER, RELIGION AND BELIEFS, DENTAL HEALTH, FAMILY AND LINGUISTIC BACKGROUND, MENTAL HEALTH, DENTAL HEALTH, DIET - BREAD, DIET - BEVERAGES, PARTICIPATION, STOMACH AND INTESTINAL SYMPTOMS - H, DIET - RICE, SPAGHETTI, PORRIDGE, SOUP, BLOOD COLLECTION AND BLOOD MEASUREMENTS, FOOD AND BEVERAGES - H, PERSISTENT ORGANIC POLLUTANTS, CHILDREN AND BREAST FEEDING, SUN BATHING, GAMBLING BEHAVIOUR, BLOOD DATA ANALYZED AT UNN, DIET - MEAT, PHYSICAL ACTIVITY, SYMPTOMS - A, FAMILY AND FRIENDS - A, YOUR OWN HEALTH, EATING HABITS, EXPERIENCED DISCRIMINATION, SERUM ANALYSES AT THE UNIVERSITY HOSPITAL OF NORTH NORWAY, EXPERIENCES AND USE OF HEALTH SERVICES, CARDIOVASCULAR DISEASE, SMOKING HABITS, PERSONAL VALUES - A, SERUM ANALYSES OF VITAMIN D, DIET -YOGHURT/CEREALS, SLEEP, INJURIES/ACCIDENTS - I, FAMILY AND LINGUISTIC BACKGROUND, PHYSICAL EXAMINATION, METAL ANALYSES, SOCIODEMOGRAFICS FROM THE PERSON REGISTRY, PARTICIPATION, MUSCULO AND SKELETAL PAIN - H, INFORMATION ABOUT QUESTIONNAIRES, BULLYING - I, VIOLENCE AND ASSAULTS, YOUR OWN HEALTH, USE OF HEALTH SERVICES - I, PAINS, BACKGROUND, ILLNESS IN THE FAMILY - H, CURRENT DIET/ FOOD HABITS - A, TOBACCO AND DRUGS, YOUR OWN HEALTH - H, INJURIES/ACCIDENTS - I, EXPERIENCES AND USE OF HEALTH SERVICES, DEMOGRAPHICAL DATA, ALCOHOL, EXERCISE AND PHYSICAL ACTIVITY - H, DIET - FRUIT AND VEGETABLES, NUTRIENT CALCULATIONS, DIET DURING CHILDHOOD/ADOLESCENCE - A, BODY SHAPE, SOCIODEMOGRAFICS FROM THE PERSON REGISTRY, USE OF MEDICATION - H, CONSENT STATEMENTS, OTHER PAINS/PROBLEMS - H, OTHER DISEASES, PHYSICAL EXAMINATION AND BLOOD SAMPLES"@nb ;
+    dcat:keyword "WORK PENSION AND ECONOMY, DIET - COD LIVER OIL AND FISH OIL CAPSULES, CURRENT DIET/ FOOD HABITS - A, DERIVED VARIABLES, EMPLOYMENT/ECONOMY - I, FAMILY AND LINGUISTIC BACKGROUND - I, EATING AT NIGHT - A, DIET - OTHER FOOD, QUESTIONS FOR WOMEN ONLY - H, DIABETES, EDUCATION AND WORK - H, SUICIDE AND SUICIDAL BEHAVIOUR, QUESTIONS TO THOSE WITH SAMI BACKGROUND - A, FOOD SUPPLEMENTS, DIET - FISH, SMOKING AND SNUFF USE - H, OTHER TORMENTS, SKIN CARE PRODUCTS, LANGUAGE AND USE OF INTERPRETER, RELIGION AND BELIEFS, DENTAL HEALTH, FAMILY AND LINGUISTIC BACKGROUND, MENTAL HEALTH, DIET - BREAD, DENTAL HEALTH, DIET - BEVERAGES, STOMACH AND INTESTINAL SYMPTOMS - H, DIET - RICE, SPAGHETTI, PORRIDGE, SOUP, PARTICIPATION, BLOOD COLLECTION AND BLOOD MEASUREMENTS, FOOD AND BEVERAGES - H, PERSISTENT ORGANIC POLLUTANTS, CHILDREN AND BREAST FEEDING, GAMBLING BEHAVIOUR, SUN BATHING, DIET - MEAT, BLOOD DATA ANALYZED AT UNN, PHYSICAL ACTIVITY, SYMPTOMS - A, FAMILY AND FRIENDS - A, YOUR OWN HEALTH, EATING HABITS, EXPERIENCED DISCRIMINATION, SERUM ANALYSES AT THE UNIVERSITY HOSPITAL OF NORTH NORWAY, SMOKING HABITS, EXPERIENCES AND USE OF HEALTH SERVICES, CARDIOVASCULAR DISEASE, PERSONAL VALUES - A, SERUM ANALYSES OF VITAMIN D, DIET -YOGHURT/CEREALS, INJURIES/ACCIDENTS - I, SLEEP, FAMILY AND LINGUISTIC BACKGROUND, PHYSICAL EXAMINATION, METAL ANALYSES, SOCIODEMOGRAFICS FROM THE PERSON REGISTRY, MUSCULO AND SKELETAL PAIN - H, PARTICIPATION, BULLYING - I, INFORMATION ABOUT QUESTIONNAIRES, VIOLENCE AND ASSAULTS, YOUR OWN HEALTH, USE OF HEALTH SERVICES - I, PAINS, BACKGROUND, ILLNESS IN THE FAMILY - H, CURRENT DIET/ FOOD HABITS - A, INJURIES/ACCIDENTS - I, TOBACCO AND DRUGS, YOUR OWN HEALTH - H, DEMOGRAPHICAL DATA, EXPERIENCES AND USE OF HEALTH SERVICES, EXERCISE AND PHYSICAL ACTIVITY - H, ALCOHOL, DIET - FRUIT AND VEGETABLES, NUTRIENT CALCULATIONS, DIET DURING CHILDHOOD/ADOLESCENCE - A, BODY SHAPE, SOCIODEMOGRAFICS FROM THE PERSON REGISTRY, USE OF MEDICATION - H, OTHER PAINS/PROBLEMS - H, CONSENT STATEMENTS, OTHER DISEASES, PHYSICAL EXAMINATION AND BLOOD SAMPLES"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/universitetet-i-tromso/saminor---helse--og-levekarsundersokelsen-i-omrader-med-samisk-og-norsk-bosetting/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
@@ -3706,7 +3705,7 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/38000630100>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/68000630108>,
         <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen//distribution/98000630101> ;
-    dcat:keyword "CONTRACEPTION AND ESTROGEN - Q2, HOUSEHOLD - Q2, ECHO - CAUSE OF REFERRAL, BODILY FUNCTIONS, AND SAFETY PO70, BALANCE, DEXA HIP, GENERAL INFORMATION, DEXA TOTAL BODY ENHANCED ANALYSIS, COMPLIMENTARY AND ALTERNATIVE MEDICINE - Q2, CANCER - Q1, SCHOOLING - Q2, ALCOHOL - Q1, LABORATORY DATA, WORK - Q2, CAROTIS, MENSTRUATION STATUS AND USE OF ORAL CONTRACEPTIVES OR POSTMENOPAUSAL HORMONES, QUESTIONNAIRE 2, DEXA TOTAL BODY, USE OF ANALGESICS AND ANTIBIOTICS THE LAST 24 HOURS, DENTAL RESTORATION TREATMENT (DRT), CHANGE IN DIETARY HABITS AND OTHER HABIT - Q2, ILLNESSES AND INJURIES - Q2, DEXA Total body measurements with enhanced analysis, PHYSICAL ACTIVITY - Q1, PHYSICAL EXAMINATION, Graphical Index of Pain (GRIP) - Pain the last 4 weeks, TOBACCO AND SNUFF - Q1, ACTIGRAPH, SYMPTOMS - Q2, GLOBAL VIEW LAX (LONG LV AXIS) - ECHO, FOOD HABITS - Q2, PHYSICAL ACTIVITY - Q2, WOMEN ONLY, DEXA VFA, EDUCATION/WORK, EDUCATION AND INCOME - Q1, NECK, HEAD AND SHOULDER - Q2, CHILDHOOD/YOUTH AND AFFILIATION, YOUR OWN HEALTH, PHYSICAL EXAMINATION, PHYSICAL EXAMINATION, EMPLOYMENT - Q2, ECG, CHILDHOOD/YOUTH - Q2, LABORATORY DATA, ORAL HEALTH - Q2, WOMEN ONLY, NUTRIENTS, ECHO, ILLNESS IN THE FAMILY - Q2, LABORATORY DATA, USE OF MEDICINE - Q1, PHYSICAL EXAMINATION, PAINKILLERS AND ANTIINFLAMMATORIC MEDICINES - Q2, DENTAL EROSIONS, GENERAL INFORMATION, DEXA TOTAL BODY, COGNITIVE, BODY WEIGHT - Q2, HEALTH AND DISEASES, SEGMENTAL VIEW LAX (LONG LV AXIS) - ECHO, HEALTH AND ILLNESS - Q2, URINARY SAMPLES, PAIN SENSITIVITY TEST, MEDICINE INFORMATION - Q2, BACK AND JOINTS CONDITIONS - Q2, FOOD AND BEVERAGES, BLOOD SAMPLES, REACTION TO PROBLEMS - Q2, ECHO, HEALTH ANXIETY - Q1, USE OF HEALTH SERVICES, CAROTIS, PHYSICAL EXAMINATION, Chalder Fatigue Scale (CFS) + single global visual anlog scale rating of tiredness, TRIALS, USE OF HEALTH SERVICES - Q1, ILLNESS IN PARENT AND SIBLINGS - Q2, SKIN AND DERMATOLOGY - Q2, WORK, SOCIAL SECURITY PAYMENTS AND INCOME, USE OF HEALTH SERVICES - Q2, GLOBAL VIEW RV (RIGHT VENTRICLE) - ECHO, EYE, SOLVENTS - Q2, SLEEPLESSNESS/LOSS OF CONSCIOUSNESS - Q2, HAIR, DEXA HIP, ACTIGRAPH CARDIO ADMIN, SEGMENTAL VIEW 2CH (TWO CHAMBER) TIME VARIABLES - ECHO, COGNITIVE - TDS, USE OF MEDICINE, ILLNESS IN THE FAMILY, INTERVIEW, MENS HEALTH - Q2, SMOKING, DIET, MENSTRUATION - Q2, FAMILY AND FRIENDS, BLOOD SAMPLES, DENTAL HEALTH - Q1, CONTRACEPTION - Q2, EXERCISE, CERVICAL SMEAR TEST - Q2, DIET - Q1, OWN ILLNESS (QU-1), PRE-MENSTRUAL TENSION - Q2, USE OF ANTIBIOTICS THE LAST 24 HOURS, WORK, FOOD AND DIETARY SUPPLEMENTS - Q2, SMOKING (QU-1), SPECIFICATION OF SKIN DISEASE - Q2, PREGNANCY - Q2, WOMENS HEALTH - Q2, EXERCISE (QU-1), ALCOHOL - Q2, DENTAL CARIES SURFACE LEVEL, YOUR OWN DIET (QU-2), ALCOHOL - Q2, WOMEN ONLY - Q1, YOUR OWN ILLNESS - Q2, BLOOD SAMPLES, PHYSICAL EXAMINATION, PHYSICAL FUNCTION, ALCOHOL AND TOBACCO, FAMILY AND FRIENDS - Q1, MENTAL TRAUMA - Q2, SMOKING, ACTIGRAPH KINESOFT, NOISE - Q2, DRUG USE - Q2, OWN ILLNESS PAST OR PRESENT (QU-2), SEGMENTAL VIEW LAX (LONG LV AXIS) TIME VARIABLES - ECHO, SYMPTOMS (QU-1), SYMPTOMS (QU-1), FOOD NUTRIENTS FFQ ADMIN, WEIGHT REDUCTION PU70 - Q2, SMOKE AND SNUFF - Q2, INCONTINENCE - Q2, SOCIAL CONDITIONS AND PSYCHOLOGICAL PRESSURE (\"STRESS\") (QU-2), BLOOD SAMPLES, BLOOD SAMPLES, MEDICINES - Q2, DIET - Q2, ACTIGRAPH ACTILIFE, URINATING PROBLEMS - Q2, PERIODONTITIS POCKET DEPTH NATURAL TEETH, MEN ONLY - Q1, ILLNESS IN PARENTS AND SIBLINGS (QU-2), BREAKFAST - Q2, MOBILE TELEPHONE - Q2, PFAS measured by the Environmental Pollutant Laboratory UNN (Miljøgiftlab, ML), GLOBAL VIEW 4CH (FOUR CHAMBER) - ECHO, PHYSICAL EXAMINATION, INFECTIONS - Q2, CONTACT DUE TO OWN HEALTH OR ILLNESS - Q2, ALCOHOL PU70 - Q2, ILLNESS IN THE FAMILY - Q2, PHYSICAL EXAMINATION, TOBACCO - Q2, GENERAL INFORMATION, INTERVIEW, GENERAL INFORMATION, ALCOHOL - Q2, FAMILY (QU-1), ECG, NUTRIENTS, WELL BEING - Q2, BRAIN AND CIRCULATION, PHYSICAL ACTIVITY - Q2, GENERAL INFORMATION, USE OF HEALTH SERVICES - Q2, CHILDHOOD/YOUTH AND AFFILIATION - Q2, DEXA, WORRIES - Q2, SEGMENTAL VIEW 4CH (FOUR CHAMBER) - ECHO, BLEEDING ON PROBING INDEX NATURAL TEETH, BLOOD SAMPLES, BONE MINERAL DENSITY, WORK - Q2, OWN ILLNESS (QU-1), PAID AND UNPAID WORK - Q2, FAMILY AND FRIENDS - Q2, WOMEN ONLY - Q2, EXERCISE (QU-1), EMPLOYMENT (QU-1), WEIGHT - Q2, FRUIT - Q2, DENTAL CARIES, STATE OF HEALTH - Q2, CAROTID ULTRASOUND, ROOT CARIES SURFACE LEVEL, FISH - Q2, HOME - Q2, FOOD HABITS - Q2, SECONDARY CARIES SURFACE LEVEL, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, SMOKING (QU-1), PERIODONTITIS BONE LEVEL NATURAL TEETH, DINNER - Q2, URINARY INCONTINENCE PU70 - Q2, WELL BEING - Q2, BODILY FUNCTIONS PO70 - Q2, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, ALCOHOL - Q2, MENSTRUATION - Q2, FOOD INTAKE MAIN CATEGORIES, CHILDHOOD/YOUTH AND AFFILIATION - Q2, INFECTIONS AND HOSPITAL STAY, COFFEE, BALANCE, TRAINING AND ALCOHOL LAST WEEK, FALL REGISTRATION, DENTAL IMPLANTS, FOLLOW-UP EXAMINATION, SEXUAL HEALTH - Q2, HEALTH AND DISEASES - Q1, SIGHT, FOOD HABITS - Q2, QUESTIONNAIRE 2, GLOBAL LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, 24 HOUR URINE, SEGMENTAL VIEW RV FREE WALL TIME VARIABLES - ECHO, FAMILY, SEGMENTAL VIEW RV FREE WALL - ECHO, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) TIME VARIABLES - ECHO, LIGHT/SUN EXPOSURE - YOUNG PHASE 3, BLEEDING ON PROBING INDEX IMPLANTS, ACTIWAVE CARDIO, FALLS, WELL BEING PO70 - Q2, ANTIBIOTICS - Q2, USE OF SEX HORMONES - Q2, OWN ILLNESS, SEGMENTAL VIEW 4CH (FOUR CHAMBER) TIME VARIABLES - ECHO, STATE OF HEALTH - Q2, INFECTIONS AND HOSPITAL STAY - YOUNG PHASE 3, ILLNESS - Q2, EXERCISE, HEADACHE - Q2, PERIODONTITIS BLEEDING ON PROBING IMPLANTS, INTAKE OF ENERGY PROVIDING NUTRIENTS, ENERGY PERCENTAGE, PHYSICAL EXAMINATION, USE OF ANTIBIOTICS THE LAST 24 HOURS - YOUNG PHASE 3, WEIGHT, EMPLOYMENT, HOME AND NEIGHBORHOOD - Q2, FECAL SAMPLES, FALLS - Q2, GENERAL STATE OF HEALTH - Q2, TRAVEL AND ILLNESS - Q2, SPIROMETRY, ANXIETY AND DEPRESSION - Q2, PERIODONTITIS POCKET DEPTH IMPLANTS, SYMPTOMS, ILLNESS AND WORRIES - Q2, MEDICATION AND DIETARY SUPPLEMENTS - Q2, AIRWAY INFECTION, GLOBAL VIEW 2CH (TWO CHAMBER) - ECHO, IDENTIFICATION, SALT/FAT, SMOKING, ANTIBIOTICS BOUGHT ABROAD - Q2, LABORATORY DATA, CAROTIS, EYE, USE OF HEALTH SERVICES - Q2, LABORATORY DATA, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, BONE MINERAL DENSITY, FOOD INTAKE SINGLE ITEMS, EMPLOYMENT (QU-1), FOLLOW-UP QUESTIONS ABOUT WORK IN COLD ENVIRONMENT - Q2, DENTAL MATERIALS ON SURFACE LEVEL, SEGMENTAL VIEW 2CH (TWO CHAMBER) - ECHO, HORMONAL CONTRACEPTIVES - Q2, LIGHT/SUN EXPOSURE, ALCOHOL, FAMILY AND FRIENDS, EDUCATION AND WORK, GENERAL INFORMATION, PHYSICAL ACTIVITY, WEIGHT - Q2, ABDOMEN - Q2, LIGHT/SUN EXPOSURE - Q2, INFERTILITY - Q2, MEMORY - Q2, DENTAL ADMIN, FOLLOW-UP QUESTIONS SURGERY LAST 3 YEARS - Q2, ROOT FILLED TOOTH, ECHO, OLINK INFLAMMATION PANEL, FAMILY (QU-1), EXERCISE AND PHYSICAL ACTIVITY, AIRWAY INFECTION AND SHORTNESS OF BREATH, COFFEE, PAIN SENSITIVTY TEST, OTHER COMPLAINTS (HSCL 10), USE OF HEALTH SERVICES, GENOTYPING DNA SALIVA, MUSCOLETAL AND SCELETAL PAIN - Q2, GENERAL INFORMATION, SYMPTOMS - Q2, MEDICINES - Q2, YOUR SLEEP/WAKE RHYTHM - Q2, NORMAL FLORA /INFECTION, PHYSICAL EXAMINATION, PERIODONTITIS BLEEDING ON PROBING NATURAL TEETH, LIGHT/SUN EXPOSURE, ILLNESS AND WORRIES - Q2, GENERAL INFORMATION, MEASUREMENTS ON DENTAL PANORAMIC RADIOGRAPHS, FAT, PERIODONTAL DIAGNOSIS AND SUM SCORE PROBING DEPTH, INTERVIEW, BLOOD SAMPLES, ILLNESS IN THE FAMILY, INFECTIONS AND HOSPITAL STAY, SLEEP - Q2, SKIN AND DERMATOLOGY - Q2, YOUR OWN HEALTH, MARRIAGE/PARTNER - Q2, COGNITIVE, FAMILY AND FRIENDS - Q2, FOLLOW-UP QUESTIONS PERSISTENT PAIN = 3 MONTHS - Q2, SPIROMETRY, URINARY SAMPLES, URINARY ANALYSIS, ECG, USE OF MEDICINE, PREGNANCY - Q2, TOTAL NUMBER OF TEETH, SPIROMETRY, USE OF MEDICINE, MUSCULO AND SKELETAL PAIN, URINARY SAMPLES, COGNITIVE, GENERAL INFORMATION, ECHO"@nb ;
+    dcat:keyword "CONTRACEPTION AND ESTROGEN - Q2, HOUSEHOLD - Q2, BODILY FUNCTIONS, AND SAFETY PO70, DEXA HIP, ECHO - CAUSE OF REFERRAL, BALANCE, GENERAL INFORMATION, DEXA TOTAL BODY ENHANCED ANALYSIS, COMPLIMENTARY AND ALTERNATIVE MEDICINE - Q2, CANCER - Q1, SCHOOLING - Q2, ALCOHOL - Q1, LABORATORY DATA, CAROTIS, WORK - Q2, MENSTRUATION STATUS AND USE OF ORAL CONTRACEPTIVES OR POSTMENOPAUSAL HORMONES, QUESTIONNAIRE 2, DEXA TOTAL BODY, USE OF ANALGESICS AND ANTIBIOTICS THE LAST 24 HOURS, DENTAL RESTORATION TREATMENT (DRT), CHANGE IN DIETARY HABITS AND OTHER HABIT - Q2, ILLNESSES AND INJURIES - Q2, DEXA Total body measurements with enhanced analysis, PHYSICAL ACTIVITY - Q1, PHYSICAL EXAMINATION, TOBACCO AND SNUFF - Q1, Graphical Index of Pain (GRIP) - Pain the last 4 weeks, SYMPTOMS - Q2, ACTIGRAPH, GLOBAL VIEW LAX (LONG LV AXIS) - ECHO, FOOD HABITS - Q2, PHYSICAL ACTIVITY - Q2, WOMEN ONLY, DEXA VFA, EDUCATION/WORK, EDUCATION AND INCOME - Q1, CHILDHOOD/YOUTH AND AFFILIATION, NECK, HEAD AND SHOULDER - Q2, PHYSICAL EXAMINATION, YOUR OWN HEALTH, PHYSICAL EXAMINATION, EMPLOYMENT - Q2, ECG, CHILDHOOD/YOUTH - Q2, WOMEN ONLY, ORAL HEALTH - Q2, NUTRIENTS, LABORATORY DATA, ECHO, ILLNESS IN THE FAMILY - Q2, USE OF MEDICINE - Q1, PHYSICAL EXAMINATION, LABORATORY DATA, PAINKILLERS AND ANTIINFLAMMATORIC MEDICINES - Q2, DENTAL EROSIONS, GENERAL INFORMATION, COGNITIVE, DEXA TOTAL BODY, BODY WEIGHT - Q2, HEALTH AND DISEASES, SEGMENTAL VIEW LAX (LONG LV AXIS) - ECHO, HEALTH AND ILLNESS - Q2, PAIN SENSITIVITY TEST, URINARY SAMPLES, MEDICINE INFORMATION - Q2, BACK AND JOINTS CONDITIONS - Q2, FOOD AND BEVERAGES, BLOOD SAMPLES, REACTION TO PROBLEMS - Q2, ECHO, HEALTH ANXIETY - Q1, CAROTIS, USE OF HEALTH SERVICES, PHYSICAL EXAMINATION, Chalder Fatigue Scale (CFS) + single global visual anlog scale rating of tiredness, USE OF HEALTH SERVICES - Q1, TRIALS, SKIN AND DERMATOLOGY - Q2, ILLNESS IN PARENT AND SIBLINGS - Q2, WORK, SOCIAL SECURITY PAYMENTS AND INCOME, USE OF HEALTH SERVICES - Q2, EYE, SOLVENTS - Q2, GLOBAL VIEW RV (RIGHT VENTRICLE) - ECHO, SLEEPLESSNESS/LOSS OF CONSCIOUSNESS - Q2, HAIR, DEXA HIP, ACTIGRAPH CARDIO ADMIN, COGNITIVE - TDS, SEGMENTAL VIEW 2CH (TWO CHAMBER) TIME VARIABLES - ECHO, USE OF MEDICINE, ILLNESS IN THE FAMILY, INTERVIEW, MENS HEALTH - Q2, DIET, SMOKING, MENSTRUATION - Q2, FAMILY AND FRIENDS, DENTAL HEALTH - Q1, BLOOD SAMPLES, CONTRACEPTION - Q2, EXERCISE, CERVICAL SMEAR TEST - Q2, DIET - Q1, OWN ILLNESS (QU-1), PRE-MENSTRUAL TENSION - Q2, USE OF ANTIBIOTICS THE LAST 24 HOURS, WORK, FOOD AND DIETARY SUPPLEMENTS - Q2, SMOKING (QU-1), SPECIFICATION OF SKIN DISEASE - Q2, PREGNANCY - Q2, WOMENS HEALTH - Q2, EXERCISE (QU-1), ALCOHOL - Q2, DENTAL CARIES SURFACE LEVEL, YOUR OWN DIET (QU-2), ALCOHOL - Q2, WOMEN ONLY - Q1, YOUR OWN ILLNESS - Q2, BLOOD SAMPLES, PHYSICAL EXAMINATION, ALCOHOL AND TOBACCO, PHYSICAL FUNCTION, FAMILY AND FRIENDS - Q1, SMOKING, MENTAL TRAUMA - Q2, ACTIGRAPH KINESOFT, NOISE - Q2, DRUG USE - Q2, OWN ILLNESS PAST OR PRESENT (QU-2), SYMPTOMS (QU-1), SEGMENTAL VIEW LAX (LONG LV AXIS) TIME VARIABLES - ECHO, SYMPTOMS (QU-1), FOOD NUTRIENTS FFQ ADMIN, WEIGHT REDUCTION PU70 - Q2, SMOKE AND SNUFF - Q2, SOCIAL CONDITIONS AND PSYCHOLOGICAL PRESSURE (\"STRESS\") (QU-2), INCONTINENCE - Q2, BLOOD SAMPLES, BLOOD SAMPLES, MEDICINES - Q2, DIET - Q2, ACTIGRAPH ACTILIFE, URINATING PROBLEMS - Q2, PERIODONTITIS POCKET DEPTH NATURAL TEETH, ILLNESS IN PARENTS AND SIBLINGS (QU-2), MEN ONLY - Q1, MOBILE TELEPHONE - Q2, BREAKFAST - Q2, PFAS measured by the Environmental Pollutant Laboratory UNN (Miljøgiftlab, ML), GLOBAL VIEW 4CH (FOUR CHAMBER) - ECHO, PHYSICAL EXAMINATION, INFECTIONS - Q2, CONTACT DUE TO OWN HEALTH OR ILLNESS - Q2, ALCOHOL PU70 - Q2, ILLNESS IN THE FAMILY - Q2, PHYSICAL EXAMINATION, TOBACCO - Q2, GENERAL INFORMATION, INTERVIEW, GENERAL INFORMATION, FAMILY (QU-1), ALCOHOL - Q2, ECG, WELL BEING - Q2, NUTRIENTS, BRAIN AND CIRCULATION, PHYSICAL ACTIVITY - Q2, GENERAL INFORMATION, USE OF HEALTH SERVICES - Q2, CHILDHOOD/YOUTH AND AFFILIATION - Q2, DEXA, WORRIES - Q2, SEGMENTAL VIEW 4CH (FOUR CHAMBER) - ECHO, BLEEDING ON PROBING INDEX NATURAL TEETH, BLOOD SAMPLES, BONE MINERAL DENSITY, WORK - Q2, OWN ILLNESS (QU-1), PAID AND UNPAID WORK - Q2, FAMILY AND FRIENDS - Q2, WOMEN ONLY - Q2, EXERCISE (QU-1), WEIGHT - Q2, EMPLOYMENT (QU-1), DENTAL CARIES, FRUIT - Q2, STATE OF HEALTH - Q2, CAROTID ULTRASOUND, ROOT CARIES SURFACE LEVEL, HOME - Q2, FOOD HABITS - Q2, FISH - Q2, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, SECONDARY CARIES SURFACE LEVEL, SMOKING (QU-1), PERIODONTITIS BONE LEVEL NATURAL TEETH, DINNER - Q2, URINARY INCONTINENCE PU70 - Q2, BODILY FUNCTIONS PO70 - Q2, WELL BEING - Q2, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, ALCOHOL - Q2, MENSTRUATION - Q2, FOOD INTAKE MAIN CATEGORIES, CHILDHOOD/YOUTH AND AFFILIATION - Q2, INFECTIONS AND HOSPITAL STAY, COFFEE, BALANCE, TRAINING AND ALCOHOL LAST WEEK, DENTAL IMPLANTS, FALL REGISTRATION, FOLLOW-UP EXAMINATION, SEXUAL HEALTH - Q2, HEALTH AND DISEASES - Q1, SIGHT, FOOD HABITS - Q2, QUESTIONNAIRE 2, GLOBAL LV SHORT AXIS (SAX LEFT VENTRICLE) - ECHO, 24 HOUR URINE, SEGMENTAL VIEW RV FREE WALL TIME VARIABLES - ECHO, FAMILY, SEGMENTAL VIEW RV FREE WALL - ECHO, SEGMENTAL VIEW LV SHORT AXIS (SAX LEFT VENTRICLE) TIME VARIABLES - ECHO, BLEEDING ON PROBING INDEX IMPLANTS, LIGHT/SUN EXPOSURE - YOUNG PHASE 3, ACTIWAVE CARDIO, WELL BEING PO70 - Q2, ANTIBIOTICS - Q2, FALLS, USE OF SEX HORMONES - Q2, OWN ILLNESS, SEGMENTAL VIEW 4CH (FOUR CHAMBER) TIME VARIABLES - ECHO, STATE OF HEALTH - Q2, INFECTIONS AND HOSPITAL STAY - YOUNG PHASE 3, ILLNESS - Q2, PERIODONTITIS BLEEDING ON PROBING IMPLANTS, HEADACHE - Q2, EXERCISE, INTAKE OF ENERGY PROVIDING NUTRIENTS, ENERGY PERCENTAGE, PHYSICAL EXAMINATION, USE OF ANTIBIOTICS THE LAST 24 HOURS - YOUNG PHASE 3, WEIGHT, FECAL SAMPLES, HOME AND NEIGHBORHOOD - Q2, EMPLOYMENT, FALLS - Q2, GENERAL STATE OF HEALTH - Q2, TRAVEL AND ILLNESS - Q2, SPIROMETRY, ANXIETY AND DEPRESSION - Q2, PERIODONTITIS POCKET DEPTH IMPLANTS, SYMPTOMS, ILLNESS AND WORRIES - Q2, MEDICATION AND DIETARY SUPPLEMENTS - Q2, AIRWAY INFECTION, GLOBAL VIEW 2CH (TWO CHAMBER) - ECHO, IDENTIFICATION, SALT/FAT, SMOKING, LABORATORY DATA, ANTIBIOTICS BOUGHT ABROAD - Q2, CAROTIS, EYE, USE OF HEALTH SERVICES - Q2, ULTRASOUND EXAMINATION OF ABDOMINAL ARTERIES, LABORATORY DATA, BONE MINERAL DENSITY, FOOD INTAKE SINGLE ITEMS, EMPLOYMENT (QU-1), FOLLOW-UP QUESTIONS ABOUT WORK IN COLD ENVIRONMENT - Q2, DENTAL MATERIALS ON SURFACE LEVEL, SEGMENTAL VIEW 2CH (TWO CHAMBER) - ECHO, LIGHT/SUN EXPOSURE, ALCOHOL, HORMONAL CONTRACEPTIVES - Q2, FAMILY AND FRIENDS, EDUCATION AND WORK, GENERAL INFORMATION, PHYSICAL ACTIVITY, ABDOMEN - Q2, WEIGHT - Q2, INFERTILITY - Q2, LIGHT/SUN EXPOSURE - Q2, MEMORY - Q2, DENTAL ADMIN, ROOT FILLED TOOTH, FOLLOW-UP QUESTIONS SURGERY LAST 3 YEARS - Q2, ECHO, OLINK INFLAMMATION PANEL, FAMILY (QU-1), EXERCISE AND PHYSICAL ACTIVITY, AIRWAY INFECTION AND SHORTNESS OF BREATH, COFFEE, PAIN SENSITIVTY TEST, USE OF HEALTH SERVICES, OTHER COMPLAINTS (HSCL 10), GENOTYPING DNA SALIVA, MUSCOLETAL AND SCELETAL PAIN - Q2, MEDICINES - Q2, SYMPTOMS - Q2, GENERAL INFORMATION, YOUR SLEEP/WAKE RHYTHM - Q2, NORMAL FLORA /INFECTION, PHYSICAL EXAMINATION, ILLNESS AND WORRIES - Q2, LIGHT/SUN EXPOSURE, PERIODONTITIS BLEEDING ON PROBING NATURAL TEETH, MEASUREMENTS ON DENTAL PANORAMIC RADIOGRAPHS, GENERAL INFORMATION, FAT, PERIODONTAL DIAGNOSIS AND SUM SCORE PROBING DEPTH, INTERVIEW, INFECTIONS AND HOSPITAL STAY, BLOOD SAMPLES, ILLNESS IN THE FAMILY, SLEEP - Q2, SKIN AND DERMATOLOGY - Q2, COGNITIVE, MARRIAGE/PARTNER - Q2, YOUR OWN HEALTH, FAMILY AND FRIENDS - Q2, FOLLOW-UP QUESTIONS PERSISTENT PAIN = 3 MONTHS - Q2, URINARY SAMPLES, URINARY ANALYSIS, SPIROMETRY, USE OF MEDICINE, ECG, PREGNANCY - Q2, TOTAL NUMBER OF TEETH, SPIROMETRY, USE OF MEDICINE, MUSCULO AND SKELETAL PAIN, URINARY SAMPLES, COGNITIVE, GENERAL INFORMATION, ECHO"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/universitetet-i-tromso/tromsoundersokelsen/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
@@ -3717,30 +3716,19 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
 """@en,
         "Nasjonalt kvalitetsregister for ryggkirurgi har som mål å sikre kvaliteten på rygg- og nakkekirurgi som utføres ved norske sykehus. Det enkelte sykehus får oversikt over egne resultater, og nasjonale, sammenslåtte registerdata vil være referansen for sykehusene. "@nb ;
     dct:identifier "https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/" ;
-    dct:issued "2006-01-01"^^xsd:date,
-        "2012-01-01"^^xsd:date ;
+    dct:issued "2006-01-01"^^xsd:date ;
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983974899> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
     dct:title "NORspine"@en,
-        "NorSpine"@en,
-        "Nasjonalt kvalitetsregister for ryggkirurgi (NKR), degenerativ nakke."@nb,
         "Nasjonalt kvalitetsregister for ryggkirurgi (NKR), degenerativ rygg."@nb ;
     dcat:contactPoint [ a ns1:Organization ;
-            ns1:hasURL <http://helsedata.no> ],
-        [ a ns1:Organization ;
             ns1:hasURL <http://helsedata.no> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/18000827104>,
-        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/28000821105>,
-        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/38000821107>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/38000827106>,
-        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/48000821102>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/58000827100>,
-        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000821101>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/68000827102>,
-        <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/78000821109>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr//distribution/78000827108> ;
-    dcat:keyword "Komplikasjoner, PID, Sykdommer, Personopplysninger, Tidligere operasjoner, Antibiotika, Smerter, Administrative data, Tobakk, EQ5D, Nytte/tilfredshet, Neck Disability Index (NDI), Europeisk myelopatiskår (EMS), Reoperasjon, Operasjonsindikasjon, Operasjonsmetode, EuroQol (EQ-5D-5L), Ranawat, Pasientopplysninger, Arbeidsstatus, BMI, Smertestillende, Peroperative komplikasjoner, Kraftsvikt, Geografi, ASA, Radiologi, Dødsfall, Dekomprimert nivå/side, Skjemadato"@nb,
-        "Tidligere_ryggoperasjon, Antibiotikaprofylakse, Helsetilstand_(EQ5D), Intert kommentar, Operasjonskategori, Smerte, Smertestillende medisin, Ventetid knyttet til ryggoperasjon, Demografi, Personopplysninger, Funksjonsskår_(Oswestry), Hovedoperatør_-_erfaring, Hovedoperatør-erfaring, Nytte og tilfredshet, Ferdigstill skjema, Operasjonsmetode, Alder, Høyde_og_vekt, Røyking_og_snusbruk, Andre_sykdommer, Nytte_og_tilfredshet, Sårdren, Høyde og vekt, Nevrologiske_symptomer, Tilgang, Nye sykdommer, Knivtid, Radiologi, Nivå_fusjonert, Symptomvarighet, Reoperasjon, Tidligere ryggoperasjon, Geografiske opplysninger, Tidligere_behandling, Ferdigstill_skjema, Røyking og snusbruk, Utskrivelse, Intert_kommentar, Arbeidsstatus, Peroperative_komplikasjoner, Helsetilstand (EQ5D), Nivå operert, Operasjonskode, Blodfortynnende medisin, Tidligere behandling, Sårdren, Ventetid_knyttet_til_ryggoperasjon, Funksjonsskår (Oswestry), Nye_sykdommer, Type bengraft, Geografiske_opplysninger, Fusjonskirurgi, Tromboseprofylakse, Smertestillende_medisin, Komplikasjoner, Andre sykdommer, intern_kommentar, Peroperative komplikasjoner, ASA-klassifisering, Nivå_operert, Type_bengraft, Dato, Pasientdata, Nivå fusjonert, Blodfortynnende_medisin, Nevrologiske symptomer, Kommentar, Nabosegmentstenose"@nb ;
+    dcat:keyword "Tidligere_ryggoperasjon, Antibiotikaprofylakse, Helsetilstand_(EQ5D), Intert kommentar, Operasjonskategori, Smerte, Smertestillende medisin, Ventetid knyttet til ryggoperasjon, Demografi, Personopplysninger, Funksjonsskår_(Oswestry), Hovedoperatør_-_erfaring, Hovedoperatør-erfaring, Nytte og tilfredshet, Ferdigstill skjema, Operasjonsmetode, Alder, Høyde_og_vekt, Røyking_og_snusbruk, Andre_sykdommer, Nytte_og_tilfredshet, Sårdren, Høyde og vekt, Nevrologiske_symptomer, Tilgang, Nye sykdommer, Knivtid, Radiologi, Nivå_fusjonert, Symptomvarighet, Reoperasjon, Tidligere ryggoperasjon, Geografiske opplysninger, Tidligere_behandling, Ferdigstill_skjema, Røyking og snusbruk, Utskrivelse, Intert_kommentar, Arbeidsstatus, Peroperative_komplikasjoner, Helsetilstand (EQ5D), Nivå operert, Operasjonskode, Blodfortynnende medisin, Tidligere behandling, Sårdren, Ventetid_knyttet_til_ryggoperasjon, Funksjonsskår (Oswestry), Nye_sykdommer, Type bengraft, Geografiske_opplysninger, Fusjonskirurgi, Tromboseprofylakse, Smertestillende_medisin, Komplikasjoner, Andre sykdommer, intern_kommentar, Peroperative komplikasjoner, ASA-klassifisering, Nivå_operert, Type_bengraft, Dato, Pasientdata, Nivå fusjonert, Blodfortynnende_medisin, Nevrologiske symptomer, Kommentar, Nabosegmentstenose"@nb ;
     dcat:landingPage <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
@@ -3797,6 +3785,29 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
+<https://www.helse-bergen.no/norsk-intensivregister-nir/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description """Norsk intensivregister er benevnelsen på den delen av Norsk intensiv- og kriseregister som omhandler intensivpasienter. Norsk intensivregister bygger på opplysninger om pasienter som blir behandlet ved norske intensivenheter.
+"""@nb ;
+    dct:identifier "https://www.helse-bergen.no/norsk-intensivregister-nir/" ;
+    dct:issued "1998-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations//983974724> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "MRS Norsk Intensivregister (NIR)"@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <http://helsedata.no> ] ;
+    dcat:distribution <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/18000885106>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/28000885102>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/48000885105>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/58000885107>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/78000885101>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/88000885103> ;
+    dcat:keyword "Health, Health registry, Health data"@en,
+        "Helse, Helseregister, Helsedata"@nb ;
+    dcat:landingPage <https://www.helse-bergen.no/norsk-intensivregister-nir/> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
 <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/hodepineregisteret/> a dcat:Dataset ;
     dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
     dct:description "Hodepineregisteret er et nasjonalt kvalitetsregister for pasienter med ensidig hodepine ledsaget av autonome symptomer. "@nb ;
@@ -3839,6 +3850,27 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
     dcat:keyword "Health, Health registry, Health data"@en,
         "Helse, Helseregister, Helsedata"@nb ;
     dcat:landingPage <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/norskalsregister> ;
+    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
+        <https://psi.norge.no/los/tema/helse-og-omsorg> .
+
+<https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi/> a dcat:Dataset ;
+    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> ;
+    dct:description "Nasjonalt kvalitetsregister for ryggkirurgi har som mål å sikre kvaliteten på rygg- og nakkekirurgi som utføres ved norske sykehus. Det enkelte sykehus får oversikt over egne resultater, og nasjonale, sammenslåtte registerdata vil være referansen for sykehusene. "@nb ;
+    dct:identifier "https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi/" ;
+    dct:issued "2012-01-01"^^xsd:date ;
+    dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983974899> ;
+    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
+    dct:title "NorSpine"@en,
+        "Nasjonalt kvalitetsregister for ryggkirurgi (NKR), degenerativ nakke."@nb ;
+    dcat:contactPoint [ a ns1:Organization ;
+            ns1:hasURL <http://helsedata.no> ] ;
+    dcat:distribution <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/28000821105>,
+        <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/38000821107>,
+        <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/48000821102>,
+        <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/68000821101>,
+        <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi//distribution/78000821109> ;
+    dcat:keyword "Komplikasjoner, PID, Sykdommer, Personopplysninger, Tidligere operasjoner, Antibiotika, Smerter, Administrative data, Tobakk, EQ5D, Nytte/tilfredshet, Neck Disability Index (NDI), Europeisk myelopatiskår (EMS), Reoperasjon, Operasjonsindikasjon, Operasjonsmetode, EuroQol (EQ-5D-5L), Ranawat, Pasientopplysninger, Arbeidsstatus, BMI, Smertestillende, Peroperative komplikasjoner, Kraftsvikt, Geografi, ASA, Radiologi, Dødsfall, Dekomprimert nivå/side, Skjemadato"@nb ;
+    dcat:landingPage <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
 
@@ -4045,6 +4077,7 @@ Et viktig verktøy for å fremme kvaliteten i diabetesbehandlingen hos barn og u
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-barnehofteregister/>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-hoftebruddregister/>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-kvalitetsregister-for-smertebehandling-smertereg/>,
+        <https://helsedata.no/no/forvaltere/helse-bergen-hf/nasjonalt-register-for-leddproteser/>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-intensiv--og-pandemiregister-nipar/>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-kvalitetsregister-for-artrittsykdommer-norartritt/>,
         <https://helsedata.no/no/forvaltere/helse-bergen-hf/norsk-porfyriregister/>,
@@ -4068,7 +4101,9 @@ Et viktig verktøy for å fremme kvaliteten i diabetesbehandlingen hos barn og u
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/nasjonalt-kvalitetsregister-for-ryggkirurgi-nkr/>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/norgast/>,
         <https://helsedata.no/no/forvaltere/universitetssykehuset-nord-norge-hf/norsk-vaskulittregister--biobank-norvas/>,
+        <https://www.helse-bergen.no/norsk-intensivregister-nir/>,
         <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/hodepineregisteret/>,
-        <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/norskalsregister> ;
+        <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/norskalsregister>,
+        <https://www.unn.no/fag-og-forskning/medisinske-kvalitetsregistre/nasjonalt-kvalitetsregister-for-ryggkirurgi/> ;
     dcat:theme <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
         <https://psi.norge.no/los/tema/helse-og-omsorg> .
