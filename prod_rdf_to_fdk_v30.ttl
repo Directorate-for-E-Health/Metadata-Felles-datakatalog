@@ -2570,7 +2570,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Spørreskjema om pårørendes tilfredshet med behandlingen"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/28000885102> a dcat:Distribution ;
@@ -2579,7 +2579,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "EQ5D"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/48000885105> a dcat:Distribution ;
@@ -2588,7 +2588,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "B2_Beredskapsskjema"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/58000885107> a dcat:Distribution ;
@@ -2598,7 +2598,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Influensaregistrering"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/78000885101> a dcat:Distribution ;
@@ -2608,7 +2608,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Intensivopphold"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/88000885103> a dcat:Distribution ;
@@ -2618,7 +2618,7 @@ The survey collected self-administered questionnaire data, clinical measurements
     dct:rights <http://helsedata.no> ;
     dct:title "Beredskap"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/MRS_Norsk_Intensivregister_(NIR).xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_Intensivregister_(NIR).xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://www.stolav.no/fag-og-forskning/medisinske-kvalitetsregistre/hodepineregisteret//distribution/18000800103> a dcat:Distribution ;
@@ -3793,7 +3793,7 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
     dct:issued "1998-01-01"^^xsd:date ;
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations//983974724> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    dct:title "MRS Norsk Intensivregister (NIR)"@nb ;
+    dct:title "Norsk Intensivregister (NIR)"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasURL <http://helsedata.no> ] ;
     dcat:distribution <https://www.helse-bergen.no/norsk-intensivregister-nir//distribution/18000885106>,
