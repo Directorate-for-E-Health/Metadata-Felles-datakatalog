@@ -408,7 +408,7 @@ The registry consists of a base registry and several quality registries. The bas
     dct:rights <http://helsedata.no> ;
     dct:title "Alle variabler"@nb ;
     dcat:accessURL <http://helsedata.no> ;
-    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_nydtmedisinsk_kvalitetsregister.xlsx> ;
+    dcat:downloadURL <https://raw.githubusercontent.com/Directorate-for-E-Health/Metadata-Felles-datakatalog/main/variablelists/Norsk_nyfødtmedisinsk_kvalitetsregister.xlsx> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
 
 <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-register-for-invasiv-kardiologi-noric//distribution/108000861105> a dcat:Distribution ;
@@ -3881,7 +3881,7 @@ Leader of The Tromsø Study Sameline Grimsgaard +47 77 64 92 85/Adviser Kristin 
     dct:issued "2004-01-01"^^xsd:date ;
     dct:publisher <https://organization-catalogue.fellesdatakatalog.digdir.no/organizations/983744516> ;
     dct:spatial <http://publications.europa.eu/resource/authority/country/NOR> ;
-    dct:title "Norsk nydtmedisinsk kvalitetsregister"@nb ;
+    dct:title "Norsk nyfødtmedisinsk kvalitetsregister"@nb ;
     dcat:contactPoint [ a ns1:Organization ;
             ns1:hasURL <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-nyfodtmedisinsk-kvalitetsregister/> ] ;
     dcat:distribution <https://helsedata.no/no/forvaltere/folkehelseinstituttet/norsk-nyfodtmedisinsk-kvalitetsregister//distribution/18000902108> ;
